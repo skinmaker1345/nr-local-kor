@@ -469,52 +469,52 @@ msgstr "Arrival By orders cannot appear one after the other"
 #v1.5.31
 msgctxt "order_invalid_line"
 msgid "Invalid line"
-msgstr "Invalid line"
+msgstr "유효하지 않은 노선"
 
 #v1.5.31
 msgctxt "path2_arrive"
 msgid "Arrive at {}"
-msgstr "Arrive at {}"
+msgstr "{}에 도착"
 
 #v1.5.31
 msgctxt "path2_ride"
 msgid "Ride {0} for {1}"
-msgstr "Ride {0} for {1}"
+msgstr "{0}를 {1}에 탑승"
 
 #v1.5.31
 msgctxt "path2_take2"
 msgid " Up to {0} [{1}]"
-msgstr " Up to {0} [{1}]"
+msgstr " 최대 {0} [{1}]"
 
 #v1.5.31
 msgctxt "path2_wait_at"
 msgid " Wait {0} at {1}"
-msgstr " Wait {0} at {1}"
+msgstr " {1}에서 {0} 대기"
 
 #v1.5.31
 msgctxt "path2_wait_line2"
 msgid " For the departure of {0} [{1}]"
-msgstr " For the departure of {0} [{1}]"
+msgstr " {0}의 출발을 기다리는 중 [{1}]"
 
 #v1.5.31
 msgctxt "path_not_found_trip"
 msgid "Path not found between {0} and {1}"
-msgstr "Path not found between {0} and {1}"
+msgstr "{0}와 {1} 사이의 경로를 찾을 수 없음"
 
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "Stale data detected, ignoring step"
+msgstr "구형 데이터가 감지되어 단계를 건너뜁니다"
 
 #v1.5.31
 msgctxt "pax_new_time"
 msgid "New"
-msgstr "New"
+msgstr "새로운"
 
 #v1.5.31
 msgctxt "paxlist_groupby_dominating"
 msgid "Show dominating trips"
-msgstr "Show dominating trips"
+msgstr "주로 이동하는 경로 표시"
 
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
@@ -534,7 +534,7 @@ msgstr "선택"
 #v1.5.31
 msgctxt "run_panel_pad_stop"
 msgid "Train will wait an extra {} in this stop to start the next run at its scheduled time"
-msgstr "Train will wait an extra {} in this stop to start the next run at its scheduled time"
+msgstr "열차가 이 역에서 추가적으로 {} 만큼을 기다린 후 다음 계획에 맞추어 운행합니다."
 
 #v1.5.31
 msgctxt "run_panel_start"
@@ -699,12 +699,12 @@ msgstr "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto 
 #v1.5.31
 msgctxt "train_group_migrate_but"
 msgid "Set as copiers"
-msgstr "Set as copiers"
+msgstr "원본으로 지정"
 
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "Migrate auto run trains"
+msgstr "자동 운행 열차 마이그레이션"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
@@ -714,67 +714,67 @@ msgstr "Auto trains of:"
 #v1.5.31
 msgctxt "train_group_mode"
 msgid "Shift mode:"
-msgstr "Shift mode:"
+msgstr "변경 모드:"
 
 #v1.5.31
 msgctxt "train_group_mode_fixed"
 msgid "Fixed interval"
-msgstr "Fixed interval"
+msgstr "고정 간격"
 
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "Evenly over line duration"
+msgstr "노선 운행 기간으로 그룹화"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
 msgid "Evenly over manual duration"
-msgstr "Evenly over manual duration"
+msgstr "임의 기간으로 그룹화"
 
 #v1.5.31
 msgctxt "train_group_n_name"
 msgid "Trains:"
-msgstr "Trains:"
+msgstr "열차:"
 
 #v1.5.31
 msgctxt "train_group_n_value"
 msgid "{0} copying, {1} managed"
-msgstr "{0} copying, {1} managed"
+msgstr "{0} 복사중, {1} 관리됨"
 
 #v1.5.31
 msgctxt "train_group_shift_matching"
 msgid "Shift orders:"
-msgstr "Shift orders:"
+msgstr "명령 바꾸기:"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_all"
 msgid "All orders"
-msgstr "All orders"
+msgstr "모든 명령"
 
 #v1.5.31
 msgctxt "train_group_shift_matching_only_pax_service"
 msgid "Only pax service orders"
-msgstr "Only pax service orders"
+msgstr "여객 관련 명령만"
 
 #v1.5.31
 msgctxt "train_info_status_waiting_spawn"
 msgid "Waiting for scheduled spawn"
-msgstr "Waiting for scheduled spawn"
+msgstr "예정된 생성 기다리는 중"
 
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
 msgid "Warnings"
-msgstr "Warnings"
+msgstr "경고"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
 msgid "All trains"
-msgstr "All trains"
+msgstr "모든 차량"
 
 #v1.5.31
 msgctxt "train_list_filter_all_short"
 msgid "All"
-msgstr "All"
+msgstr "전체"
 
 #v1.5.31
 msgctxt "train_list_filter_flat"
@@ -784,42 +784,42 @@ msgstr "Flat listing"
 #v1.5.31
 msgctxt "train_list_filter_manual"
 msgid "Only with manual orders"
-msgstr "Only with manual orders"
+msgstr "수동 명령들만"
 
 #v1.5.31
 msgctxt "train_list_filter_manual_short"
 msgid "Manual orders"
-msgstr "Manual orders"
+msgstr "수동 명령"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed"
 msgid "Only mothballed"
-msgstr "Only mothballed"
+msgstr "보관된 차량만"
 
 #v1.5.31
 msgctxt "train_list_filter_mothballed_short"
 msgid "Mothballed"
-msgstr "Mothballed"
+msgstr "보관됨"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy"
 msgid "Auto copy from:"
-msgstr "Auto copy from:"
+msgstr "다음에서 자동 복사:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode"
 msgid "Shift:"
-msgstr "Shift:"
+msgstr "이동:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "Managed by parent group"
+msgstr "부모 그룹에 의해 관리됨"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
 msgid "Shift by manual amount"
-msgstr "Shift by manual amount"
+msgstr "직접 입력해 변경하기"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_shirt"
