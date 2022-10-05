@@ -4,12 +4,12 @@
 #v1.5.31
 msgctxt "accounting_events_post"
 msgid "events"
-msgstr "events"
+msgstr "이벤트"
 
 #v1.5.31
 msgctxt "accounting_pax_found_train_too_full"
 msgid "Boarding failed: full train"
-msgstr "Boarding failed: full train"
+msgstr "탑승 실패: 만원 열차"
 
 #v1.5.31
 msgctxt "auto_platform_scroll"
@@ -24,17 +24,17 @@ msgstr "Platform keep straight:"
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
 msgid "Disable"
-msgstr "Disable"
+msgstr "비활성화"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_enable"
 msgid "Enable"
-msgstr "Enable"
+msgstr "활성화"
 
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "Station label:"
+msgstr "역 고도:"
 
 #v1.5.31
 msgctxt "company_tab_loans"
@@ -44,12 +44,12 @@ msgstr "대출"
 #v1.5.31
 msgctxt "company_tab_options"
 msgid "Options"
-msgstr "Options"
+msgstr "설정"
 
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "Confirm line intervention"
+msgstr "노선 개입 확인"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
@@ -59,7 +59,7 @@ msgstr "Do you want to issue an intervention to all the trains currently running
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "Custom max speed:"
+msgstr "커스텀 최고 속도:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
@@ -69,12 +69,12 @@ msgstr "Values over physical max track speed will be ignored. Set to 0 to disabl
 #v1.5.31
 msgctxt "constraint_offset2"
 msgid "Parallel offset:"
-msgstr "Parallel offset:"
+msgstr "평행 오프셋:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "Parallel constraint:"
+msgstr "평행 고정:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
@@ -114,12 +114,12 @@ msgstr "The manual interval exceeds the duration of the line. It will be ignored
 #v1.5.31
 msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
-msgstr "Speed: {:.1f}x"
+msgstr "속도: {:.1f}x"
 
 #v1.5.31
 msgctxt "effective_game_speed_handicap"
 msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "Speed:: {0:.1f}x\nHandicap: {1}%"
+msgstr "속:: {0:.1f}x\n핸디캡: {1}%"
 
 #v1.5.31
 msgctxt "info_table_pax_waiting"
@@ -149,12 +149,12 @@ msgstr "Intervene line"
 #v1.5.31
 msgctxt "line_editor_tip_zoom_pick"
 msgid "Zoom in to pick"
-msgstr "Zoom in to pick"
+msgstr "선택하려면 확대하세요"
 
 #v1.5.31
 msgctxt "line_timetable"
 msgid "Timetable"
-msgstr "Timetable"
+msgstr "시간표"
 
 #v1.5.31
 msgctxt "line_to2"
@@ -164,32 +164,32 @@ msgstr "{} [{}] to"
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "Secondary platforms:"
+msgstr "보조 플랫폼:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
-msgstr "(Total: {})"
+msgstr "(총합: {})"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "Secondary plat. signal:"
+msgstr "보조 플랫폼 신호:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
 msgid "Signal {}"
-msgstr "Signal {}"
+msgstr "신호 {}"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto"
 msgid "Auto interval:"
-msgstr "Auto interval:"
+msgstr "자동 간격:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "Add one or more auto run trains"
+msgstr "하나 또는 여러개의 자동 운행 열차를 추가하세요"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
@@ -204,17 +204,17 @@ msgstr "Evenly spaced to fit one line loop"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "On a fixed, manual interval"
+msgstr "고정된 수동 기간 사용중"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
 msgid "Auto run line"
-msgstr "Auto run line"
+msgstr "노선 자동 운행"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
 msgid "Custom duration:"
-msgstr "Custom duration:"
+msgstr "수동 기간:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
@@ -224,7 +224,7 @@ msgstr "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stop
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "Custom period:"
+msgstr "수동 주기:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
@@ -234,47 +234,47 @@ msgstr "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this l
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "Custom duration wait in this stop"
+msgstr "수동 당역 대기시간"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "수동"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
 msgid "Fit a period"
-msgstr "Fit a period"
+msgstr "주기에 맞춤"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr "Line duration:"
+msgstr "노선 길이:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode_minimal"
 msgid "Minimal"
-msgstr "Minimal"
+msgstr "최소"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period"
 msgid "Period:"
-msgstr "Period:"
+msgstr "간격:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "수동"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_day"
 msgid "Day"
-msgstr "Day"
+msgstr "하루"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "Week"
+msgstr "일주일"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
@@ -349,7 +349,7 @@ msgstr "Shift up all line stops"
 #v1.5.31
 msgctxt "lineeditor_tz"
 msgid "Time zone:"
-msgstr "Time zone:"
+msgstr "시간대:"
 
 #v1.5.31
 msgctxt "lineeditor_tz_desc"
@@ -364,12 +364,12 @@ msgstr "First stop station time zone"
 #v1.5.31
 msgctxt "lineeditor_tz_line"
 msgid "Line"
-msgstr "Line"
+msgstr "노선"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
 msgid "Stop behavior:"
-msgstr "Stop behavior:"
+msgstr "동작 그만하기:"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
@@ -379,22 +379,22 @@ msgstr "Black hole main, wait secondary"
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
 msgid "Wait on platforms"
-msgstr "Wait on platforms"
+msgstr "플랫폼에서 대기"
 
 #v1.5.31
 msgctxt "loader_timetables_init"
 msgid "Initializing timetables"
-msgstr "Initializing timetables"
+msgstr "시간표 생성중"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
 msgid "Delete all lines"
-msgstr "Delete all lines"
+msgstr "모든 노선 삭제"
 
 #v1.5.31
 msgctxt "mass_del_lines_desc"
 msgid "Do you want to delete all lines?"
-msgstr "Do you want to delete all lines?"
+msgstr "모든 노선을 삭제하시겠습니까?"
 
 #v1.5.31
 msgctxt "mass_del_lines_title"
@@ -409,17 +409,17 @@ msgstr "Delete all"
 #v1.5.31
 msgctxt "mass_del_trains_but"
 msgid "Sell all trains"
-msgstr "Sell all trains"
+msgstr "모든 열차 판매"
 
 #v1.5.31
 msgctxt "mass_del_trains_desc"
 msgid "Do you want to sell all trains?"
-msgstr "Do you want to sell all trains?"
+msgstr "모든 열차를 판매하시겠습니까?"
 
 #v1.5.31
 msgctxt "mass_del_trains_title"
 msgid "Sell all trains"
-msgstr "Sell all trains"
+msgstr "모든 열차 판매"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
@@ -539,7 +539,7 @@ msgstr "열차가 이 역에서 추가적으로 {} 만큼을 기다린 후 다�
 #v1.5.31
 msgctxt "run_panel_start"
 msgid "{0}: Start path to {1}"
-msgstr "{0}: Start path to {1}"
+msgstr "{0}: {1}(으)로 경로 시작"
 
 #v1.5.31
 msgctxt "run_panel_train"
@@ -559,7 +559,7 @@ msgstr "{0} Run {1}\n{2}"
 #v1.5.31
 msgctxt "sell_all_trains_yes"
 msgid "Sell all"
-msgstr "Sell all"
+msgstr "모두 팔기"
 
 #v1.5.31
 msgctxt "stale_run"
@@ -574,32 +574,32 @@ msgstr "The orders for this train have changed. At the end of its current run it
 #v1.5.31
 msgctxt "station_label_mode"
 msgid "Label:"
-msgstr "Label:"
+msgstr "라벨:"
 
 #v1.5.31
 msgctxt "station_label_mode_dot_only"
 msgid "Dot only"
-msgstr "Dot only"
+msgstr "정점만"
 
 #v1.5.31
 msgctxt "station_label_mode_full"
 msgid "Full"
-msgstr "Full"
+msgstr "전체"
 
 #v1.5.31
 msgctxt "station_label_mode_icon_only"
 msgid "Icon only"
-msgstr "Icon only"
+msgstr "아이콘만"
 
 #v1.5.31
 msgctxt "station_label_mode_name_only"
 msgid "Name only"
-msgstr "Name only"
+msgstr "이름만"
 
 #v1.5.31
 msgctxt "station_label_mode_name_pop"
 msgid "Name and pax"
-msgstr "Name and pax"
+msgstr "이름과 승객"
 
 #v1.5.31
 msgctxt "stop_leg_full2"
@@ -609,27 +609,27 @@ msgstr "{0}m at {1} km/h avg"
 #v1.5.31
 msgctxt "timetable_1day"
 msgid "One day"
-msgstr "One day"
+msgstr "하루"
 
 #v1.5.31
 msgctxt "timetable_3days"
 msgid "Three days"
-msgstr "Three days"
+msgstr "사흘"
 
 #v1.5.31
 msgctxt "timetable_heuristic_building_tp"
 msgid "Refreshing pathfind heuristic..."
-msgstr "Refreshing pathfind heuristic..."
+msgstr "경로 재탐색 중..."
 
 #v1.5.31
 msgctxt "timetable_rebuild_tp"
 msgid "Rebuilding timetables..."
-msgstr "Rebuilding timetables..."
+msgstr "시간표 재구성 중..."
 
 #v1.5.31
 msgctxt "timetable_week"
 msgid "Week"
-msgstr "Week"
+msgstr "주"
 
 #v1.5.31
 msgctxt "too_many_collections"
