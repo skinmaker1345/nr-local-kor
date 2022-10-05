@@ -7,4 +7,3 @@
 ![image](https://user-images.githubusercontent.com/45376950/194097700-776ba449-75dc-42a9-a4e9-dff8a2e448bb.png)
 ![image](https://user-images.githubusercontent.com/45376950/194098393-819c1b3e-4d92-4256-be95-a6e84513d9c4.png)  
 - 편집이 끝나셨다면, 최하단 ``Propose changes``버튼을 클릭하여 직접 수정하신 내용을 제안하실 수 있습니다.
-![image](https://user-images.githubusercontent.com/45376950/194098510-20bf5cf4-b90c-447c-89d7-3091f8d89cb5.png)
