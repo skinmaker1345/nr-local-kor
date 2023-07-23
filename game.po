@@ -2379,7 +2379,7 @@ msgstr "게임 재시작 필요"
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "게임 공유 중"
+msgstr "게임 공유"
 
 #v1.2.29
 msgctxt "game_speed_down"
@@ -4504,7 +4504,7 @@ msgstr "내 모음집"
 #v1.7.15
 msgctxt "my_shared_games"
 msgid "My shared games"
-msgstr "My shared games"
+msgstr "공유한 내 게임"
 
 #v1.3.13
 msgctxt "name"
