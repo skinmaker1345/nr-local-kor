@@ -644,12 +644,12 @@ msgstr "운영비"
 #v1.7.15
 msgctxt "accounting_trains_running_distance"
 msgid "Running distance"
-msgstr "Running distance"
+msgstr "운행 거리"
 
 #v1.7.15
 msgctxt "accounting_trains_running_time"
 msgid "Running time"
-msgstr "Running time"
+msgstr "운행 시간"
 
 #v1.1.31
 msgctxt "accounting_trains_sales"
@@ -659,12 +659,12 @@ msgstr "열차 판매"
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr "Signal wait"
+msgstr "신호 대기"
 
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr "Scheduled stop"
+msgstr "정차 시간"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
@@ -804,12 +804,12 @@ msgstr "뒤로"
 #v1.7.15
 msgctxt "back_to_main_menu"
 msgid "Back to main menu"
-msgstr "Back to main menu"
+msgstr "메인 메뉴로 돌아가기"
 
 #v1.1.31
 msgctxt "bad_angle"
 msgid "bad angle"
-msgstr "나쁜 각도"
+msgstr "올바르지 않은 각도"
 
 #v1.1.72
 msgctxt "balance"
@@ -859,7 +859,7 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "Load saved game {}?"
+msgstr "저장된 게임 {}을(를) 불러오시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
@@ -874,7 +874,7 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "Quit current game and load saved game {}?"
+msgstr "이 게임을 끝내고 저장된 게임 {}을(를) 불러오시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
@@ -909,7 +909,7 @@ msgstr "선택"
 #v1.7.15
 msgctxt "browse_shared_games"
 msgid "Browse shared games"
-msgstr "Browse shared games"
+msgstr "공유된 게임 확인하기"
 
 #v1.1.31
 msgctxt "build"
@@ -1109,12 +1109,12 @@ msgstr "종료"
 #v1.7.15
 msgctxt "cancel_replace"
 msgid "Cancel replacement"
-msgstr "Cancel replacement"
+msgstr "바꾸기 취소"
 
 #v1.7.15
 msgctxt "cars_uncategorized"
 msgid "Uncategorized"
-msgstr "Uncategorized"
+msgstr "미분류"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
@@ -1124,7 +1124,7 @@ msgstr "궤간"
 #v1.7.15
 msgctxt "cat_train_interior"
 msgid "Interior"
-msgstr "Interior"
+msgstr "내부"
 
 #v1.3.13
 msgctxt "cat_train_misc"
@@ -1294,12 +1294,12 @@ msgstr "무제한 예산으로 전환하면 되돌릴 수 없습니다. 확실�
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr "Confirm switching to unrestricted coupling"
+msgstr "차간 결합 제한 해제"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "Switching to unrestricted coupling cannot be undone. Are you sure?"
+msgstr "차간 결합 제한을 해제하면 되돌릴 수 없습니다. 계속하시겠습니까?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
@@ -1369,7 +1369,7 @@ msgstr "모체 선택"
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "Remove constraint"
+msgstr "고정 제거"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
@@ -1384,7 +1384,7 @@ msgstr "삭제"
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "Select parent track"
+msgstr "부모 선로 선택"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1424,12 +1424,12 @@ msgstr "회전:"
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "Rotate track end:"
+msgstr "선로 끝단 회전:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
 msgid "Translate:"
-msgstr "Translate:"
+msgstr "변형:"
 
 #v1.5.41
 msgctxt "constraints_bulk_editor"
@@ -1664,7 +1664,7 @@ msgstr "선로를 추가하거나 새 선로 만들기"
 #v1.8.24
 msgctxt "editor_branch_append"
 msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "Start or merge branches when pointing on top of existing tracks"
+msgstr "이미 있는 선로 위를 가리키는 경우 분기 시작 혹은 병합"
 
 #v1.4.15
 msgctxt "editor_building"
@@ -1694,7 +1694,7 @@ msgstr "제어점을 클릭하여 건물의 모체로 만듭니다."
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc to cancel picking"
+msgstr "Esc를 눌러 선택 취소"
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
@@ -1719,7 +1719,7 @@ msgstr "Promote tracks into station platforms"
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr "Split tracks"
+msgstr "선로 분리"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
@@ -1734,7 +1734,7 @@ msgstr "Click signal controls to set a signal as the secondary path signal for t
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
-msgstr "Create stations"
+msgstr "역 생성"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1774,12 +1774,12 @@ msgstr "새 선로 분기를 보려면 기존 선로 근처에 마우스 커서�
 #v1.2.22
 msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
-msgstr "Alt to toggle the parallel track side"
+msgstr "평행 선로와 전환하려면 Alt키를 누르세요."
 
 #v1.2.29
 msgctxt "editor_tip_cont_ctrl"
 msgid "Hold Ctrl to line up track with its previous track segment."
-msgstr "Hold Ctrl to line up track with its previous track segment."
+msgstr "이전 선로와 맞추려면 Ctrl키를 누르고 있으세요."
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
@@ -1789,12 +1789,12 @@ msgstr "취소하려면 ESC키를 누르세요."
 #v1.8.24
 msgctxt "editor_tip_cont_left"
 msgid "Left click to create a new track segment."
-msgstr "Left click to create a new track segment."
+msgstr "새로 선로를 만드려면 좌클릭하세요."
 
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr "Hold Shift to keep creating more segments."
+msgstr "이어서 선로를 만드려면 시프트를 누르고 있으세ㅇ."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
@@ -1814,7 +1814,7 @@ msgstr "선택한 트랙을 삭제하려면 DEL키를 누르세요."
 #v1.6.13
 msgctxt "editor_tip_create_del_inline"
 msgid "Shift-Del to delete selected inner tracks"
-msgstr "Shift-Del to delete selected inner tracks"
+msgstr "선택한 안쪽 선로를 삭제하려면 Shift-Del키를 누르세요."
 
 #v1.4.15
 msgctxt "editor_tip_create_drag"
@@ -1864,7 +1864,7 @@ msgstr "선택 포인트를 추가하거나 제거하려면 SHIFT를 누른 상�
 #v1.5.41
 msgctxt "editor_tip_dupe"
 msgid "Ctrl-B to duplicate selected objects in-place"
-msgstr "Ctrl-B to duplicate selected objects in-place"
+msgstr "선택한 물체를 그 자리에 복제하려면 Ctrl-B키를 누르세요."
 
 #v1.1.31
 msgctxt "editor_tip_link_esc"
@@ -1949,12 +1949,12 @@ msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "Alt to create symmetrical buildings on both sides of the track"
+msgstr "선로 양 옆으로 대칭의 건물을 만드려면 Alt키를 누르세요."
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
 msgid "Click near tracks to create new attached buildings"
-msgstr "Click near tracks to create new attached buildings"
+msgstr "선로에 부착되는 건물을 만드려면 주변 선로를 클릭하세요."
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
@@ -1964,12 +1964,12 @@ msgstr "Shift to create buildings in all children when starting in a parent trac
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
 msgid "Esc to go to edit mode"
-msgstr "Esc to go to edit mode"
+msgstr "편집 모드로 진입하려면 Esc키를 누르세요"
 
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
 msgid "Click on tracks to attach new parallel tracks"
-msgstr "Click on tracks to attach new parallel tracks"
+msgstr "평행 선로를 추가하려면 선로를 클릭하세요"
 
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
@@ -1984,7 +1984,7 @@ msgstr "Click on tracks to promote them and their nearest sibling into a station
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr "Click on tracks to split them at the point of click"
+msgstr "선로를 분리하려면 해당 지점을 클릭하세요"
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
@@ -2089,12 +2089,12 @@ msgstr "노선에 최소 한 개의 열차를 투입하고 일정을 할당하�
 #v1.5.31
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
-msgstr "Pax will leave and won't board trains running this line."
+msgstr "이 노선에 있는 승객들이 모두 내리고 더 이상 열차에 탑승하지 않게 됩니다."
 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
+msgstr "사용자 지정 주기가 노선의 기간보다 깁니다. 제대로 동작하지 않거나 무시될 수 있습니다.\n사용자 지정 노선 기간을 주기 이상으로 올려 주세요."
 
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
@@ -2114,7 +2114,7 @@ msgstr "속력: {0:.1f}x\n핸디캡: {1}%"
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
+msgstr "한 플랫폼에서 다른 플랫폼으로 이동하는 데 걸리는 시간, 정차 시간을 고려하지 않음"
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -2199,7 +2199,7 @@ msgstr "인게임 날짜:"
 #v1.7.15
 msgctxt "file_picker_file_modified"
 msgid "Modified:"
-msgstr "Modified:"
+msgstr "수정됨:"
 
 #v1.1.37
 msgctxt "file_picker_file_name"
@@ -2209,32 +2209,32 @@ msgstr "파일 이름:"
 #v1.7.15
 msgctxt "file_picker_file_size"
 msgid "Size:"
-msgstr "Size:"
+msgstr "크기:"
 
 #v1.7.15
 msgctxt "file_picker_sort_date"
 msgid "Date"
-msgstr "Date"
+msgstr "날짜"
 
 #v1.7.15
 msgctxt "file_picker_sort_name"
 msgid "Name"
-msgstr "Name"
+msgstr "이름"
 
 #v1.7.15
 msgctxt "file_picker_sort_size"
 msgid "Size"
-msgstr "Size"
+msgstr "크기"
 
 #v1.7.15
 msgctxt "file_picker_stats"
 msgid "Stats:"
-msgstr "Stats:"
+msgstr "현황:"
 
 #v1.7.15
 msgctxt "file_picker_stats_values"
 msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
-msgstr "{} tracks, {} buildings, {} stations, {} trains, {} lines"
+msgstr "선로 {}개, 건물 {}개, 역 {}개, 열차 {}대, 노선 {}개"
 
 #v1.1.37
 msgctxt "file_picker_version"
@@ -2379,7 +2379,7 @@ msgstr "게임 재시작 필요"
 #v1.7.15
 msgctxt "game_sharing"
 msgid "Game sharing"
-msgstr "Game sharing"
+msgstr "게임 공유 중"
 
 #v1.2.29
 msgctxt "game_speed_down"
@@ -2399,12 +2399,12 @@ msgstr "NIMBY Rails Wiki"
 #v1.7.15
 msgctxt "geo_export_desc"
 msgid "Tracks and buildings GeoJSON has been exported to {}"
-msgstr "Tracks and buildings GeoJSON has been exported to {}"
+msgstr "선로와 건물의 GeoJSON을 {}(으)로 내보냈습니다."
 
 #v1.7.15
 msgctxt "geo_export_title"
 msgid "Exported GeoJSON"
-msgstr "Exported GeoJSON"
+msgstr "내보낸 GeoJSON"
 
 #v1.1.31
 msgctxt "global_blueprint_bill"
@@ -2459,82 +2459,82 @@ msgstr "많은 수의 역과 열차를 포함한 큰 규모의 건설은 멀티�
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "Cannot detect public IP, use Steam Relay"
+msgstr "공개 IP를 찾을 수 없습니다. Steam Relay를 사용하세요."
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
+msgstr "PC와 공개된 IP가 직접 연결되어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시, CG-NAT을 사용하는 경우 연결이 불가능할 수 있습니다. 본 게임사는 개인의 인터넷 설정과 관련하여 어떤 도움도 드릴 수 없습니다."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
 msgid "Detected public IPv4:"
-msgstr "Detected public IPv4:"
+msgstr "찾은 공개 IPv4 주소:"
 
 #v1.6.13
 msgctxt "host_server_ipv6"
 msgid "Detected public IPv6:"
-msgstr "Detected public IPv6:"
+msgstr "찾은 공개 IPv6 주소:"
 
 #v1.6.13
 msgctxt "host_server_mode"
 msgid "Connection:"
-msgstr "Connection:"
+msgstr "연결:"
 
 #v1.6.13
 msgctxt "host_server_mode_direct"
 msgid "Direct"
-msgstr "Direct"
+msgstr "직접"
 
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
 msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
+msgstr "다른 사람들이 귀하의 PC에 직접 접속합니다.\n대역폭이 충분한 경우 더 많은 건설이 가능해집니다."
 
 #v1.6.13
 msgctxt "host_server_mode_relay"
 msgid "Steam Relay Network"
-msgstr "Steam Relay Network"
+msgstr "Steam Relay 네트워크"
 
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
+msgstr "다른 사람들이 Steam Relay 네트워크를 통해 접속합니다.\nIP를 숨겨 비교적 안전하지만 대역폭에 제한이 있습니다."
 
 #v1.6.13
 msgctxt "host_server_port"
 msgid "UDP Port:"
-msgstr "UDP Port:"
+msgstr "UDP 포트:"
 
 #v1.6.13
 msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
-msgstr "Detecting public IP..."
+msgstr "공개 IP 찾는 중..."
 
 #v1.6.13
 msgctxt "host_sim_mode"
 msgid "Simulation:"
-msgstr "Simulation:"
+msgstr "시뮬레이션:"
 
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr "Private"
+msgstr "독립"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
+msgstr "시간과 열차의 이동, 승객의 시뮬레이션은 각 유저별로 독립되어 실행됩니다.\n선로, 노선과 열차를 같이 편집할 수 있습니다.\n공유되는 시뮬레이션보다 더 많은 양의 건설이 가능해집니다.\n게임은 무제한 자금으로 설정됩니다."
 
 #v1.6.13
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr "Shared"
+msgstr "공유"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
 msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
+msgstr "모든 유저가 시간, 열차, 승객의 시뮬레이션을 공유하며 서로 동기화됩니다.\n선로, 노선과 열차를 같이 편집할 수 있습니다."
 
 #v1.1.31
 msgctxt "icon_file"
@@ -3039,7 +3039,7 @@ msgstr "{0} [{1}] at"
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr "Custom line duration is too short and it is ignored"
+msgstr "사용자 지정 노선 기간이 너무 짧아 무시됩니다."
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
