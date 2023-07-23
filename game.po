@@ -3363,23 +3363,23 @@ msgstr "수동 주기:"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel"
-msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
+msgid "Max. acceleration (ms):"
+msgstr "최대 가속 (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
 msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
-msgstr "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
+msgstr "이론적인 최대 가속 속도입니다. 실제 가속 속도는 차량에 따라 더 느릴 수 있습니다."
 
 #v1.8.24
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "최대 감속 (ms⁻²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
 msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
-msgstr "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
+msgstr "이론적인 최대 감속 속도입니다. 실제 감속 속도는 차량에 따라 더 느릴 수 있습니다."
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
@@ -3594,7 +3594,7 @@ msgstr "노선"
 #v1.7.15
 msgctxt "lineeditor_unachievable_depart"
 msgid "Unachievable departure"
-msgstr "Unachievable departure"
+msgstr "불가능한 출발"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
@@ -3669,7 +3669,7 @@ msgstr "객체 재구성 중"
 #v1.7.15
 msgctxt "loader_downloading"
 msgid "Downloading"
-msgstr "Downloading"
+msgstr "다운로드 중"
 
 #v1.1.58
 msgctxt "loader_error_invalid"
@@ -3684,17 +3684,17 @@ msgstr "마무리 중"
 #v1.7.15
 msgctxt "loader_http_error"
 msgid "Error downloading shared game file"
-msgstr "Error downloading shared game file"
+msgstr "공유된 게임 파일을 다운로드하는 데 실패했습니다."
 
 #v1.6.13
 msgctxt "loader_loading_db"
 msgid "Loading database"
-msgstr "Loading database"
+msgstr "데이터베이스 불러오는 중"
 
 #v1.6.13
 msgctxt "loader_loading_sim"
 msgid "Loading simulation state"
-msgstr "Loading simulation state"
+msgstr "시뮬레이션 상태 불러오는 중"
 
 #v1.1.58
 msgctxt "loader_parsing_header"
@@ -4019,17 +4019,17 @@ msgstr "이름: "
 #v1.6.13
 msgctxt "mod_open_folder"
 msgid "Open mod.txt"
-msgstr "Open mod.txt"
+msgstr "mod.txt 열기"
 
 #v1.7.15
 msgctxt "mod_panel_list_only_enabled"
 msgid "Enabled mods in this game"
-msgstr "Enabled mods in this game"
+msgstr "이 게임에 활성화된 모드"
 
 #v1.7.15
 msgctxt "mod_panel_list_title"
 msgid "All subscribed mods"
-msgstr "All subscribed mods"
+msgstr "구독한 모든 모드"
 
 #v1.1.37
 msgctxt "mod_panel_steamworks"
@@ -4039,7 +4039,7 @@ msgstr "Workshop에서 새 모드를 구독하세요"
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
 msgid "Remove all orphaned and unused rules"
-msgstr "Remove all orphaned and unused rules"
+msgstr "사용되지 않는 규칙 삭제하기"
 
 #v1.1.31
 msgctxt "mod_source"
@@ -4049,7 +4049,7 @@ msgstr "출처: "
 #v1.1.31
 msgctxt "mod_source_builtin"
 msgid "Built-in"
-msgstr "Built-in"
+msgstr "내장된 "
 
 #v1.1.31
 msgctxt "mod_source_local"
@@ -4979,7 +4979,7 @@ msgstr "%d개 플랫폼"
 #v1.5.41
 msgctxt "plats_show_conflicts"
 msgid "Highlight overlapping train stops"
-msgstr "Highlight overlapping train stops"
+msgstr "겹치는 기차역 강조 표시"
 
 #v1.5.41
 msgctxt "plats_stacked_lines"
@@ -6794,7 +6794,7 @@ msgstr "{0}에 도착, {1:.1f} km 중 {2:.1f} km"
 #v1.6.13
 msgctxt "train_info_camera"
 msgid "Auto scroll map following train position"
-msgstr "Auto scroll map following train position"
+msgstr "열차 따라가기"
 
 #v1.1.58
 msgctxt "train_info_car_name"
@@ -6804,32 +6804,32 @@ msgstr "차량:"
 #v1.7.15
 msgctxt "train_info_coupler_back"
 msgid "Back coupling:"
-msgstr "Back coupling:"
+msgstr "후방 연결:"
 
 #v1.7.15
 msgctxt "train_info_coupler_front"
 msgid "Front coupling:"
-msgstr "Front coupling:"
+msgstr "전방 연결:"
 
 #v1.7.15
 msgctxt "train_info_coupler_mandatory"
 msgid "mandatory"
-msgstr "mandatory"
+msgstr "필수"
 
 #v1.7.15
 msgctxt "train_info_coupler_none"
 msgid "none"
-msgstr "none"
+msgstr "없음"
 
 #v1.7.15
 msgctxt "train_info_coupler_optional"
 msgid "optional"
-msgstr "optional"
+msgstr "선택"
 
 #v1.7.15
 msgctxt "train_info_coupler_universal"
 msgid "universal"
-msgstr "universal"
+msgstr "범용"
 
 #v1.1.58
 msgctxt "train_info_departs"
@@ -6839,7 +6839,7 @@ msgstr "{}후에 출발"
 #v1.7.15
 msgctxt "train_info_description"
 msgid "Description:"
-msgstr "Description:"
+msgstr "설명:"
 
 #v1.1.31
 msgctxt "train_info_destination"
@@ -6864,7 +6864,7 @@ msgstr "{0} cars / {1:.2f}m / {2:.2f}m"
 #v1.1.37
 msgctxt "train_info_dynamics"
 msgid "Dynamics:"
-msgstr "Dinámica:"
+msgstr "Dynamics:"
 
 #v1.1.31
 msgctxt "train_info_empty_mass"
@@ -6914,12 +6914,12 @@ msgstr "무게 / 열차 무게: "
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr "Max acceleration:"
+msgstr "최대 가속:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
 msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
+msgstr "{0:.2f} ms⁻², brake {1:.2f} ms⁻² to {2:.2f} ms⁻²"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
@@ -6949,7 +6949,7 @@ msgstr "승객 / 최대: "
 #v1.6.13
 msgctxt "train_info_pin"
 msgid "Scroll map to train position"
-msgstr "Scroll map to train position"
+msgstr "열차 따라가기"
 
 #v1.1.58
 msgctxt "train_info_power"
@@ -7074,12 +7074,12 @@ msgstr "Only stale"
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
 msgid "Only waiting to spawn"
-msgstr "Only waiting to spawn"
+msgstr "소환 대기중인 열차만"
 
 #v1.7.15
 msgctxt "train_list_filter_alert_only_warning"
 msgid "Only with warnings"
-msgstr "Only with warnings"
+msgstr "경고가 있는 열차만"
 
 #v1.5.31
 msgctxt "train_list_filter_alert_short"
@@ -7089,12 +7089,12 @@ msgstr "경고"
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
-msgstr "Stale"
+msgstr "유효하지 않음"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
 msgid "Waiting spawn"
-msgstr "Waiting spawn"
+msgstr "소환 대기중"
 
 #v1.5.31
 msgctxt "train_list_filter_all"
@@ -7264,7 +7264,7 @@ msgstr "열차를 구입 할 금액이 충분하지 않습니다. 더 저렴한 
 #v1.7.15
 msgctxt "train_recompo_apply"
 msgid "Apply changes"
-msgstr "Apply changes"
+msgstr "적용"
 
 #v1.7.15
 msgctxt "train_recompo_disabled"
@@ -7274,52 +7274,52 @@ msgstr "Editing disabled by mod author"
 #v1.7.15
 msgctxt "train_recompo_error_cash"
 msgid "Cannot afford new car(s)"
-msgstr "Cannot afford new car(s)"
+msgstr "차량을 구매할 자금이 부족합니다."
 
 #v1.7.15
 msgctxt "train_recompo_error_coupling"
 msgid "Invalid coupling"
-msgstr "Invalid coupling"
+msgstr "올바르지 않은 결합"
 
 #v1.7.15
 msgctxt "train_recompo_error_empty"
 msgid "Empty train"
-msgstr "Empty train"
+msgstr "빈 열차가"
 
 #v1.7.15
 msgctxt "train_recompo_error_long"
 msgid "Too many cars"
-msgstr "Too many cars"
+msgstr "차량이 너무 많습니다"
 
 #v1.7.15
 msgctxt "train_recompo_error_unpowered"
 msgid "Unpowered"
-msgstr "Unpowered"
+msgstr "무동력차"
 
 #v1.7.15
 msgctxt "train_recompo_price"
 msgid "Price: ${}"
-msgstr "Price: ${}"
+msgstr "가격: ${}"
 
 #v1.7.15
 msgctxt "train_recompo_refund"
 msgid "Refund: ${}"
-msgstr "Refund: ${}"
+msgstr "환불: ${}"
 
 #v1.7.15
 msgctxt "train_recompo_reset"
 msgid "Reset changes"
-msgstr "Reset changes"
+msgstr "초기화"
 
 #v1.7.15
 msgctxt "train_refund"
 msgid "Total refund:"
-msgstr "Total refund:"
+msgstr "총 환불:"
 
 #v1.7.15
 msgctxt "train_replace"
 msgid "Replace"
-msgstr "Replace"
+msgstr "바꾸기"
 
 #v1.8.24
 msgctxt "train_rt_late"
@@ -7329,12 +7329,12 @@ msgstr "Est. lateness (s)"
 #v1.8.24
 msgctxt "train_rt_leg"
 msgid "Remaining leg (m)"
-msgstr "Remaining leg (m)"
+msgstr "남은 운행 (분)"
 
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
-msgstr "Speed (km/h)"
+msgstr "속력 (km/h)"
 
 #v1.5.31
 msgctxt "train_run"
@@ -7389,12 +7389,12 @@ msgstr "형식: (-)hh:mm:ss\n복사한 명령들의 시작 시각을 입력한 �
 #v1.7.15
 msgctxt "traineditor_buy_custom_mode"
 msgid "Purchase custom train"
-msgstr "Purchase custom train"
+msgstr "커스텀 열차 구매"
 
 #v1.7.15
 msgctxt "traineditor_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr "Purchase preconfigured train"
+msgstr "미리 구성된 열차 구매"
 
 #v1.1.31
 msgctxt "traineditor_clear_selection"
@@ -7544,12 +7544,12 @@ msgstr "형식: hh:mm:ss\n선택한 노선의 운행을 시작할 시간을 설�
 #v1.7.15
 msgctxt "traineditor_replace_custom_mode"
 msgid "Replacing with custom train"
-msgstr "Replacing with custom train"
+msgstr "커스텀 열차로 대체"
 
 #v1.7.15
 msgctxt "traineditor_replace_tmu_mode"
 msgid "Replacing with preconfigured train"
-msgstr "Replacing with preconfigured train"
+msgstr "미리 구성된 열차로 대체"
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -7564,12 +7564,12 @@ msgstr "선택한 열차 판매"
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_custom_mode"
 msgid "Purchase custom train"
-msgstr "Purchase custom train"
+msgstr "커스텀 열차 구매"
 
 #v1.7.15
 msgctxt "traineditor_tooltip_buy_tmu_mode"
 msgid "Purchase preconfigured train"
-msgstr "Purchase preconfigured train"
+msgstr "미리 구성된 열차 구매"
 
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
