@@ -5503,7 +5503,7 @@ msgstr "슬롯 나열"
 #v1.7.15
 msgctxt "share_net_error_api"
 msgid "Sharing API error {}"
-msgstr "공유된 API 오류 {}"
+msgstr "공유 API 오류 {}"
 
 #v1.7.15
 msgctxt "share_net_error_cannot_connect"
