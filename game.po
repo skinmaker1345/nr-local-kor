@@ -3233,7 +3233,7 @@ msgstr "지도에 표시:"
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
 msgid "Disabled"
-msgstr "숨"
+msgstr "숨김"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
