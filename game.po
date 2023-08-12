@@ -3228,7 +3228,7 @@ msgstr "기준 열차 편집"
 #v1.7.15
 msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
-msgstr "지도에서 표시:"
+msgstr "지도에 표시:"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
