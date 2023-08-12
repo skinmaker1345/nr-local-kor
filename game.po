@@ -7338,7 +7338,7 @@ msgstr "가격: ${}"
 #v1.7.15
 msgctxt "train_recompo_refund"
 msgid "Refund: ${}"
-msgstr "환불Devolución: ${}"
+msgstr "환불: ${}"
 
 #v1.7.15
 msgctxt "train_recompo_reset"
