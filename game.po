@@ -114,12 +114,12 @@ msgstr "제한 모드: 선로는 선분과 호를 이용한 모양이 됩니다.
 #v1.9.17
 msgctxt "editor_tangent_fix"
 msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
-msgstr "NOT IN GAME - 직전 접선 값으로 되돌리기: 이전의 선로의 탄젠트 값을 유지하고 호에 근접하게 합니다."
+msgstr "직전 접선 값으로 되돌리기: 이전의 선로의 탄젠트 값을 유지하고 호에 근접하게 합니다."
 
 #v1.9.17
 msgctxt "editor_tangent_interp"
 msgid "Interpolate tangent: average previous track and current track tangents"
-msgstr "NOT IN GAME - 접선 삽입: 전 선로와 현재 선로의 접선의 평균"
+msgstr "접선 삽입: 전 선로와 현재 선로의 접선의 평균"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_click"
@@ -218,7 +218,7 @@ msgstr "NOT IN GAME - 열차 탑승 수요:"
 #v1.9.17
 msgctxt "option_company_pax_train_matching_line_stop"
 msgid "Matching line and stop"
-msgstr "NOT IN GAME - 노선과 정차 일치시키기"
+msgstr "노선과 정차 일치시키기"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching_train_run_line_stop"
@@ -458,7 +458,7 @@ msgstr "보상: 기차 재배치"
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "보상: 수요 증발"
+msgstr "보상: 수요 제거됨"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
@@ -858,7 +858,7 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "저장된 게임 {}을 진행하시겠습니까?"
+msgstr "저장된 게임 {}을(를) 진행하시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
@@ -873,17 +873,17 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "현재의 게임을 종료하고 저장된 게임 {}을 진행하시겠습니까?"
+msgstr "현재의 게임을 종료하고 저장된 게임 {}을(를) 진행하시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{}에서 진행중인 게임에 참가하시겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장합니다."
+msgstr "{}에서 진행중인 게임에 참가하시겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장됩니다."
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했습니다. 참가하겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장합니다."
+msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했습니다. 참가하겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장됩니다."
 
 #v1.4.15
 msgctxt "bill_show_full"
@@ -2493,7 +2493,7 @@ msgstr "공용 IP를 감지할 수 없습니다. Steam Relay를 이용하세요.
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "PC 또는 라우터가 공용 IP로 인터넷에 직접 연결되어 있어야 합니다. 라우터의 UDP 포트 {}을(를) PC로 전달하고 연결을 허용하도록 방화벽을 설정해야 합니다. VPN, 프록시 및 CG-NAT은 이 기능을 지원하지 않습니다. 이 기능이 당신의 연결에 작동하지 않는 경우 Weird and Wry는 기술 지원을 제공할 수 없습니다."
+msgstr "PC 또는 라우터가 공용 IP로 인터넷에 직접 연결되어 있어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시 및 CG-NAT은 이 기능을 지원하지 않습니다. 이 기능이 당신의 연결에 작동하지 않는 경우 Weird and Wry는 기술 지원을 제공할 수 없습니다."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
@@ -2548,7 +2548,7 @@ msgstr "시뮬레이션:"
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr "사설"
+msgstr "독"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
@@ -2718,7 +2718,7 @@ msgstr "{}{}에서 {}{}"
 #v1.5.41
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "모든 비정상 열차 재배치"
+msgstr "모든 과거 시간표를 따르는 열차 재배치"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
@@ -2933,7 +2933,7 @@ msgstr "[키: {}]"
 #v1.6.13
 msgctxt "key_info_hold"
 msgid "[Hold: {}]"
-msgstr "[고정: {}]"
+msgstr "[누르고 있기: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold_missing"
@@ -3233,7 +3233,7 @@ msgstr "지도에 표시:"
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
 msgid "Disabled"
-msgstr "보여지지 않음"
+msgstr "숨김"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
@@ -3688,7 +3688,7 @@ msgstr "취소 중"
 #v1.1.58
 msgctxt "loader_db_snapshot"
 msgid "Loading database snapshot"
-msgstr "데이터베이스 스냅샷 불러오는 중"
+msgstr "데이터베이스 스냅숏 불러오는 중"
 
 #v1.1.58
 msgctxt "loader_decompressing"
@@ -3933,17 +3933,17 @@ msgstr "모든 열차 판매"
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "모든 비정상 열차 재배치"
+msgstr "모든 과거 시간표를 따르는 열차 재배치"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
 msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
-msgstr "${}의 비용으로 모든 비정상 열차를 재배치하시겠습니까?"
+msgstr "${}의 비용으로 모든 과거 시간표를 따르는 열차를 재배치하시겠습니까?"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_title"
 msgid "Confirm all stale trains intervention"
-msgstr "모든 비정상 열차 재배치 승인"
+msgstr "모든 과거 시간표를 따르는 열차 재배치 승인"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
@@ -4848,7 +4848,7 @@ msgstr "승객의 다음 역부터 경로가 시작됩니다."
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "구형 데이터가 감지되어 단계를 건너뜁니다"
+msgstr "구식의 데이터가 감지되어 단계를 건너뜁니다"
 
 #v1.5.31
 msgctxt "pax_new_time"
@@ -5763,7 +5763,7 @@ msgstr "--- 실시간 ---"
 #v1.5.31
 msgctxt "stale_run"
 msgid "Stale run"
-msgstr "비정상 운행"
+msgstr "과거 시간표대로의 운행"
 
 #v1.5.31
 msgctxt "stale_run_tooltip"
@@ -6768,7 +6768,7 @@ msgstr "원본으로 지정"
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "자동 운행 열차 병합"
+msgstr "자동 운행 열차 포함하기"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
@@ -7103,7 +7103,7 @@ msgstr "축약"
 #v1.7.15
 msgctxt "train_list_filter_alert_only_stale"
 msgid "Only stale"
-msgstr "비정상인 열차만"
+msgstr "과거 시간표를 따르는 열차만"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
@@ -7123,7 +7123,7 @@ msgstr "경고"
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
-msgstr "유효하지 않음"
+msgstr "과거 시간표대로 움직임"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
