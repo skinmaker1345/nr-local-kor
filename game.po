@@ -2548,7 +2548,7 @@ msgstr "시뮬레이션:"
 #v1.6.13
 msgctxt "host_sim_mode_private"
 msgid "Private"
-msgstr "독"
+msgstr "독립"
 
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
