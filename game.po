@@ -4,307 +4,306 @@
 #v1.9.17
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
-msgstr "Only if delay is 0"
+msgstr "지연이 0일 때만"
 
 #v1.9.17
 msgctxt "assets_live_update"
 msgid "Live updates"
-msgstr "Live updates"
+msgstr "실시간 업데이트"
 
 #v1.9.17
 msgctxt "built_bill"
 msgid "Built objects report"
-msgstr "Built objects report"
+msgstr "건설된 개체 보고서"
 
 #v1.9.17
 msgctxt "constraint_offset2_add"
 msgid "Add"
-msgstr "Add"
+msgstr "+"
 
 #v1.9.17
 msgctxt "constraint_offset2_mul"
 msgid "Mul"
-msgstr "Mul"
+msgstr "*"
 
 #v1.9.17
 msgctxt "constraint_offset2_set"
 msgid "Set"
-msgstr "Set"
+msgstr "="
 
 #v1.9.17
 msgctxt "constraint_platforms"
 msgid "Platforms:"
-msgstr "Platforms:"
+msgstr "승강장:"
 
 #v1.9.17
 msgctxt "constraint_platforms_demote"
 msgid "Demote"
-msgstr "Demote"
+msgstr "선로로 변경"
 
 #v1.9.17
 msgctxt "constraint_platforms_promote"
 msgid "Promote"
-msgstr "Promote"
+msgstr "플랫폼으로 변경"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
 msgid "Destination"
-msgstr "Destination"
+msgstr "목적지"
 
 #v1.9.17
 msgctxt "dep_grp_line"
 msgid "Line"
-msgstr "Line"
+msgstr "노선"
 
 #v1.9.17
 msgctxt "dep_grp_next_stop"
 msgid "Next stop"
-msgstr "Next stop"
+msgstr "다음 역"
 
 #v1.9.17
 msgctxt "dep_grp_train"
 msgid "Train"
-msgstr "Train"
+msgstr "열차"
 
 #v1.9.17
 msgctxt "dep_late"
 msgid "Max late"
-msgstr "Max late"
+msgstr "최대 지연"
 
 #v1.9.17
 msgctxt "dep_sched"
 msgid "Scheduled"
-msgstr "Scheduled"
+msgstr "계획된"
 
 #v1.9.17
 msgctxt "destinations"
 msgid "Destinations"
-msgstr "Destinations"
+msgstr "목적지"
 
 #v1.9.17
 msgctxt "editor_sel_only_buildings"
 msgid "Keep only buildings in the selection"
-msgstr "Keep only buildings in the selection"
+msgstr "선택한 개체 중 건물만 선택하기"
 
 #v1.9.17
 msgctxt "editor_sel_only_child_tracks"
 msgid "Keep only parallel child tracks in the selection"
-msgstr "Keep only parallel child tracks in the selection"
+msgstr "선택한 개체 중 병렬 하위 선로만 선택하기"
 
 #v1.9.17
 msgctxt "editor_sel_only_parent_tracks"
 msgid "Keep only parallel parent tracks in the selection"
-msgstr "Keep only parallel parent tracks in the selection"
+msgstr "선택한 개체 중 병렬 상위 선로만 선택하기"
 
 #v1.9.17
 msgctxt "editor_sel_only_tracks"
 msgid "Keep only tracks in the selection"
-msgstr "Keep only tracks in the selection"
+msgstr "선택한 개체 중 선로만 선택하기"
 
 #v1.9.17
 msgctxt "editor_shapemode_full"
 msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
-msgstr "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr "전체 모드: 선로는 선분, 호 및 클로소이드를 이용한 모양이 됩니다."
 
 #v1.9.17
 msgctxt "editor_shapemode_limited"
 msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
-msgstr "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr "제한 모드: 선로는 선분과 호를 이용한 모양이 됩니다."
 
 #v1.9.17
 msgctxt "editor_tangent_fix"
 msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
-msgstr "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr "직전 접선 값으로 되돌리기: 이전의 선로의 탄젠트 값을 유지하고 호에 근접하게 합니다."
 
 #v1.9.17
 msgctxt "editor_tangent_interp"
 msgid "Interpolate tangent: average previous track and current track tangents"
-msgstr "Interpolate tangent: average previous track and current track tangents"
+msgstr "접선 삽입: 전 선로와 현재 선로의 접선의 평균"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_click"
 msgid "Click to cancel"
-msgstr "Click to cancel"
+msgstr "클릭하여 취소하기"
 
 #v1.9.17
 msgctxt "editor_tip_cont_cancel_dbl_click"
 msgid "Double click to cancel"
-msgstr "Double click to cancel"
+msgstr "더블 클릭하여 취소하기"
 
 #v1.9.17
 msgctxt "editor_tip_cont_undo"
 msgid "Ctrl-Z to undo last track node"
-msgstr "Ctrl-Z to undo last track node"
+msgstr "마지막으로 한 편집을 취소하려면 Ctrl + Z를 누르세요."
 
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
 msgid "Release left button to stop rotating the track tangent"
-msgstr "Release left button to stop rotating the track tangent"
+msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다."
 
 #v1.9.17
 msgctxt "file_picker_corrupted"
 msgid "Corrupted file"
-msgstr "Corrupted file"
+msgstr "파일이 손상되었습니다."
 
 #v1.9.17
 msgctxt "kb_track_sat_platform_tape"
 msgid "Tracks: platform tape"
-msgstr "Tracks: platform tape"
+msgstr "선로: 승강장으로 바꾸기"
 
 #v1.9.17
 msgctxt "lineeditor_adding_sec_stop_s1"
 msgid "Click on tracks to add a new secondary stop point"
-msgstr "Click on tracks to add a new secondary stop point"
+msgstr "선로를 눌러 보조 정차 지점을 추가합니다."
 
 #v1.9.17
 msgctxt "lineeditor_adding_sec_stop_title"
 msgid "Selecting secondary signal"
-msgstr "Selecting secondary signal"
+msgstr "보조 신호를 선택합니다."
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_basic"
 msgid "Click on station platform arrows to change the stop platform"
-msgstr "Click on station platform arrows to change the stop platform"
+msgstr "역의 승강장 화살표를 클릭해 정차 승강장을 바꿉니다."
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_s1"
 msgid "Click on tracks to change stop point"
-msgstr "Click on tracks to change stop point"
+msgstr "선로를 클릭해 정차 지점을 변경합니다."
 
 #v1.9.17
 msgctxt "lineeditor_change_stop_title"
 msgid "Changing stop point"
-msgstr "Changing stop point"
+msgstr "정차 지점 변경"
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_basic"
 msgid "Click on station platform arrows to create new line stops"
-msgstr "Click on station platform arrows to create new line stops"
+msgstr "역의 승강장 화살표를 클릭해 노선의 새로운 정차역을 만듭니다."
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_s1"
 msgid "Click on tracks to set the stop point"
-msgstr "Click on tracks to set the stop point"
+msgstr “선로를 클릭해 정차 지점을 설정합니다."
 
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_title"
 msgid "Creating new stop"
-msgstr "Creating new stop"
+msgstr "노선에 정차역 추가"
 
 #v1.9.17
 msgctxt "lineeditor_facing_tip"
 msgid "Move the mouse to select the facing direction of the train, then click to confirm"
-msgstr "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr "마우스를 움직여 열차의 진행 방향을 선택한 후, 클릭해 지정합니다."
 
 #v1.9.17
 msgctxt "lineeditor_new_alt_stop_basic"
 msgid "Click on station platform arrows to create a new secondary platform stop"
-msgstr "Click on station platform arrows to create a new secondary platform stop"
-
+msgstr "역의 승강장 화살표를 클릭해 새 보조 승강장 정차지점을 만듭니다."
 #v1.9.17
 msgctxt "loader_legacy_rebuild_19"
 msgid "Rebuilding pre-1.9 tracks"
-msgstr "Rebuilding pre-1.9 tracks"
+msgstr "pre-1.9 버전의 선로로 재건설 중"
 
 #v1.9.17
 msgctxt "node_mode"
 msgid "Node mode:"
-msgstr "Node mode:"
+msgstr "노드 모드:"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching"
 msgid "Pax board trains:"
-msgstr "Pax board trains:"
+msgstr "열차 탑승 수요:"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching_line_stop"
 msgid "Matching line and stop"
-msgstr "Matching line and stop"
+msgstr "노선과 정차 일치시키기"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching_train_run_line_stop"
 msgid "Matching train, run, line and stop"
-msgstr "Matching train, run, line and stop"
+msgstr "열차, 운행, 노선 및 정차 일치시키기"
 
 #v1.9.17
 msgctxt "refresh_built_report"
 msgid "Refresh built objects report"
-msgstr "Refresh built objects report"
+msgstr "건설된 개체 보고서 갱신"
 
 #v1.9.17
 msgctxt "report_no_built"
 msgid "There are no built objects"
-msgstr "There are no built objects"
+msgstr “건설된 개체가 없습니다."
 
 #v1.9.17
 msgctxt "reset_boundary"
 msgid "Reset boundary"
-msgstr "Reset boundary"
+msgstr "경계 초기화"
 
 #v1.9.17
 msgctxt "reset_boundary_radius"
 msgid "Reset for radius:"
-msgstr "Reset for radius:"
+msgstr "호 반경 설정:"
 
 #v1.9.17
 msgctxt "reset_boundary_radius_tip"
 msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
-msgstr "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr "참고: 트랙 편집기에 표시되는 원 반지름은 근사치일 뿐이며 최대 5%의 오차가 있을 수 있습니다"
 
 #v1.9.17
 msgctxt "reset_boundary_tan"
 msgid "Reset boundary to middle point"
-msgstr "Reset boundary to middle point"
+msgstr "선로 간 경계를 중앙으로 설정"
 
 #v1.9.17
 msgctxt "reset_tangent"
 msgid "Reset tangent"
-msgstr "Reset tangent"
+msgstr "접선 초기화"
 
 #v1.9.17
 msgctxt "shape_mode"
 msgid "Tangent track shapes:"
-msgstr "Tangent track shapes:"
+msgstr "선로 접선 형태:"
 
 #v1.9.17
 msgctxt "shape_mode_full"
 msgid "Full"
-msgstr "Full"
+msgstr "전체"
 
 #v1.9.17
 msgctxt "shape_mode_limited"
 msgid "Limited"
-msgstr "Limited"
+msgstr "제한"
 
 #v1.9.17
 msgctxt "station_platform_promote"
 msgid "Promote track into platform"
-msgstr "Promote track into platform"
+msgstr "선로를 플랫폼으로 변경하기"
 
 #v1.9.17
 msgctxt "stop_picker_adv"
 msgid "Advanced mode"
-msgstr "Advanced mode"
+msgstr "고급 모드"
 
 #v1.9.17
 msgctxt "stop_picker_basic"
 msgid "Basic mode"
-msgstr "Basic mode"
+msgstr "기본 모드"
 
 #v1.9.17
 msgctxt "trackmode_point"
 msgid "Point mode"
-msgstr "Point mode"
+msgstr "점 모드"
 
 #v1.9.17
 msgctxt "trackmode_tangent"
 msgid "Tangent mode"
-msgstr "Tangent mode"
+msgstr "접선 모드"
 
 #v1.9.17
 msgctxt "warn_straight"
 msgid "Requires exactly 2 tracks"
-msgstr "Requires exactly 2 tracks"
+msgstr “정확히 2개의 선로가 필요합니다."
 
 
 
@@ -314,7 +313,7 @@ msgstr "Requires exactly 2 tracks"
 #v1.9.17
 msgctxt "error_too_old_save"
 msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "이 세이브파일의 버전이 너무 오래되어 실행할 수 없습니다. 스팀에서 v1.5 이상의 레거시 버전을 사용해 보십시오."
 
 
 
@@ -459,12 +458,12 @@ msgstr "보상: 기차 재배치"
 #v1.1.37
 msgctxt "accounting_pax_lost"
 msgid "Compen.: lost"
-msgstr "보상: 잃음"
+msgstr "보상: 수요 제거됨"
 
 #v1.1.72
 msgctxt "accounting_pax_never_serviced"
 msgid "Never serviced"
-msgstr "서비스하지 않음"
+msgstr “열차가 운행하지 않음"
 
 #v1.1.72
 msgctxt "accounting_pax_new"
@@ -604,17 +603,17 @@ msgstr "열차"
 #v1.8.24
 msgctxt "accounting_trains_collisions"
 msgid "Collisions"
-msgstr "Collisions"
+msgstr "충돌"
 
 #v1.7.15
 msgctxt "accounting_trains_departure"
 msgid "Departures"
-msgstr "Departures"
+msgstr "출발"
 
 #v1.8.24
 msgctxt "accounting_trains_extra_stop_time"
 msgid "Extra stop"
-msgstr "Extra stop"
+msgstr "추가 정차 시간"
 
 #v1.1.31
 msgctxt "accounting_trains_intervention"
@@ -624,7 +623,7 @@ msgstr "열차 재배치"
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr "Late arrival >10s"
+msgstr "열차 지연 도착 >10초"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
@@ -634,7 +633,7 @@ msgstr "유지비"
 #v1.1.31
 msgctxt "accounting_trains_purchases"
 msgid "New trains"
-msgstr "새 열차"
+msgstr "새 열차 구매"
 
 #v1.1.31
 msgctxt "accounting_trains_running"
@@ -659,12 +658,12 @@ msgstr "열차 판매"
 #v1.8.24
 msgctxt "accounting_trains_signal_stop_time"
 msgid "Signal wait"
-msgstr "신호 대기"
+msgstr "신호 대기 시간"
 
 #v1.8.24
 msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
-msgstr "정차 시간"
+msgstr "스케쥴상 정차 시간"
 
 #v1.1.72
 msgctxt "accounting_utc_warn"
@@ -734,7 +733,7 @@ msgstr "알림 시 게임 일시중지"
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "최고 속도에서도"
+msgstr "최고 속력에서도"
 
 #v1.2.22
 msgctxt "apply"
@@ -859,7 +858,7 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_load_cmd_line"
 msgid "Load saved game {}?"
-msgstr "저장된 게임 {}을(를) 불러오시겠습니까?"
+msgstr "저장된 게임 {}을(를) 진행하시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_nogame_join_anon"
@@ -874,17 +873,17 @@ msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했�
 #v1.7.15
 msgctxt "banner_prompt_quit_load_cmd_line"
 msgid "Quit current game and load saved game {}?"
-msgstr "이 게임을 끝내고 저장된 게임 {}을(를) 불러오시겠습니까?"
+msgstr "현재의 게임을 종료하고 저장된 게임 {}을(를) 진행하시겠습니까?"
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_anon"
 msgid "Do you want to join a game hosted by {}? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{}에서 진행중인 게임에 참가하시겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장합니다."
+msgstr "{}에서 진행중인 게임에 참가하시겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장됩니다."
 
 #v1.1.31
 msgctxt "banner_prompt_server_join_user"
 msgid "{0} proposes you to join a game hosted by {1}. Do you want to join? WARNING: You are currently hosting a game. All your connected players will be disconnected. Your current game will be autosaved."
-msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했습니다. 참가하겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장합니다."
+msgstr "{0}님은 {1}님이 진행 중인 게임에 참가할 것을 제안했습니다. 참가하겠습니까? 경고: 당신은 현재 게임을 열고 있습니다. 연결된 플레이어의 연결이 모두 끊어지고 게임은 자동으로 저장됩니다."
 
 #v1.4.15
 msgctxt "bill_show_full"
@@ -909,7 +908,7 @@ msgstr "선택"
 #v1.7.15
 msgctxt "browse_shared_games"
 msgid "Browse shared games"
-msgstr "공유된 게임 확인하기"
+msgstr "공유된 게임 탐색하기"
 
 #v1.1.31
 msgctxt "build"
@@ -944,12 +943,12 @@ msgstr "밑면:"
 #v1.4.15
 msgctxt "building_constraint_curved"
 msgid "Trace track curve"
-msgstr "선로 곡선 추적"
+msgstr "선로 곡선을 따라가기"
 
 #v1.4.15
 msgctxt "building_constraint_draw_layer"
 msgid "Draw depth:"
-msgstr "깊이 그리기:"
+msgstr "건물 깊이 설정:"
 
 #v1.4.15
 msgctxt "building_constraint_pick"
@@ -959,7 +958,7 @@ msgstr "선로 고르기"
 #v1.4.15
 msgctxt "building_constraint_type"
 msgid "Locked to track:"
-msgstr "선로에 고정됨:"
+msgstr "선로에 고정:"
 
 #v1.4.15
 msgctxt "building_constraints_editor"
@@ -999,7 +998,7 @@ msgstr "지붕"
 #v1.4.22
 msgctxt "building_end_t"
 msgid "End t (0 to 1):"
-msgstr "끝 값 (0 a 1):"
+msgstr "끝 값 (0부터 1):"
 
 #v1.4.22
 msgctxt "building_height"
@@ -1074,12 +1073,12 @@ msgstr "폭:"
 #v1.4.15
 msgctxt "buildings_total"
 msgid "Buildings total"
-msgstr "총 건물"
+msgstr "총 건물 가격"
 
 #v1.5.31
 msgctxt "bulk_keep_straight"
 msgid "Platform keep straight:"
-msgstr "직선 플랫폼 유지하기:"
+msgstr "직선 승강장 유지하기:"
 
 #v1.5.31
 msgctxt "bulk_keep_straight_disable"
@@ -1109,12 +1108,12 @@ msgstr "종료"
 #v1.7.15
 msgctxt "cancel_replace"
 msgid "Cancel replacement"
-msgstr "바꾸기 취소"
+msgstr "교체 취소"
 
 #v1.7.15
 msgctxt "cars_uncategorized"
 msgid "Uncategorized"
-msgstr "미분류"
+msgstr "분류되지 않음"
 
 #v1.3.13
 msgctxt "cat_track_gauge"
@@ -1274,12 +1273,12 @@ msgstr "노선 {}(을)를 삭제하시겠습니까?"
 #v1.5.31
 msgctxt "confirm_intervention_line"
 msgid "Confirm line intervention"
-msgstr "노선 개입 확인"
+msgstr "노선 열차 재배치 확인"
 
 #v1.5.31
 msgctxt "confirm_intervention_line_desc"
 msgid "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
-msgstr "Do you want to issue an intervention to all the trains currently running the line named {0} for a price of ${1}?"
+msgstr "{0} 노선의 모든 열차를 ${1}에 재배치하시겠습니까?"
 
 #v1.1.72
 msgctxt "confirm_set_no_cash"
@@ -1289,17 +1288,17 @@ msgstr "확인"
 #v1.1.72
 msgctxt "confirm_set_no_cash_desc"
 msgid "Switching to unlimited money cannot be undone. Are you sure?"
-msgstr "무제한 예산으로 전환하면 되돌릴 수 없습니다. 확실합니까?"
+msgstr "무제한 예산으로 전환하면 되돌릴 수 없습니다. 정말로 바꾸시겠습니까?"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers"
 msgid "Confirm switching to unrestricted coupling"
-msgstr "차간 결합 제한 해제"
+msgstr "열차 구성 제한 해제 모드로 전환하기"
 
 #v1.7.15
 msgctxt "confirm_set_no_couplers_desc"
 msgid "Switching to unrestricted coupling cannot be undone. Are you sure?"
-msgstr "차간 결합 제한을 해제하면 되돌릴 수 없습니다. 계속하시겠습니까?"
+msgstr "열차 구성 제한 해제 모드로 전환하면 되돌릴 수 없습니다. 정말로 바꾸시겠습니까?"
 
 #v1.1.31
 msgctxt "conflict_map_hit"
@@ -1334,7 +1333,7 @@ msgstr "방향:"
 #v1.4.22
 msgctxt "constraint_disp"
 msgid "Displace:"
-msgstr "바꾸기 (m):"
+msgstr "옮기기 (m):"
 
 #v1.2.22
 msgctxt "constraint_flip"
@@ -1344,12 +1343,12 @@ msgstr "뒤집기"
 #v1.5.31
 msgctxt "constraint_max_speed"
 msgid "Custom max speed:"
-msgstr "커스텀 최고 속도:"
+msgstr "사용자 지정 최고 속력:"
 
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
+msgstr "선로의 최대 속력을 초과하는 값은 무시됩니다. 사용자 지정 최대 속력을 사용하지 않도록 설정하려면 0으로 설정하십시오."
 
 #v1.4.22
 msgctxt "constraint_offset"
@@ -1369,12 +1368,12 @@ msgstr "모체 선택"
 #v1.2.22
 msgctxt "constraint_remove"
 msgid "Remove constraint"
-msgstr "고정 제거"
+msgstr "선로 고정 해제"
 
 #v1.5.31
 msgctxt "constraint_remove_parent"
 msgid "Parallel constraint:"
-msgstr "평행 고정:"
+msgstr "병렬 고정:"
 
 #v1.5.31
 msgctxt "constraint_remove_parent_action"
@@ -1384,7 +1383,7 @@ msgstr "삭제"
 #v1.7.15
 msgctxt "constraint_select_parent"
 msgid "Select parent track"
-msgstr "부모 선로 선택"
+msgstr "상위 선로 선택"
 
 #v1.4.15
 msgctxt "constraint_straight"
@@ -1394,7 +1393,7 @@ msgstr "직선 유지"
 #v1.2.22
 msgctxt "constraint_t"
 msgid "Segment t (0 to 1):"
-msgstr "Segment t (0 to 1):"
+msgstr "Segment t (0부터 1):"
 
 #v1.2.22
 msgctxt "constraint_type"
@@ -1424,7 +1423,7 @@ msgstr "회전:"
 #v1.5.41
 msgctxt "constraint_xform_rotate_tip"
 msgid "Rotate track end:"
-msgstr "선로 끝단 회전:"
+msgstr "선로 끝 회전하기:"
 
 #v1.5.41
 msgctxt "constraint_xform_translate"
@@ -1434,7 +1433,7 @@ msgstr "변형:"
 #v1.5.41
 msgctxt "constraints_bulk_editor"
 msgid "Bulk editor"
-msgstr "다중 선로 편집기"
+msgstr "대량 편집기"
 
 #v1.4.15
 msgctxt "constraints_editor"
@@ -1444,12 +1443,12 @@ msgstr "선로 속성"
 #v1.4.15
 msgctxt "construct_no_bps"
 msgid "There are no pending blueprints to build"
-msgstr "건설 할 보류중인 선로 또는 역사 청사진이 없습니다."
+msgstr "건설할 청사진이 없습니다."
 
 #v1.1.31
 msgctxt "construction_conflicts_cash"
 msgid "Not enough money for construction"
-msgstr "시공 비용이 부족합니다."
+msgstr "건설 비용이 부족합니다."
 
 #v1.1.31
 msgctxt "construction_conflicts_error"
@@ -1514,7 +1513,7 @@ msgstr "%d 건널목"
 #v1.1.31
 msgctxt "custom_admin_level_poi"
 msgid "POI"
-msgstr "POI"
+msgstr "관심 지점"
 
 #v1.1.31
 msgctxt "custom_admin_level_transport"
@@ -1584,12 +1583,12 @@ msgstr "열차 삭제 후 판매"
 #v1.6.13
 msgctxt "delete_only_bp"
 msgid "Delete only blueprints"
-msgstr "Delete only blueprints"
+msgstr "청사진만 삭제하기"
 
 #v1.4.15
 msgctxt "delete_tracks"
 msgid "Delete objects"
-msgstr "선로 삭제"
+msgstr "개체 삭제"
 
 #v1.1.31
 msgctxt "demand_pax_overall"
@@ -1664,7 +1663,7 @@ msgstr "선로를 추가하거나 새 선로 만들기"
 #v1.8.24
 msgctxt "editor_branch_append"
 msgid "Start or merge branches when pointing on top of existing tracks"
-msgstr "이미 있는 선로 위를 가리키는 경우 분기 시작 혹은 병합"
+msgstr "존재하는 선로 위를 클릭해 분기 선로를 만들기 시작하거나 선로에 합류합니다."
 
 #v1.4.15
 msgctxt "editor_building"
@@ -1694,47 +1693,47 @@ msgstr "제어점을 클릭하여 건물의 모체로 만듭니다."
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_esc"
 msgid "Esc to cancel picking"
-msgstr "Esc를 눌러 선택 취소"
+msgstr "Esc를 눌러 선택을 취소합니다."
 
 #v1.2.22
 msgctxt "editor_pick_constraint_parent_left"
 msgid "Click a control point to make it the constraint parent"
-msgstr "제어점을 클릭하여 제약조건의 모체로 만듭니다."
+msgstr "제어점을 클릭하여 병렬 선로로 만듭니다."
 
 #v1.6.13
 msgctxt "editor_sat_building_tape"
 msgid "Building tape"
-msgstr "Building tape"
+msgstr "건물 붙이기"
 
 #v1.6.13
 msgctxt "editor_sat_parallel_tape"
 msgid "Parallel track tape"
-msgstr "Parallel track tape"
+msgstr "병렬 선로 붙이기"
 
 #v1.6.13
 msgctxt "editor_sat_promote_station"
 msgid "Promote tracks into station platforms"
-msgstr "Promote tracks into station platforms"
+msgstr "선로를 역 승강장으로 바꾸기"
 
 #v1.6.13
 msgctxt "editor_sat_split"
 msgid "Split tracks"
-msgstr "선로 분리"
+msgstr "선로 분할"
 
 #v1.6.13
 msgctxt "editor_sat_track_tape"
 msgid "Track tape"
-msgstr "Track tape"
+msgstr "선로 구간 만들기"
 
 #v1.5.31
 msgctxt "editor_select_alt_signal"
 msgid "Click signal controls to set a signal as the secondary path signal for the stop"
-msgstr "Click signal controls to set a signal as the secondary path signal for the stop"
+msgstr "경로 신호를 클릭해 정차할 승강장의 보조 신호로 설정"
 
 #v1.6.13
 msgctxt "editor_station"
 msgid "Create stations"
-msgstr "역 생성"
+msgstr "역 만들기"
 
 #v1.1.31
 msgctxt "editor_tip_add_esc"
@@ -1743,8 +1742,8 @@ msgstr "편집 모드로 이동하려면 ESC키를 누르세요."
 
 #v1.8.24
 msgctxt "editor_tip_add_left1"
-msgid "Left click on the end of track control points to continue an existing track"
-msgstr "Left click on the end of track control points to continue an existing track"
+msgid "Left click on the existing end of track control points to continue an existing track"
+msgstr "기존 선로를 이어서 만들려면 선로의 제어점 끝 부분을 왼쪽 클릭하세요."
 
 #v1.1.31
 msgctxt "editor_tip_add_left2"
@@ -1754,7 +1753,7 @@ msgstr "새 선로를 만들려면 아무 곳이나 마우스 왼쪽을 누르�
 #v1.8.24
 msgctxt "editor_tip_add_left3"
 msgid "Left click on length of existing tracks to branch them"
-msgstr "Left click on length of existing tracks to branch them"
+msgstr "분기점을 만들려면 선로의 중간 지점을 왼쪽 클릭하세요."
 
 #v1.1.31
 msgctxt "editor_tip_branch_esc"
@@ -1774,12 +1773,12 @@ msgstr "새 선로 분기를 보려면 기존 선로 근처에 마우스 커서�
 #v1.2.22
 msgctxt "editor_tip_cont_alt"
 msgid "Alt to toggle the parallel track side"
-msgstr "평행 선로와 전환하려면 Alt키를 누르세요."
+msgstr "Alt키를 눌러 병렬 선로의 위치를 바꿀 수 있습니다."
 
 #v1.2.29
 msgctxt "editor_tip_cont_ctrl"
 msgid "Hold Ctrl to line up track with its previous track segment."
-msgstr "이전 선로와 맞추려면 Ctrl키를 누르고 있으세요."
+msgstr "Ctrl키를 눌러 선로를 이전 선로와 같은 방향으로 곧게 만들 수 있습니다."
 
 #v1.1.31
 msgctxt "editor_tip_cont_esc"
@@ -1794,12 +1793,12 @@ msgstr "새로 선로를 만드려면 좌클릭하세요."
 #v1.8.24
 msgctxt "editor_tip_cont_left_s1"
 msgid "Hold Shift to keep creating more segments."
-msgstr "이어서 선로를 만드려면 시프트를 누르고 있으세ㅇ."
+msgstr "Shift를 누른 채로 클릭해 선로를 이어서 만들 수 있습니다."
 
 #v1.1.31
 msgctxt "editor_tip_cont_mouse"
 msgid "Hover the mouse cursor over an existing end of track to see how it would look linked with your current track"
-msgstr "현재 선로와 연결된 모양을 보려면 마우스 커서를 기존 선로 끝 위로 가져가세요."
+msgstr "현재 선로와 연결된 모양을 보려면 마우스 커서를 기존 선로 끝 이후 지점으로 가져가세요."
 
 #v1.4.15
 msgctxt "editor_tip_copy"
@@ -1949,52 +1948,52 @@ msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다"
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_alt"
 msgid "Alt to create symmetrical buildings on both sides of the track"
-msgstr "선로 양 옆으로 대칭의 건물을 만드려면 Alt키를 누르세요."
+msgstr "양쪽 선로에 대칭인 건물을 만드려면 Alt 키를 누르세요."
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_left"
 msgid "Click near tracks to create new attached buildings"
-msgstr "선로에 부착되는 건물을 만드려면 주변 선로를 클릭하세요."
+msgstr "선로 근처를 클릭해 선로에 고정된 건물을 만들 수 있습니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_building_tape_shift"
 msgid "Shift to create buildings in all children when starting in a parent track"
-msgstr "Shift to create buildings in all children when starting in a parent track"
+msgstr "상위 선로에서 건물을 만들 때 Shift 키를 눌러 모든 하위 선로에 똑같이 만들 수 있습니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_esc"
 msgid "Esc to go to edit mode"
-msgstr "편집 모드로 진입하려면 Esc키를 누르세요"
+msgstr "편집 모드로 돌아가려면 Esc 키를 누르세요."
 
 #v1.6.13
 msgctxt "editor_tip_sat_parallel_tape_left"
 msgid "Click on tracks to attach new parallel tracks"
-msgstr "평행 선로를 추가하려면 선로를 클릭하세요"
+msgstr "병렬 선로를 만드려면 선로를 클릭하세요."
 
 #v1.6.13
 msgctxt "editor_tip_sat_platform_tape_left"
 msgid "Click on tracks to tape them over with a new station platform"
-msgstr "Click on tracks to tape them over with a new station platform"
+msgstr "선로를 눌러 선로를 새로운 역 승강장으로 바꿀 수 있습니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_promote_station_left"
 msgid "Click on tracks to promote them and their nearest sibling into a station platform"
-msgstr "Click on tracks to promote them and their nearest sibling into a station platform"
+msgstr "선로를 클릭하여 해당 선로와 가장 가까운 선로를 역 승강장으로 바꿉니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_split_left"
 msgid "Click on tracks to split them at the point of click"
-msgstr "선로를 분리하려면 해당 지점을 클릭하세요"
+msgstr "선로를 클릭하면 클릭한 지점에서 선로를 분할합니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_station_tape_left"
 msgid "Click on tracks to tape them over with a new station"
-msgstr "Click on tracks to tape them over with a new station"
+msgstr "선로를 클릭하면 선로가 역으로 바뀝니다."
 
 #v1.6.13
 msgctxt "editor_tip_sat_track_tape_left"
 msgid "Click on tracks to tape them over with new kind and layer of track"
-msgstr "Click on tracks to tape them over with new kind and layer of track"
+msgstr "선로를 클릭하여 구간을 새로운 종류와 높이의 선로로 바꿉니다."
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_del"
@@ -2014,7 +2013,7 @@ msgstr "선로 편집 모드로 진입하려면 Esc키를 누르세요."
 #v1.2.29
 msgctxt "editor_tip_sel_signal_flip"
 msgid "{} to flip direction of selected signals"
-msgstr "선택한 신호의 방향을 뒤집으려면 {}을(를) 사용하세요."
+msgstr "선택한 신호의 방향을 뒤집으려면 {} 키를 누르세요."
 
 #v1.2.22
 msgctxt "editor_tip_sel_signal_left"
@@ -2039,7 +2038,7 @@ msgstr "추가로 신호를 선택하려면 쉬프트 좌클릭을 누르세요.
 #v1.5.41
 msgctxt "editor_tip_sel_track_flip"
 msgid "{} to flip side of selected parallel tracks"
-msgstr "{} to flip side of selected parallel tracks"
+msgstr "선택한 병렬 선로의 방향을 바꾸려면 {} 키를 누르세요."
 
 #v1.1.31
 msgctxt "editor_tip_station_esc"
@@ -2069,7 +2068,7 @@ msgstr "마지막으로 한 편집을 취소하려면 CTRL + Z를 누르세요."
 #v1.6.13
 msgctxt "editor_tip_weight_left"
 msgid "Release left button to stop moving the track weighting"
-msgstr "Release left button to stop moving the track weighting"
+msgstr "선로 가중치 이동을 중지하려면 좌클릭을 해제하세요."
 
 #v1.1.31
 msgctxt "editor_tip_zoom"
@@ -2089,22 +2088,22 @@ msgstr "노선에 최소 한 개의 열차를 투입하고 일정을 할당하�
 #v1.5.31
 msgctxt "editor_warn_only_trains"
 msgid "Pax will leave and won't board trains running this line."
-msgstr "이 노선에 있는 승객들이 모두 내리고 더 이상 열차에 탑승하지 않게 됩니다."
+msgstr "이 노선 수요는 사라지고 운행하는 열차에 타지 않을 것입니다."
 
 #v1.5.31
 msgctxt "editor_warn_too_long_manual_interval"
 msgid "The manual interval exceeds the duration of the line. It will be ignored or work unreliably.\nIncrease the line custom duration value to at least the manual interval value."
-msgstr "사용자 지정 주기가 노선의 기간보다 깁니다. 제대로 동작하지 않거나 무시될 수 있습니다.\n사용자 지정 노선 기간을 주기 이상으로 올려 주세요."
+msgstr "수동 간격이 이 노선의 운행 시간을 초과합니다. 간격이 무시되거나 적절하지 않게 운행할 것입니다.\n노선의 수동 운행 기간을 수동 간격 값 이상으로 늘리십시오."
 
 #v1.5.31
 msgctxt "editor_warn_train_speed_too_high"
 msgid "Trains might be unable to make up for delays at this cruise speed."
-msgstr "이 운행 속도로는 변하는 교통 상황에 열차가 적응하지 못할 수 있습니다."
+msgstr "이 운행 속력으로는 지연되는 교통 상황에 열차가 적응하지 못할 수 있습니다."
 
 #v1.5.31
 msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
-msgstr "속도: {:.1f}x"
+msgstr "속력: {:.1f}x"
 
 #v1.5.31
 msgctxt "effective_game_speed_handicap"
@@ -2114,7 +2113,7 @@ msgstr "속력: {0:.1f}x\n핸디캡: {1}%"
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
-msgstr "한 플랫폼에서 다른 플랫폼으로 이동하는 데 걸리는 시간, 정차 시간을 고려하지 않음"
+msgstr "열차가 승강장의 중앙에서 다음 역의 승강장의 중앙까지 가는 데 걸리는 시간으로, 정차 시간으로 계산하지 않습니다."
 
 #v1.4.15
 msgctxt "empty_clipboard"
@@ -2161,10 +2160,25 @@ msgctxt "error_saving_internal"
 msgid "Internal error while saving game"
 msgstr "게임 저장 중 내부에 오류가 발생했습니다."
 
+#v1.1.31
+msgctxt "error_too_new_save"
+msgid "The game version that created this save file is newer than your game version. Update the game to load this file."
+msgstr "이 저장 파일을 생성한 게임 버전이 지금 버전보다 최신 버전입니다. 이 저장 파일을 불러오려면 게임을 업데이트하세요."
+
 #v1.1.37
 msgctxt "error_too_new_save_v"
 msgid "The game version ({}.{}.{}.{}) that created this save file is newer than your game version ({}.{}.{}.{}). Update the game to load this file."
 msgstr "해당 세이브 파일을 생성한 게임 버전 ({}.{}.{}.{})은 현재 게임 버전보다 최신 버전입니다({}.{}.{}.{}). 세이브를 불러오려면 게임을 업데이트하세요."
+
+#v1.1.37
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the older v1.1 legacy branches in Steam."
+msgstr "이 저장 파일을 생성한 게임 버전이 너무 오래되어 불러올 수 없습니다. Steam에서 v1.1버전 이하의 게임을 설치해 실행해보세요."
+
+#v1.1.37
+msgctxt "error_too_old_save_v"
+msgid "The game version ({}.{}.{}.{}) that created this save file is too old and it cannot be loaded. Try the legacy branches in Steam."
+msgstr "해당 세이브 파일을 생성한 게임 버전 ({}.{}.{}.{})은 현재 게임 버전에 비해 너무 오래됐습니다. Steam에서 구형 버전을 받아 불러오는 것을 시도해보세요."
 
 #v1.1.31
 msgctxt "error_writing_file"
@@ -2185,6 +2199,16 @@ msgstr "{} 환불"
 msgctxt "ev_too_short_warn"
 msgid "Too short stop time and/or train full"
 msgstr "너무 짧은 정차시간 / 열차 만원"
+
+#v1.1.31
+msgctxt "file_header_date"
+msgid "Date"
+msgstr "날짜"
+
+#v1.1.31
+msgctxt "file_header_name"
+msgid "Name"
+msgstr "이름"
 
 #v1.1.37
 msgctxt "file_picker_company"
@@ -2209,7 +2233,7 @@ msgstr "파일 이름:"
 #v1.7.15
 msgctxt "file_picker_file_size"
 msgid "Size:"
-msgstr "크기:"
+msgstr "용량:"
 
 #v1.7.15
 msgctxt "file_picker_sort_date"
@@ -2224,17 +2248,17 @@ msgstr "이름"
 #v1.7.15
 msgctxt "file_picker_sort_size"
 msgid "Size"
-msgstr "크기"
+msgstr "용량"
 
 #v1.7.15
 msgctxt "file_picker_stats"
 msgid "Stats:"
-msgstr "현황:"
+msgstr "통계:"
 
 #v1.7.15
 msgctxt "file_picker_stats_values"
 msgid "{} tracks, {} buildings, {} stations, {} trains, {} lines"
-msgstr "선로 {}개, 건물 {}개, 역 {}개, 열차 {}대, 노선 {}개"
+msgstr 선로 {}개, 건물 {}개, 역 {}개, 열차 {}대, 노선 {}개"
 
 #v1.1.37
 msgctxt "file_picker_version"
@@ -2269,12 +2293,12 @@ msgstr "최소:"
 #v1.1.58
 msgctxt "filter_max_pax"
 msgid "Max pax"
-msgstr "최대 승객."
+msgstr "최대 승객"
 
 #v1.1.58
 msgctxt "filter_max_speed"
 msgid "Max speed"
-msgstr "최대 속도"
+msgstr "최대 속력"
 
 #v1.1.58
 msgctxt "filter_price"
@@ -2394,7 +2418,7 @@ msgstr "게임 속도 증가"
 #v1.6.13
 msgctxt "game_wiki"
 msgid "NIMBY Rails Wiki"
-msgstr "NIMBY Rails Wiki"
+msgstr "님비레일 위키"
 
 #v1.7.15
 msgctxt "geo_export_desc"
@@ -2404,7 +2428,7 @@ msgstr "선로와 건물의 GeoJSON을 {}(으)로 내보냈습니다."
 #v1.7.15
 msgctxt "geo_export_title"
 msgid "Exported GeoJSON"
-msgstr "내보낸 GeoJSON"
+msgstr "GeoJSON 내보내짐"
 
 #v1.1.31
 msgctxt "global_blueprint_bill"
@@ -2456,15 +2480,20 @@ msgctxt "host_game_speed_warn"
 msgid "Large and complex builds, with many trains and stations, may not be playable at more than 1x speed in a multiplayer session."
 msgstr "많은 수의 역과 열차를 포함한 큰 규모의 건설은 멀티플레이어 세션 중 1배속 이상에서 불가능할 수 있섭니다."
 
+#v1.1.31
+msgctxt "icon_file"
+msgid "Icon file:"
+msgstr "아이콘 파일: "
+
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "공개 IP를 찾을 수 없습니다. Steam Relay를 사용하세요."
+msgstr "공용 IP를 감지할 수 없습니다. Steam Relay를 이용하세요."
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "PC와 공개된 IP가 직접 연결되어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시, CG-NAT을 사용하는 경우 연결이 불가능할 수 있습니다. 본 게임사는 개인의 인터넷 설정과 관련하여 어떤 도움도 드릴 수 없습니다."
+msgstr "PC 또는 라우터가 공용 IP로 인터넷에 직접 연결되어 있어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시 및 CG-NAT은 이 기능을 지원하지 않습니다. 이 기능이 당신의 연결에 작동하지 않는 경우 Weird and Wry는 기술 지원을 제공할 수 없습니다."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
@@ -2484,22 +2513,22 @@ msgstr "연결:"
 #v1.6.13
 msgctxt "host_server_mode_direct"
 msgid "Direct"
-msgstr "직접"
+msgstr "다이렉트"
 
 #v1.6.13
 msgctxt "host_server_mode_direct_desc"
 msgid "Clients will attempt to directly connect to your PC with your connection public IP address.\nEnables hosting of much larger builds if your connection has enough upload bandwidth."
-msgstr "다른 사람들이 귀하의 PC에 직접 접속합니다.\n대역폭이 충분한 경우 더 많은 건설이 가능해집니다."
+msgstr "클라이언트는 연결 공용 IP 주소로 PC에 직접 연결하려고 시도합니다.\n연결에 업로드 대역폭이 충분할 경우 훨씬 더 많은 건설을 할 수 있습니다."
 
 #v1.6.13
 msgctxt "host_server_mode_relay"
 msgid "Steam Relay Network"
-msgstr "Steam Relay 네트워크"
+msgstr "Steam Relay Network"
 
 #v1.6.13
 msgctxt "host_server_mode_relay_desc"
 msgid "Clients connect to your PC via the Steam Relay Network.\nThis is a safe, optimized CDN which hides your IP but has built-in bandwidth cap."
-msgstr "다른 사람들이 Steam Relay 네트워크를 통해 접속합니다.\nIP를 숨겨 비교적 안전하지만 대역폭에 제한이 있습니다."
+msgstr "클라이언트는 Steam Relay Network를 통해 PC에 연결합니다.\n안전하고 최적화된 CDN으로 IP를 숨기지만 대역폭 한도가 제한되어 있습니다."
 
 #v1.6.13
 msgctxt "host_server_port"
@@ -2524,17 +2553,17 @@ msgstr "독립"
 #v1.6.13
 msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
-msgstr "시간과 열차의 이동, 승객의 시뮬레이션은 각 유저별로 독립되어 실행됩니다.\n선로, 노선과 열차를 같이 편집할 수 있습니다.\n공유되는 시뮬레이션보다 더 많은 양의 건설이 가능해집니다.\n게임은 무제한 자금으로 설정됩니다."
+msgstr "시간, 열차의 움직임 및 수요 시뮬레이션은 각 유저마다 독립적입니다.\n트랙, 노선 및 열차는 공동으로 편집됩니다.\n공유 시뮬레이션보다 더 많은 건설이 가능합니다.\n게임은 항상 무제한으로 설정됩니다"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared"
 msgid "Shared"
-msgstr "공유"
+msgstr "공유됨"
 
 #v1.6.13
 msgctxt "host_sim_mode_shared_desc"
 msgid "Time, train motion and pax simulation is shared and synchronized between all clients.\nTracks, lines and trains are edited cooperatively."
-msgstr "모든 유저가 시간, 열차, 승객의 시뮬레이션을 공유하며 서로 동기화됩니다.\n선로, 노선과 열차를 같이 편집할 수 있습니다."
+msgstr "시간, 열차의 움직임 및 수요 시뮬레이션은 모든 유저 간에 공유 및 동기화됩니다.\n선로, 노선과 열차를 같이 편집할 수 있습니다."
 
 #v1.1.31
 msgctxt "icon_file"
@@ -2594,7 +2623,7 @@ msgstr "목적지"
 #v1.1.37
 msgctxt "info_table_pax_destination_tp"
 msgid "Destination station"
-msgstr "목적지"
+msgstr "목적지 역"
 
 #v1.1.37
 msgctxt "info_table_pax_fare"
@@ -2614,7 +2643,7 @@ msgstr "시간"
 #v1.1.37
 msgctxt "info_table_pax_leg_tp"
 msgid "Elapsed time of the current trip leg, including station waits"
-msgstr "현재 이동 구간의 경과 시간, 열차 대기시간 포함"
+msgstr "열차 대기 시간을 포함한 현재 이동 구간의 경과 시간"
 
 #v1.1.37
 msgctxt "info_table_pax_next"
@@ -2664,7 +2693,7 @@ msgstr "다음 대기중:"
 #v1.5.31
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "Expected to depart with this line and stop number, based on timetables"
+msgstr "시간표에 기반해, 이 노선에서 출발할 것으로 예상됩니다."
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -2674,7 +2703,7 @@ msgstr "승객: {0} / {1}"
 #v1.1.31
 msgctxt "info_train_speed"
 msgid "Speed: {} km/h"
-msgstr "속도: {} km/h"
+msgstr "속력: {} km/h"
 
 #v1.1.31
 msgctxt "info_train_speed_short"
@@ -2689,17 +2718,17 @@ msgstr "{}{}에서 {}{}"
 #v1.5.41
 msgctxt "intervene_all_stale_trains"
 msgid "Intervene all stale"
-msgstr "Intervene all stale"
+msgstr "모든 과거 시간표를 따르는 열차 재배치"
 
 #v1.5.31
 msgctxt "intervene_all_trains"
 msgid "Intervene all trains"
-msgstr "Intervene all trains"
+msgstr "모든 열차 재배치"
 
 #v1.5.31
 msgctxt "intervene_line"
 msgid "Intervene line"
-msgstr "Intervene line"
+msgstr "노선 열차 재배치"
 
 #v1.1.31
 msgctxt "intervention"
@@ -2819,7 +2848,7 @@ msgstr "선로: 복선"
 #v1.8.24
 msgctxt "kb_track_branch"
 msgid "Tracks: allow branching"
-msgstr "Tracks: allow branching"
+msgstr "선로: 분기 허용"
 
 #v1.4.15
 msgctxt "kb_track_building"
@@ -2834,7 +2863,7 @@ msgstr "선로: 새 차고지"
 #v1.5.41
 msgctxt "kb_track_flip_signal"
 msgid "Tracks: flip track side"
-msgstr "선로: 선택한 선로 뒤집기"
+msgstr "선로: 병렬 선로 뒤집기"
 
 #v1.2.29
 msgctxt "kb_track_layer_down"
@@ -2864,22 +2893,22 @@ msgstr "선로: 새 신호"
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
-msgstr "Tracks: building tape"
+msgstr "선로: 건물 붙이기"
 
 #v1.6.13
 msgctxt "kb_track_sat_parallel_tape"
 msgid "Tracks: parallel tape"
-msgstr "Tracks: parallel tape"
+msgstr "선로: 병렬 건설"
 
 #v1.6.13
 msgctxt "kb_track_sat_split"
 msgid "Tracks: split"
-msgstr "Tracks: split"
+msgstr "선로: 분할"
 
 #v1.6.13
 msgctxt "kb_track_sat_track_tape"
 msgid "Tracks: track tape"
-msgstr "Tracks: track tape"
+msgstr "선로: 구간 분리"
 
 #v1.2.22
 msgctxt "kb_track_sel_signal"
@@ -2904,12 +2933,12 @@ msgstr "[키: {}]"
 #v1.6.13
 msgctxt "key_info_hold"
 msgid "[Hold: {}]"
-msgstr "[Hold: {}]"
+msgstr "[누르고 있기: {}]"
 
 #v1.6.13
 msgctxt "key_info_hold_missing"
 msgid "[Missing key bind]"
-msgstr "[Missing key bind]"
+msgstr "[할당된 키 없음]"
 
 #v1.1.31
 msgctxt "language_pick"
@@ -2934,12 +2963,17 @@ msgstr "0개 역"
 #v1.5.41
 msgctxt "line_alert_closed"
 msgid "Line is closed"
-msgstr "노선 폐쇄됨"
+msgstr "노선이 폐쇄되었습니다."
+
+#v1.5.31
+msgctxt "line_editor_tip_zoom_pick"
+msgid "Zoom in to pick"
+msgstr "선택하려면 확대하세요"
 
 #v1.5.41
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
-msgstr "유효하지 않은 경로 포함"
+msgstr "비정상적인 경로를 포함하고 있습니다."
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -3039,32 +3073,32 @@ msgstr "{0} [{1}] at"
 #v1.8.24
 msgctxt "line_warn_custom_duration_too_short"
 msgid "Custom line duration is too short and it is ignored"
-msgstr "사용자 지정 노선 기간이 너무 짧아 무시됩니다."
+msgstr "사용자 지정 노선 운행 기간이 너무 짧아 무시됩니다."
 
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
 msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
-msgstr "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
+msgstr "사용자 지정 모드 또는 적절한 소요 시간 모드에는 마지막 고정 출발역 이후 대기 시간과 함께 하나 이상의 역이 필요합니다."
 
 #v1.7.15
 msgctxt "line_warn_unachievable_fixed_departure"
 msgid "One or more fixed departure stops are unachievable"
-msgstr "One or more fixed departure stops are unachievable"
+msgstr "1개 이상의 고정 출발역이 정한 시간 내에 도달 불가능합니다."
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms"
 msgid "Secondary platforms:"
-msgstr "보조 플랫폼:"
+msgstr "보조 승강장:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_platforms_n"
 msgid "(Total: {})"
-msgstr "(총합: {})"
+msgstr "(총: {})"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal"
 msgid "Secondary plat. signal:"
-msgstr "보조 플랫폼 신호:"
+msgstr "보조 승강장 신호:"
 
 #v1.5.31
 msgctxt "lineeditor_alt_signal_label"
@@ -3079,22 +3113,22 @@ msgstr "자동 간격:"
 #v1.5.31
 msgctxt "lineeditor_auto_interval_auto_no_trains"
 msgid "Add one or more auto run trains"
-msgstr "하나 또는 여러개의 자동 운행 열차를 추가하세요"
+msgstr "하나 이상의 자동 운행 열차를 추가하세요"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2"
 msgid "Launch trains:"
-msgstr "Launch trains:"
+msgstr "열차 발차 간격:"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_fit"
 msgid "Evenly spaced to fit one line loop"
-msgstr "Evenly spaced to fit one line loop"
+msgstr "노선 반복 시간을 균등하게 간격 배치"
 
 #v1.5.31
 msgctxt "lineeditor_auto_interval_kind2_manual"
 msgid "On a fixed, manual interval"
-msgstr "고정된 수동 기간 사용"
+msgstr "고정된 수동 간격 사용"
 
 #v1.5.31
 msgctxt "lineeditor_auto_timings"
@@ -3104,7 +3138,7 @@ msgstr "노선 자동 운행"
 #v1.2.22
 msgctxt "lineeditor_auto_value"
 msgid "Auto"
-msgstr "Auto"
+msgstr "자동"
 
 #v1.2.22
 msgctxt "lineeditor_basics"
@@ -3119,17 +3153,17 @@ msgstr "이 홈을 활성화 하려면 선로 청사진을 작성하세요."
 #v1.5.41
 msgctxt "lineeditor_clone_parent"
 msgid "Stop properties:"
-msgstr "Stop properties:"
+msgstr "정차역 속성:"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_clone"
 msgid "Copy from parent line"
-msgstr "부모 노선에서 가져오기"
+msgstr "상위 노선으로부터 복사"
 
 #v1.5.41
 msgctxt "lineeditor_clone_parent_custom"
 msgid "Customize for this line service"
-msgstr "이 노선 커스텀하기"
+msgstr "이 노선 서비스에 맞게 커스터마이징"
 
 #v1.1.31
 msgctxt "lineeditor_code"
@@ -3144,17 +3178,17 @@ msgstr "색상: "
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "운행 속도 (km/h):"
+msgstr "운행 속력 (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
-msgstr "열차는 지정된 속도까지 가속한 후 속도를 일정하게 유지하려고 합니다.\n열차가 지연됐을 경우 속도를 더 낼 수도 있습니다."
+msgstr "열차는 가속한 후 이 속력을 유지할 것입니다.\n만약 열차가 지연될 경우 속력을 더 올릴 것입니다."
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "순항 속도:"
+msgstr "순항 속력:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
@@ -3164,22 +3198,22 @@ msgstr "수동 기간:"
 #v1.5.31
 msgctxt "lineeditor_custom_duration_desc"
 msgid "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
-msgstr "Format: hh:mm:ss\nIf the line duration is shorter than this amount, stops flagged as custom duration wait stops will have extra stop time, until the line duration matches the custom duration.\nThe extra time is distributed evenly between the stops. If no stops are selected as custom wait, the last line stop is used."
+msgstr "형식: hh:mm:ss\n.만약 운행 시간이 이 값보다 작을 경우, 수동 당역 정차시간으로 설정한 역에서 열차들은 더 오랫동안 대기할 것입니다.\n추가 정차 시간은 지정된 역들이 균등하게 가집니다. 만약 아무 역도 수동 당역 대기시간으로 지정되지 않을 경우, 노선의 마지막 역이 지정됩니다."
 
 #v1.5.31
 msgctxt "lineeditor_custom_period"
 msgid "Custom period:"
-msgstr "수동 주기:"
+msgstr "사용자 지정 기간:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_period_desc"
 msgid "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
-msgstr "Format: hh:mm:ss\n.Line duration will be choosen to perfectly fit this length of time. This custom setting does not guarantee fitting days or weeks."
+msgstr "형식: hh:mm:ss\n.노선 운행 시간은 이 기간에 완전히 맞도록 설정됩니다. 사용자 지정 설정은 하루나 일주일에 맞춰지지 않습니다."
 
 #v1.5.31
 msgctxt "lineeditor_custom_wait_here"
 msgid "Custom duration wait in this stop"
-msgstr "수동 당역 대기시간"
+msgstr "이 역에서의 사용자 설정 대기 시간"
 
 #v1.2.22
 msgctxt "lineeditor_default_timings"
@@ -3189,32 +3223,32 @@ msgstr "기본 타이밍"
 #v1.7.15
 msgctxt "lineeditor_default_timings_go_ref_train"
 msgid "Edit reference train"
-msgstr "Edit reference train"
+msgstr "기준 열차 편집"
 
 #v1.7.15
 msgctxt "lineeditor_display_in_map"
 msgid "Display in map:"
-msgstr "Display in map:"
+msgstr "지도에 표시:"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_disabled"
 msgid "Disabled"
-msgstr "Disabled"
+msgstr "숨김"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_loop"
 msgid "Loop"
-msgstr "Loop"
+msgstr "순환으로 표시"
 
 #v1.8.24
 msgctxt "lineeditor_display_in_map_nonloop"
 msgid "Non-loop"
-msgstr "Non-loop"
+msgstr "순환하지 않도록 표시"
 
 #v1.5.31
 msgctxt "lineeditor_duration_custom"
 msgid "Custom"
-msgstr "수동"
+msgstr "사용자 설정"
 
 #v1.5.31
 msgctxt "lineeditor_duration_fit_period"
@@ -3224,7 +3258,7 @@ msgstr "주기에 맞춤"
 #v1.5.31
 msgctxt "lineeditor_duration_mode"
 msgid "Line duration:"
-msgstr "노선 길이:"
+msgstr "노선 소요 시간:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_mode_minimal"
@@ -3234,12 +3268,12 @@ msgstr "최소"
 #v1.5.31
 msgctxt "lineeditor_duration_period"
 msgid "Period:"
-msgstr "간격:"
+msgstr "주기:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_custom"
 msgid "Custom"
-msgstr "수동"
+msgstr "사용자 설정"
 
 #v1.5.31
 msgctxt "lineeditor_duration_period_day"
@@ -3249,47 +3283,47 @@ msgstr "하루"
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "일주일"
+msgstr "주"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
 msgid "Extra stop time on:"
-msgstr "추가적인 정차 시간:"
+msgstr "추가 정차하는 역:"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_all"
 msgid "Evenly on all stops"
-msgstr "모든 역에 균일하게"
+msgstr "모든 역에 균등하게"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "선택한 역들에만"
+msgstr "선택한 역들에만 추가 정차"
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at"
 msgid "Depart at:"
-msgstr "Depart at:"
+msgstr "출발 시간:"
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_at_shift"
 msgid "Shift click to also apply the time delta to all following fixed departures"
-msgstr "Shift click to also apply the time delta to all following fixed departures"
+msgstr "Shift 클릭으로 이어지는 모든 고정 출발역에 시간 편차를 적용합니다."
 
 #v1.7.15
 msgctxt "lineeditor_fixed_departure_desc"
 msgid "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr "Format: (hh:)mm:ss\nThe train will depart at this exact time, counting from the start of the line.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr "형식: (hh:)mm:ss\n열차는 정확히 정해진, 노선의 시작 시간부터 계산된 시간에 출발합니다.\n열차는 승객이 타고 내리는 시간에 따라 더 오래 대기할 수 있습니다."
 
 #v1.2.22
 msgctxt "lineeditor_header_full"
 msgid "{0}, {1} km, {2}, {3} km/h avg."
-msgstr "{0}, {1} km, {2}, {3} km/h avg"
+msgstr "{0}, {1} km, {2}, 평균 {3} km/h"
 
 #v1.7.15
 msgctxt "lineeditor_header_full_tooltip"
 msgid "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
-msgstr "Custom loop: {0}\nCustom non-loop: {1}\nMinimal loop: {2}\nMinimal non-loop: {3}\nLoop time is the sum of all leg times and all stop times, including the last to first leg.\nNon-loop time is the same as loop time, minus the last to first leg."
+msgstr "사용자 설정 순환 시간: {0}\n사용자 설정 비순환 시간: {1}\최소 순환 시간: {2}\n최소 비순환 시간: {3}\n순환 시간은 마지막 역에서 처음 역으로 돌아가는 것을 포함한 모든 소요 시간과 정차 시간의 합입니다.\n비순환 시간은 순환 시간에서 마지막 역에서 처음 역으로 돌아가는 시간을 뺀 값입니다."
 
 #v1.2.22
 msgctxt "lineeditor_header_l"
@@ -3299,22 +3333,22 @@ msgstr "{0}, {1} km"
 #v1.7.15
 msgctxt "lineeditor_implied_stop_time"
 msgid "Implied stop time:"
-msgstr "Implied stop time:"
+msgstr "예상 정지 시간:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time"
 msgid "First train departure:"
-msgstr "첫 차 출발:"
+msgstr "첫 열차 출발:"
 
 #v1.5.31
 msgctxt "lineeditor_launch_time_desc"
 msgid "Format: hh:mm:ss\nTime of day for the first departure on the first stop for the first automatic train.\nThis setting only applies for trains in automatic orders mode.\nManual order trains using this line ignore this setting and are not counted towards interval calculation."
-msgstr "형식: hh:mm:ss\n첫 자동운행 차량의 출발 시각을 작성합니다.\n이 설정은 자동 명령으로 운행되는 열차에만 적용됩니다.\n노선에 있는 수동 명령 열차들은 이 설정을 무시하며 계산에 반영하지 안습니다."
+msgstr "형식: hh:mm:ss\n첫 자동운행 차량의 출발 시각을 작성합니다.\n이 설정은 자동 명령으로 운행되는 열차에만 적용됩니다.\n노선에 있는 수동 명령 열차들은 이 설정을 무시하며 계산에 반영하지 않습니다."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta"
 msgid "Effective time:"
-msgstr "Effective time:"
+msgstr "유효 시간:"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_speed"
@@ -3329,7 +3363,7 @@ msgstr "사용자 설정 시간:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time_desc"
 msgid "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
-msgstr "Format: (hh:)mm:ss\nThis custom time will be approximated by finding a cruise speed.\nIt will be ignored if the resulting speed is too slow or too fast.\nTrains might speed up if they are late."
+msgstr "형식: (hh:)mm:ss\n이 사용자 지정 시간은 순항 속력을 구하면 근사화됩니다.\n계산된 속력이 너무 느리거나 너무 빠르면 무시됩니다.\n열차가 지연되면 속력이 빨라질 수 있습니다."
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode"
@@ -3354,32 +3388,32 @@ msgstr "사용자 지정 시간"
 #v1.5.31
 msgctxt "lineeditor_main_platform"
 msgid "Main platform:"
-msgstr "주 플랫폼:"
+msgstr "주 정차 승강장:"
 
 #v1.5.31
 msgctxt "lineeditor_manual_interval"
 msgid "Manual interval:"
-msgstr "수동 주기:"
+msgstr "수동 간격:"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel"
-msgid "Max. acceleration (ms):"
-msgstr "최대 가속 (ms⁻²):"
+msgid "Max. acceleration (ms\xE2\x81\xBB\xC2\xB2):"
+msgstr "최대 가속도 (m/s²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_accel_desc"
 msgid "Upper bound for train acceleration. Actual acceleration may be lower depending on train tractive effort."
-msgstr "이론적인 최대 가속 속도입니다. 실제 가속 속도는 차량에 따라 더 느릴 수 있습니다."
+msgstr "이론적인 최대 가속도입니다. 실제 가속도는 열차의 스펙에 따라 더 낮을 수 있습니다."
 
 #v1.8.24
 msgctxt "lineeditor_max_brake"
 msgid "Max. braking (ms\xE2\x81\xBB\xC2\xB2):"
-msgstr "최대 감속 (ms⁻²):"
+msgstr "최대 감속도 (m/s²):"
 
 #v1.8.24
 msgctxt "lineeditor_max_brake_desc"
 msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
-msgstr "이론적인 최대 감속 속도입니다. 실제 감속 속도는 차량에 따라 더 느릴 수 있습니다."
+msgstr "이론적인 최대 감속도입니다. 실제 감속도는 열차의 스펙에 따라 더 낮을 수 있습니다."
 
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
@@ -3389,7 +3423,7 @@ msgstr "최소 정차 시간 (mm:ss):"
 #v1.7.15
 msgctxt "lineeditor_min_stop_time_desc"
 msgid "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
-msgstr "Format: (hh:)mm:ss\nStops will be scheduled with this wait time.\nTrains might wait longer if pax are still leaving or boarding."
+msgstr "형식: (hh:)mm:ss\n역들은 이 정지 시간에 맞춰 계획될 것입니다.\n열차는 승객이 타고 내리는 시간에 따라 더 오래 대기할 수 있습니다."
 
 #v1.1.37
 msgctxt "lineeditor_move_camera"
@@ -3399,7 +3433,7 @@ msgstr "노선 또는 역사 선택 중 시점 확대 / 축소"
 #v1.1.31
 msgctxt "lineeditor_name"
 msgid "Name:"
-msgstr "이름: "
+msgstr "이름:"
 
 #v1.1.31
 msgctxt "lineeditor_price_base"
@@ -3414,12 +3448,12 @@ msgstr "km 당 가격: "
 #v1.2.22
 msgctxt "lineeditor_reference_train"
 msgid "Reference train:"
-msgstr "열차 참조:"
+msgstr "기준 열차:"
 
 #v1.2.22
 msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
-msgstr "An internal simulation of this train running on the tracks will be used for calculating the leg times."
+msgstr "기준 열차가 이 노선을 달리는 시간으로 소요 시간이 계산될 것입니다."
 
 #v1.2.22
 msgctxt "lineeditor_service_level"
@@ -3429,7 +3463,7 @@ msgstr "서비스 레벨:"
 #v1.2.22
 msgctxt "lineeditor_service_level_closed"
 msgid "Closed"
-msgstr "닫힘"
+msgstr "폐쇄"
 
 #v1.5.31
 msgctxt "lineeditor_service_level_full"
@@ -3449,27 +3483,27 @@ msgstr "서비스:"
 #v1.8.24
 msgctxt "lineeditor_stop_arrive"
 msgid "Arrive at:"
-msgstr "Arrive at:"
+msgstr "도착:"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
 msgid "Stop time mode:"
-msgstr "Stop time mode:"
+msgstr "정지 시간 모드:"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode_auto"
 msgid "Automatic"
-msgstr "Automatic"
+msgstr "자동"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode_custom"
 msgid "Custom time"
-msgstr "Custom time"
+msgstr "사용자 설정 시간"
 
 #v1.7.15
 msgctxt "lineeditor_stop_mode_fixed_departure"
 msgid "Fixed departure"
-msgstr "Fixed departure"
+msgstr "고정된 출발"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -3499,17 +3533,17 @@ msgstr "태그:"
 #v1.5.41
 msgctxt "lineeditor_tags_inherit_parent"
 msgid "Parent line tags are also inherited by trains\n"
-msgstr "Parent line tags are also inherited by trains\n"
+msgstr "상위 노선 태그는 열차에도 똑같이 적용됩니다.\n"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_stop_mode"
 msgid "Add stops to line"
-msgstr "노선에 정차구간 추가"
+msgstr "노선에 정차역 추가"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_add_waypoint_mode"
 msgid "Add waypoints to line"
-msgstr "노선에 경유지 추가"
+msgstr "노선에 경유지점 추가"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_clone"
@@ -3519,7 +3553,7 @@ msgstr "선택한 노선 복제"
 #v1.5.41
 msgctxt "lineeditor_tooltip_create_line_service"
 msgid "Create a new line service"
-msgstr "Create a new line service"
+msgstr "새 노선 만들기"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_del"
@@ -3529,7 +3563,7 @@ msgstr "선택한 노선 제거"
 #v1.1.31
 msgctxt "lineeditor_tooltip_del_stop"
 msgid "Delete selected stop"
-msgstr "선택한 정차구간 제거"
+msgstr "선택한 정차역 제거"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_depot_new"
@@ -3539,17 +3573,17 @@ msgstr "새 차고지 노선 만들기"
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_shift"
 msgid "Shift down all line stops"
-msgstr "Shift down all line stops"
+msgstr "Shift 클릭으로 모든 역 아래로 내리기"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_down_stop"
 msgid "Move down selected stop\nHold shift to shift down"
-msgstr "선택한 역 아래로 내리기"
+msgstr "선택한 역 아래로 내리기\nShift를 눌러 모든 역 아래로 내리기"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_intervention"
 msgid "Issue an intervention to all trains currently running the selected line"
-msgstr "Issue an intervention to all trains currently running the selected line"
+msgstr "선택한 노선의 모든 열차를 재배치하기"
 
 #v1.1.31
 msgctxt "lineeditor_tooltip_new"
@@ -3564,12 +3598,12 @@ msgstr "이 노선에 새 열차 구매"
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_shift"
 msgid "Shift up all line stops"
-msgstr "Shift up all line stops"
+msgstr "Shift 클릭으로 모든 역 위로 올리기"
 
 #v1.5.31
 msgctxt "lineeditor_tooltip_up_stop"
 msgid "Move up selected stop\nHold shift to shift up"
-msgstr "선택한 역 위로 올리기"
+msgstr "선택한 역 위로 올리기\nShift를 눌러 모든 역 위로 올리기"
 
 #v1.5.31
 msgctxt "lineeditor_tz"
@@ -3594,7 +3628,7 @@ msgstr "노선"
 #v1.7.15
 msgctxt "lineeditor_unachievable_depart"
 msgid "Unachievable departure"
-msgstr "불가능한 출발"
+msgstr "출발 불가능"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind"
@@ -3604,7 +3638,7 @@ msgstr "동작 그만하기:"
 #v1.5.31
 msgctxt "lineeditor_wait_kind_limbo"
 msgid "Black hole main, wait secondary"
-msgstr "Black hole main, wait secondary"
+msgstr "플랫폼에서 대기하지 않음"
 
 #v1.5.31
 msgctxt "lineeditor_wait_kind_normal"
@@ -3634,7 +3668,7 @@ msgstr "%d 노선"
 #v1.5.41
 msgctxt "list_sort_compact"
 msgid "Compact"
-msgstr "Compact"
+msgstr "축약"
 
 #v1.3.13
 msgctxt "list_sort_reverse"
@@ -3734,7 +3768,7 @@ msgstr "선로 확인 중, {} 남음"
 #v1.6.13
 msgctxt "loader_validating_db"
 msgid "Validating database"
-msgstr "Validating database"
+msgstr "데이터베이스 확인 중"
 
 #v1.1.31
 msgctxt "loading_elip"
@@ -3899,37 +3933,37 @@ msgstr "모든 열차 판매"
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_but"
 msgid "All stale trains intervention"
-msgstr "All stale trains intervention"
+msgstr "모든 과거 시간표를 따르는 열차 재배치"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_desc"
 msgid "Do you want to issue an intervention to all stale trains for a price of ${}?"
-msgstr "Do you want to issue an intervention to all stale trains for a price of ${}?"
+msgstr "${}의 비용으로 모든 과거 시간표를 따르는 열차를 재배치하시겠습니까?"
 
 #v1.5.41
 msgctxt "mass_intervention_stale_trains_title"
 msgid "Confirm all stale trains intervention"
-msgstr "Confirm all stale trains intervention"
+msgstr "모든 과거 시간표를 따르는 열차 재배치 승인"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_but"
 msgid "All trains intervention"
-msgstr "All trains intervention"
+msgstr "모든 열차 재배치"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_desc"
 msgid "Do you want to issue an intervention to all trains for a price of ${}?"
-msgstr "Do you want to issue an intervention to all trains for a price of ${}?"
+msgstr "${}의 비용으로 모든 열차를 재배치하시겠습니까?"
 
 #v1.5.31
 msgctxt "mass_intervention_trains_title"
 msgid "Confirm all trains intervention"
-msgstr "Confirm all trains intervention"
+msgstr "모든 열차 재배치 승인"
 
 #v1.5.41
 msgctxt "mass_recalc_all_lines_but"
 msgid "Refresh all line timings"
-msgstr "Refresh all line timings"
+msgstr "모든 노선 타이밍 갱신"
 
 #v1.1.37
 msgctxt "max_speed_desc"
@@ -3959,7 +3993,7 @@ msgstr "카테고리:"
 #v1.7.15
 msgctxt "mod_contents"
 msgid "Mod contents: {} rules"
-msgstr "Mod contents: {} rules"
+msgstr "모드 컨텐츠: {} 규칙"
 
 #v1.1.31
 msgctxt "mod_desc"
@@ -3969,7 +4003,7 @@ msgstr "설명: "
 #v1.7.15
 msgctxt "mod_disable_all_unused"
 msgid "Disable all unused mods"
-msgstr "Disable all unused mods"
+msgstr "사용하지 않는 모드 모두 비활성화"
 
 #v1.1.37
 msgctxt "mod_disable_in_game"
@@ -4594,7 +4628,7 @@ msgstr "승객 욕구 요소:"
 #v1.7.15
 msgctxt "option_company_geo_export"
 msgid "Export GeoJSON"
-msgstr "Export GeoJSON"
+msgstr "GeoJSON 내보내기"
 
 #v1.1.31
 msgctxt "option_company_name"
@@ -4604,7 +4638,7 @@ msgstr "회사명: "
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "New track par. off.:"
+msgstr "새 병렬 노선 간격:"
 
 #v1.5.31
 msgctxt "option_company_station_label"
@@ -4619,7 +4653,7 @@ msgstr "예산 무제한 모드로 바꾸기"
 #v1.7.15
 msgctxt "option_company_switch_no_couplers"
 msgid "Switch to unrestricted coupling"
-msgstr "Switch to unrestricted coupling"
+msgstr "열차 구성 제한 해제 모드로 바꾸기"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -4629,7 +4663,7 @@ msgstr "예산 무제한"
 #v1.7.15
 msgctxt "option_no_couplers"
 msgid "Unrestricted coupling"
-msgstr "Unrestricted coupling"
+msgstr "열차 구성 제한 해제"
 
 #v1.1.31
 msgctxt "options"
@@ -4674,7 +4708,7 @@ msgstr "이전과 다음의 명령이 맞지 않습니다"
 #v1.5.41
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
-msgstr "Arrive No Later orders cannot appear one after the other"
+msgstr "나중에 도착하지 않음 명령이 차례로 나타날 수 없습니다."
 
 #v1.5.31
 msgctxt "order_invalid_line"
@@ -4769,7 +4803,7 @@ msgstr "{}은(는) 다른 게임 버전으로 저장되었습니다. 덮어쓰�
 #v1.3.13
 msgctxt "parent"
 msgid "Parent:"
-msgstr "부모:"
+msgstr "병렬:"
 
 #v1.1.31
 msgctxt "paste"
@@ -4814,7 +4848,7 @@ msgstr "승객의 다음 역부터 경로가 시작됩니다."
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "구형 데이터가 감지되어 단계를 건너뜁니다"
+msgstr "구식의 데이터가 감지되어 단계를 건너뜁니다"
 
 #v1.5.31
 msgctxt "pax_new_time"
@@ -4864,7 +4898,7 @@ msgstr "이동경로 보기"
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
 msgid "Group by waited line stop"
-msgstr "Group by waited line stop"
+msgstr "대기하는 노선 그룹으로 묶어 보기"
 
 #v1.1.31
 msgctxt "paxlist_n_pax"
@@ -4874,7 +4908,7 @@ msgstr "{}명"
 #v1.5.31
 msgctxt "paxlist_other_win"
 msgid "(window)"
-msgstr "(window)"
+msgstr "(창 모드)"
 
 #v1.1.58
 msgctxt "paxlist_waiting_pax"
@@ -4909,32 +4943,32 @@ msgstr "< 선택 >"
 #v1.5.41
 msgctxt "picker_mode_flat"
 msgid "Flat"
-msgstr "Flat"
+msgstr "묶어 보지 않기"
 
 #v1.5.41
 msgctxt "picker_mode_line_tags"
 msgid "Line tags"
-msgstr "Line tags"
+msgstr "노선 태그"
 
 #v1.5.41
 msgctxt "picker_mode_lines"
 msgid "Lines"
-msgstr "Lines"
+msgstr "노선"
 
 #v1.5.41
 msgctxt "picker_mode_recent"
 msgid "Recent"
-msgstr "Recent"
+msgstr "최근"
 
 #v1.5.41
 msgctxt "picker_mode_tags"
 msgid "Tags"
-msgstr "Tags"
+msgstr "태그"
 
 #v1.2.22
 msgctxt "plat_auto_direction"
 msgid "Auto append direction signals"
-msgstr "Auto añadir señales de dirección única"
+msgstr "방향 신호 자동 추가"
 
 #v1.4.15
 msgctxt "plat_buildings_base"
@@ -4954,37 +4988,37 @@ msgstr "곡선 선로와 건물"
 #v1.1.31
 msgctxt "platform_n"
 msgid "Platform "
-msgstr "홈  "
+msgstr "승강장"
 
 #v1.1.58
 msgctxt "platforms"
 msgid "Platforms"
-msgstr "플랫폼"
+msgstr "승강장"
 
 #v1.4.15
 msgctxt "plats_n_0"
 msgid "0 platforms"
-msgstr "0개 플랫폼"
+msgstr "0개 승강장"
 
 #v1.4.15
 msgctxt "plats_n_1"
 msgid "1 platform"
-msgstr "1개 플랫폼"
+msgstr "1개 승강장"
 
 #v1.4.15
 msgctxt "plats_n_many"
 msgid "%d platforms"
-msgstr "%d개 플랫폼"
+msgstr "%d개 승강장"
 
 #v1.5.41
 msgctxt "plats_show_conflicts"
 msgid "Highlight overlapping train stops"
-msgstr "겹치는 기차역 강조 표시"
+msgstr "겹치는 열차 정차 시각 강조 표시"
 
 #v1.5.41
 msgctxt "plats_stacked_lines"
 msgid "Single column per platform"
-msgstr "Single column per platform"
+msgstr "승강장당 1개의 행 표시"
 
 #v1.3.13
 msgctxt "plots_button_tp"
@@ -5014,7 +5048,7 @@ msgstr "공용"
 #v1.7.15
 msgctxt "purchase_trains"
 msgid "Purchase new train(s)"
-msgstr "Purchase new train(s)"
+msgstr "새 열차 구매"
 
 #v1.1.31
 msgctxt "quit_desktop"
@@ -5029,7 +5063,7 @@ msgstr "게임 나가기"
 #v1.8.24
 msgctxt "realtime"
 msgid "Realtime"
-msgstr "Realtime"
+msgstr "실제 시간"
 
 #v1.1.37
 msgctxt "rename_save"
@@ -5049,12 +5083,12 @@ msgstr "DirectX 11"
 #v1.2.29
 msgctxt "renderer_opengl"
 msgid "OpenGL 3.3"
-msgstr "OpenGL 3.1"
+msgstr "OpenGL 3.3"
 
 #v1.7.15
 msgctxt "replace_trains"
 msgid "Replace existing train(s)"
-msgstr "Replace existing train(s)"
+msgstr "현재의 열차 대체"
 
 #v1.1.31
 msgctxt "reset_train"
@@ -5124,12 +5158,12 @@ msgstr "적용 범위"
 #v1.8.24
 msgctxt "rtstat_creation"
 msgid "Creation date"
-msgstr "Creation date"
+msgstr "제작일"
 
 #v1.5.41
 msgctxt "rtstat_leg_late"
 msgid "Lateness estimation"
-msgstr "Lateness estimation"
+msgstr "추정 지연 시간"
 
 #v1.1.72
 msgctxt "rtstat_leg_m"
@@ -5179,12 +5213,12 @@ msgstr "환승객 포함"
 #v1.1.72
 msgctxt "rtstat_pax_with_destination"
 msgid "Pax with destination at"
-msgstr "다음이 목적지인 승객"
+msgstr "다음 하차역이 목적지인 승객"
 
 #v1.1.72
 msgctxt "rtstat_pax_with_next"
 msgid "Pax with next stop at"
-msgstr "다음이 다음 정거장인 승객"
+msgstr "다음 하차역이 다음 정거장인 승객"
 
 #v1.1.72
 msgctxt "rtstat_pax_with_origin"
@@ -5204,7 +5238,7 @@ msgstr "생성률"
 #v1.1.72
 msgctxt "rtstat_speed"
 msgid "Speed"
-msgstr "속도"
+msgstr "속력"
 
 #v1.5.31
 msgctxt "run_panel_start"
@@ -5214,12 +5248,12 @@ msgstr "{0}: {1}(으)로 경로 시작"
 #v1.5.31
 msgctxt "run_panel_train"
 msgid "{0} Run {1}"
-msgstr "{0} Run {1}"
+msgstr "{0} 운행 {1}"
 
 #v1.5.31
 msgctxt "run_view_tooltip"
 msgid "{0} Run {1}"
-msgstr "{0} Run {1}"
+msgstr "{0} 운행 {1}"
 
 #v1.7.15
 msgctxt "run_view_tooltip_click"
@@ -5229,7 +5263,7 @@ msgstr "Click to see all {} stops"
 #v1.5.31
 msgctxt "run_view_tooltip_full"
 msgid "{0} Run {1}\n{2}"
-msgstr "{0} Run {1}\n{2}"
+msgstr "{0} 운행 {1}\n{2}"
 
 #v1.1.31
 msgctxt "save"
@@ -5364,87 +5398,87 @@ msgstr "설정"
 #v1.7.15
 msgctxt "share_deleting"
 msgid "Deleting slot"
-msgstr "Deleting slot"
+msgstr "슬롯 삭제"
 
 #v1.7.15
 msgctxt "share_empty_slot"
 msgid "< Empty slot >"
-msgstr "< Empty slot >"
+msgstr "< 빈 슬롯 >"
 
 #v1.7.15
 msgctxt "share_game"
 msgid "Share game"
-msgstr "Share game"
+msgstr "게임 공유"
 
 #v1.7.15
 msgctxt "share_game_attribution"
 msgid "Attribution:"
-msgstr "Attribution:"
+msgstr "기여자:"
 
 #v1.7.15
 msgctxt "share_game_attribution_anon"
 msgid "Anonymous"
-msgstr "Anonymous"
+msgstr "익명"
 
 #v1.7.15
 msgctxt "share_game_attribution_name"
 msgid "Steam user name"
-msgstr "Steam user name"
+msgstr "Steam 유저명"
 
 #v1.7.15
 msgctxt "share_game_attribution_profile"
 msgid "Steam user name and profile link"
-msgstr "Steam user name and profile link"
+msgstr "Steam 유저명과 프로필 링크"
 
 #v1.7.15
 msgctxt "share_game_copy_link"
 msgid "Copy link"
-msgstr "Copy link"
+msgstr "복사 링크"
 
 #v1.7.15
 msgctxt "share_game_copy_link_desc"
 msgid "Copy game link into clipboard"
-msgstr "Copy game link into clipboard"
+msgstr "게임 링크를 클립보드에 복사"
 
 #v1.7.15
 msgctxt "share_game_delete_desc"
 msgid "Delete the existing uploaded game"
-msgstr "Delete the existing uploaded game"
+msgstr "업로드된 게임 삭제"
 
 #v1.7.15
 msgctxt "share_game_open_link"
 msgid "Open link"
-msgstr "Open link"
+msgstr "링크 열기"
 
 #v1.7.15
 msgctxt "share_game_open_link_desc"
 msgid "Open game link in a web browser"
-msgstr "Open game link in a web browser"
+msgstr "웹 브라우저에서 링크 열기"
 
 #v1.7.15
 msgctxt "share_game_own_likes"
 msgid "Likes:"
-msgstr "Likes:"
+msgstr "좋아요:"
 
 #v1.7.15
 msgctxt "share_game_replace"
 msgid "Replace with current game"
-msgstr "Replace with current game"
+msgstr "현재 게임 대체"
 
 #v1.7.15
 msgctxt "share_game_replace_desc"
 msgid "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
-msgstr "Delete existing game and upload current game to nimbyrails.com and create a link to share it"
+msgstr "nimbyrails.com에 존재하는 게임을 삭제하고 현재의 게임을 업로드한 후 공유할 링크를 만들기"
 
 #v1.7.15
 msgctxt "share_game_upload"
 msgid "Upload current game"
-msgstr "Upload current game"
+msgstr "현재 게임 업로드"
 
 #v1.7.15
 msgctxt "share_game_upload_desc"
 msgid "Upload current game to nimbyrails.com and create a link to share it"
-msgstr "Upload current game to nimbyrails.com and create a link to share it"
+msgstr " nimbyrails.com에 현재의 게임을 업로드한 후 공유할 링크를 만들기"
 
 #v1.7.15
 msgctxt "share_home_by"
@@ -5454,47 +5488,47 @@ msgstr "By {}"
 #v1.7.15
 msgctxt "share_home_click_load"
 msgid "Click to load game"
-msgstr "Click to load game"
+msgstr "게임 재개"
 
 #v1.8.24
 msgctxt "share_home_listing"
 msgid "Browse {} shared games"
-msgstr "Browse {} shared games"
+msgstr "{} 공유된 게임 탐색하기"
 
 #v1.7.15
 msgctxt "share_listing"
 msgid "Listing slots"
-msgstr "Listing slots"
+msgstr "슬롯 나열"
 
 #v1.7.15
 msgctxt "share_net_error_api"
 msgid "Sharing API error {}"
-msgstr "Sharing API error {}"
+msgstr "공유 API 오류 {}"
 
 #v1.7.15
 msgctxt "share_net_error_cannot_connect"
 msgid "Cannot connect to sharing service"
-msgstr "Cannot connect to sharing service"
+msgstr "공유 서비스에 접속할 수 없습니다."
 
 #v1.7.15
 msgctxt "share_querying_slot"
 msgid "< Loading... >"
-msgstr "< Loading... >"
+msgstr "< 로딩 중... >"
 
 #v1.7.15
 msgctxt "share_upload_map_preview"
 msgid "Uploading map preview {}%"
-msgstr "Uploading map preview {}%"
+msgstr "맵 프리뷰 업로드 {}% 완료"
 
 #v1.7.15
 msgctxt "share_upload_save"
 msgid "Uploading saved game {}%"
-msgstr "Uploading saved game {}%"
+msgstr "저장된 게임 업로드 {}% 완료"
 
 #v1.7.15
 msgctxt "share_upload_screenshot"
 msgid "Uploading screenshot {}%"
-msgstr "Uploading screenshot {}%"
+msgstr "스크린샷 업로드 {}% 완료"
 
 #v1.4.15
 msgctxt "show_all_clips"
@@ -5519,12 +5553,12 @@ msgstr "다음에 알림:"
 #v1.8.24
 msgctxt "signal_check_hit_occ"
 msgid "Occupied by {}"
-msgstr "Occupied by {}"
+msgstr "{}에게 점유됨"
 
 #v1.8.24
 msgctxt "signal_check_hit_res"
 msgid "Reserved by {}"
-msgstr "Reserved by {}"
+msgstr "{}에게 예약됨"
 
 #v1.2.22
 msgctxt "signal_dir_m1"
@@ -5634,7 +5668,7 @@ msgstr "단순 블록"
 #v1.2.22
 msgctxt "signal_limits_block"
 msgid "Bounds other signals:"
-msgstr "Bounds other signals:"
+msgstr "다른 신호에 영향:"
 
 #v1.2.22
 msgctxt "signal_limits_block_always"
@@ -5689,17 +5723,17 @@ msgstr "종류:"
 #v1.8.24
 msgctxt "signal_warn_ignored"
 msgid "Ignored"
-msgstr "Ignored"
+msgstr "무시"
 
 #v1.8.24
 msgctxt "signal_warn_ignored_plat_desc"
 msgid "One way signals at platform dead ends are ignored"
-msgstr "One way signals at platform dead ends are ignored"
+msgstr "승강장 끄트머리의 일방통행 신호는 무시됩니다."
 
 #v1.8.24
 msgctxt "signal_warn_max_length_desc"
 msgid "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
-msgstr "The block of track protected by this signal is too long. Introduce more signals in the block, like balises, to make it shorter."
+msgstr "이 선로의 신호 구간이 너무 깁니다. 지상자 블록과 같은 더 많은 신호를 이 구간에 설치해 짧게 만드세요."
 
 #v1.3.13
 msgctxt "signal_warn_too_close"
@@ -5709,7 +5743,7 @@ msgstr "너무 가까움"
 #v1.8.24
 msgctxt "signal_warn_too_close_desc"
 msgid "The signal position in the track is too close to another track. Move it away from overlapping tracks."
-msgstr "The signal position in the track is too close to another track. Move it away from overlapping tracks."
+msgstr "신호의 위치가 다른 선로와 너무 가깝습니다. 겹쳐지는 선로에서 다른 곳으로 옮기세요."
 
 #v1.1.31
 msgctxt "single_player"
@@ -5724,17 +5758,17 @@ msgstr "--- 회계 ---"
 #v1.8.24
 msgctxt "sort_sep_real_time"
 msgid "--- Realtime ---"
-msgstr "--- Realtime ---"
+msgstr "--- 실시간 ---"
 
 #v1.5.31
 msgctxt "stale_run"
 msgid "Stale run"
-msgstr "Stale run"
+msgstr "과거 시간표대로의 운행"
 
 #v1.5.31
 msgctxt "stale_run_tooltip"
 msgid "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
-msgstr "The orders for this train have changed. At the end of its current run it will automatically respawn on the new orders stop.\nPax will be automatically relocated to their next stops."
+msgstr "열차 운행 정보가 변경되었습니다. 이번 운행의 끝에 열차는 재소환되어 새로운 시간표대로 운행할 것입니다.\n승객은 자동으로 다음 역에 배치될 것입니다."
 
 #v1.1.31
 msgctxt "start_game"
@@ -5799,7 +5833,7 @@ msgstr "플랫폼 자동 이름 짓기"
 #v1.6.13
 msgctxt "station_platform_demote"
 msgid "Demote platform into normal track"
-msgstr "Demote platform into normal track"
+msgstr "승강장을 선로로 변경"
 
 #v1.4.15
 msgctxt "station_platform_user_name"
@@ -5829,7 +5863,7 @@ msgstr "Steam 채팅 및 Steam 친구의 초대 설정을 사용하여 개설된
 #v1.1.31
 msgctxt "steam_friends"
 msgid "Steam Friends"
-msgstr "스팀 친구"
+msgstr "Steam 친구"
 
 #v1.1.31
 msgctxt "steamworks_id"
@@ -5844,7 +5878,7 @@ msgstr "역 {}"
 #v1.5.31
 msgctxt "stop_leg_full2"
 msgid "{0}m at {1} km/h avg."
-msgstr "{0}m at {1} km/h avg"
+msgstr "평균 {1} km/h으로 {0}m 남음"
 
 #v1.2.22
 msgctxt "stop_leg_l"
@@ -5864,7 +5898,7 @@ msgstr "Stop {} departure"
 #v1.8.24
 msgctxt "stop_times_tp_leg"
 msgid "Stop {0} \xE2\x96\xB6 {1} leg time"
-msgstr "Stop {0} \xE2\x96\xB6 {1} leg time"
+msgstr "Stop {0} ▶ {1} 운행 시간"
 
 #v1.7.15
 msgctxt "stop_times_tp_wait"
@@ -5904,7 +5938,7 @@ msgstr "호스트보다 시간이 느리게 흘러가고 있습니다. 시간을
 #v1.6.13
 msgctxt "stream_waiting_for_player"
 msgid "Waiting for player {}"
-msgstr "Waiting for player {}"
+msgstr "플레이어 {} 기다리는 중"
 
 #v1.1.31
 msgctxt "subs_in_workshop"
@@ -5924,7 +5958,7 @@ msgstr "무제한으로 변경"
 #v1.7.15
 msgctxt "switch_no_couplers"
 msgid "Switch to unrestricted"
-msgstr "Switch to unrestricted"
+msgstr "열차 구성 제한 해제 모드로 변경"
 
 #v1.1.58
 msgctxt "tag_autorack"
@@ -5984,7 +6018,7 @@ msgstr "구획"
 #v1.7.15
 msgctxt "tag_couchette"
 msgid "Couchette"
-msgstr "Couchette"
+msgstr "침대차"
 
 #v1.3.13
 msgctxt "tag_del"
@@ -6064,7 +6098,7 @@ msgstr "멀티플레이어에서는 수정할 수 없습니다"
 #v1.3.13
 msgctxt "tag_info_top_level"
 msgid "<Top level>"
-msgstr "<최상 층>"
+msgstr "<최상위 레벨>"
 
 #v1.1.58
 msgctxt "tag_intercity"
@@ -6074,7 +6108,7 @@ msgstr "도시간"
 #v1.7.15
 msgctxt "tag_kitchen"
 msgid "Kitchen"
-msgstr "Kitchen"
+msgstr "요리칸"
 
 #v1.1.58
 msgctxt "tag_light_rail"
@@ -6084,7 +6118,7 @@ msgstr "경전철"
 #v1.1.58
 msgctxt "tag_linear_induction"
 msgid "Linear induction"
-msgstr "선형 유도"
+msgstr "선형 전동기"
 
 #v1.1.58
 msgctxt "tag_locomotive"
@@ -6139,12 +6173,12 @@ msgstr "새 태그"
 #v1.1.58
 msgctxt "tag_observation"
 msgid "Observation"
-msgstr "Observation"
+msgstr "관측차"
 
 #v1.7.15
 msgctxt "tag_open_coach"
 msgid "Open coach"
-msgstr "Open coach"
+msgstr "개방형 객차"
 
 #v1.1.58
 msgctxt "tag_people_mover"
@@ -6224,17 +6258,17 @@ msgstr "탄수차"
 #v1.1.58
 msgctxt "tag_third_rail"
 msgid "Third rail"
-msgstr "Third rail"
+msgstr "제3궤조"
 
 #v1.1.58
 msgctxt "tag_tilting"
 msgid "Tilting"
-msgstr "Tilting"
+msgstr "틸팅"
 
 #v1.7.15
 msgctxt "tag_toilet"
 msgid "Toilet"
-msgstr "Toilet"
+msgstr "화장실"
 
 #v1.1.58
 msgctxt "tag_tram"
@@ -6254,7 +6288,7 @@ msgstr "고무차륜"
 #v1.7.15
 msgctxt "tag_vending"
 msgid "Vending"
-msgstr "Vending"
+msgstr "자판기"
 
 #v1.3.13
 msgctxt "tags_empty"
@@ -6269,7 +6303,7 @@ msgstr "폭"
 #v1.7.15
 msgctxt "tags_interior"
 msgid "Interior"
-msgstr "Interior"
+msgstr "인테리어"
 
 #v1.1.58
 msgctxt "tags_misc"
@@ -6294,37 +6328,37 @@ msgstr "량"
 #v1.6.13
 msgctxt "tape_building_props"
 msgid "Tape building properties"
-msgstr "Tape building properties"
+msgstr "건물 붙이기 속성"
 
 #v1.6.13
 msgctxt "tape_warn_built"
 msgid "Already built"
-msgstr "Already built"
+msgstr "이미 지어짐"
 
 #v1.6.13
 msgctxt "tape_warn_invalid_elements"
 msgid "Invalid geometry or elements"
-msgstr "Invalid geometry or elements"
+msgstr "잘못된 기하 혹은 요소"
 
 #v1.6.13
 msgctxt "tape_warn_invalid_length"
 msgid "Invalid length"
-msgstr "Invalid length"
+msgstr "잘못된 길이"
 
 #v1.6.13
 msgctxt "tape_warn_too_complex"
 msgid "Too complex"
-msgstr "Too complex"
+msgstr "너무 복잡함"
 
 #v1.6.13
 msgctxt "tape_warn_too_long"
 msgid "Too long"
-msgstr "Too long"
+msgstr "너무 김"
 
 #v1.8.24
 msgctxt "teo.append_continous"
 msgid "Continously append track segments until pressing Esc or merging/linking the track"
-msgstr "Continously append track segments until pressing Esc or merging/linking the track"
+msgstr "Esc를 누르거나 선로를 병합/연결할 때까지 선로를 계속 추가합니다."
 
 #v1.2.29
 msgctxt "teo.plat_auto_direction_lr"
@@ -6389,12 +6423,12 @@ msgstr "제목: "
 #v1.5.31
 msgctxt "too_many_collections"
 msgid "Too many clips"
-msgstr "Too many clips"
+msgstr "클립보드에 너무 많이 저장됨"
 
 #v1.5.31
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
-msgstr "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
+msgstr "저장되거나 구독된 클립보드에 선로와 건물이 최대치인 5만 개에 도달했습니다. 저장된 클립보드를 일부 지우거나 구독 취소해 주세요."
 
 #v1.2.22
 msgctxt "tooltip_demand"
@@ -6439,7 +6473,7 @@ msgstr "다중 선택"
 #v1.8.24
 msgctxt "track_info_name"
 msgid "Name:"
-msgstr "Name:"
+msgstr "이름:"
 
 #v1.2.29
 msgctxt "track_info_price"
@@ -6454,7 +6488,7 @@ msgstr "km당 ${}"
 #v1.2.29
 msgctxt "track_info_special"
 msgid "Special:"
-msgstr "특별:"
+msgstr "특수 효과:"
 
 #v1.2.29
 msgctxt "track_info_special_no_collide_ways"
@@ -6469,7 +6503,7 @@ msgstr "즐겨찾기 안 함"
 #v1.6.13
 msgctxt "track_sat_tools"
 msgid "Split and tape tools"
-msgstr "Split and tape tools"
+msgstr "분할 및 붙이기 도구"
 
 #v1.2.29
 msgctxt "track_sort_alpha"
@@ -6494,7 +6528,7 @@ msgstr "축소 상태에서 제어점 숨기기"
 #v1.6.13
 msgctxt "trackeditor_hold_keybinds"
 msgid "Track tool keybind hold mode"
-msgstr "Track tool keybind hold mode"
+msgstr "선로 도구 키 고정 모드"
 
 #v1.4.15
 msgctxt "tracks_total"
@@ -6519,7 +6553,7 @@ msgstr "{} ({} / {})\n{}\{} UTC{}부터"
 #v1.7.15
 msgctxt "train_base_color_edit"
 msgid "Default base color:"
-msgstr "Default base color:"
+msgstr "기본 색상:"
 
 #v1.1.31
 msgctxt "train_bill"
@@ -6529,82 +6563,82 @@ msgstr "열차 청구서"
 #v1.6.13
 msgctxt "train_bulk_change_orders"
 msgid "Change orders in selection"
-msgstr "Change orders in selection"
+msgstr "선택한 열차의 명령 바꾸기"
 
 #v1.6.13
 msgctxt "train_bulk_intervention"
 msgid "Intervene selection"
-msgstr "Intervene selection"
+msgstr "선택한 열차 재배치"
 
 #v1.7.15
 msgctxt "train_bulk_replace"
 msgid "Replace selection"
-msgstr "Replace selection"
+msgstr "선택한 열차 대차"
 
 #v1.6.13
 msgctxt "train_bulk_sell"
 msgid "Sell selection"
-msgstr "Sell selection"
+msgstr "선택한 열차 판매"
 
 #v1.7.15
 msgctxt "train_car_append"
 msgid "Append {} car(s)"
-msgstr "Append {} car(s)"
+msgstr "열차 {}량 추가
 
 #v1.7.15
 msgctxt "train_car_append_listing_cursor"
 msgid "Append here"
-msgstr "Append here"
+msgstr "여기에 추가"
 
 #v1.8.24
 msgctxt "train_car_append_tp"
 msgid "Shift clicking cars in the listing directly appends them"
-msgstr "Shift clicking cars in the listing directly appends them"
+msgstr "리스트에 Shift 클릭해 열차를 바로 추가합니다."
 
 #v1.7.15
 msgctxt "train_car_base_color_edit"
 msgid "Base color:"
-msgstr "Base color:"
+msgstr "기본 색상:"
 
 #v1.7.15
 msgctxt "train_car_decal_color_edit"
 msgid "Decal color:"
-msgstr "Decal color:"
+msgstr "데칼 색상:"
 
 #v1.7.15
 msgctxt "train_car_decal_edit"
 msgid "Decal:"
-msgstr "Decal:"
+msgstr "데칼:"
 
 #v1.7.15
 msgctxt "train_car_default"
 msgid "Default"
-msgstr "Default"
+msgstr "기본"
 
 #v1.7.15
 msgctxt "train_car_flip"
 msgid "Flip"
-msgstr "Flip"
+msgstr "뒤집기"
 
 #v1.7.15
 msgctxt "train_car_n_cars"
 msgid "{} cars"
-msgstr "{} cars"
+msgstr "{}량"
 
 #v1.7.15
 msgctxt "train_car_replace"
 msgid "Replace {} car(s)"
-msgstr "Replace {} car(s)"
+msgstr "{}량 대차"
 
 #v1.7.15
 msgctxt "train_cars_inst"
 msgid "Cars:"
-msgstr "Cars:"
+msgstr "차량:"
 
 #v1.7.15
 msgctxt "train_cars_new_cars"
 msgid "New cars"
-msgstr "New cars"
+msgstr "새 차량"
 
 #v1.1.31
 msgctxt "train_clone"
@@ -6614,32 +6648,32 @@ msgstr "복제"
 #v1.5.31
 msgctxt "train_clone_copier"
 msgid "Clone as copier"
-msgstr "Clone as copier"
+msgstr "같은 차로 복제"
 
 #v1.1.31
 msgctxt "train_code_edit"
 msgid "Serial:"
-msgstr "일련: "
+msgstr "일련:"
 
 #v1.7.15
 msgctxt "train_create_order_from_run"
 msgid "Create new order from this run"
-msgstr "Create new order from this run"
+msgstr "이 노선에 새 명령을 추가하세요."
 
 #v1.7.15
 msgctxt "train_decal_change_desc"
 msgid "This feature only works properly if all cars are from the same mod and train composition"
-msgstr "This feature only works properly if all cars are from the same mod and train composition"
+msgstr "이 기능은 모든 차량이 동일한 모드 및 열차 구성인 경우에만 올바르게 작동합니다."
 
 #v1.7.15
 msgctxt "train_decal_color_edit"
 msgid "Default decal color:"
-msgstr "Default decal color:"
+msgstr "기본 데칼 색상:"
 
 #v1.7.15
 msgctxt "train_decal_edit"
 msgid "Change all decals:"
-msgstr "Change all decals:"
+msgstr "모든 데칼 변경하기:"
 
 #v1.1.31
 msgctxt "train_decal_pick_edit"
@@ -6654,7 +6688,7 @@ msgstr "노선 색상 사용"
 #v1.8.24
 msgctxt "train_departing_to"
 msgid "Departing to"
-msgstr "Departing to"
+msgstr "출발"
 
 #v1.8.24
 msgctxt "train_departing_to_connect"
@@ -6664,22 +6698,22 @@ msgstr "to"
 #v1.8.24
 msgctxt "train_editable_builtin_tags"
 msgid "Built-in tags:"
-msgstr "Built-in tags:"
+msgstr "내장된 태그:"
 
 #v1.8.24
 msgctxt "train_editable_builtin_tags_locked"
 msgid "Locked by mod"
-msgstr "Locked by mod"
+msgstr "모드에 의해 잠김"
 
 #v1.5.31
 msgctxt "train_editor_basics"
 msgid "Basics"
-msgstr "Basics"
+msgstr "기본"
 
 #v1.5.31
 msgctxt "train_editor_group"
 msgid "Group"
-msgstr "Group"
+msgstr "그룹"
 
 #v1.5.31
 msgctxt "train_editor_orders"
@@ -6689,7 +6723,7 @@ msgstr "명령"
 #v1.7.15
 msgctxt "train_final_price"
 msgid "Final price:"
-msgstr "Final price:"
+msgstr "최종 가격:"
 
 #v1.5.31
 msgctxt "train_group_duration"
@@ -6704,7 +6738,7 @@ msgstr "주기:"
 #v1.5.31
 msgctxt "train_group_fixed_shift_by_desc"
 msgid "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
-msgstr "Format: (-)hh:mm:ss\nIncrementally shift the start of the orders of the auto copier trains by this amount."
+msgstr "형식: (-)hh:mm:ss\n수동 명령 자동 복사된 열차의 운행 명령을 정해진 양만큼 뒤로 이동시킵니다."
 
 #v1.5.31
 msgctxt "train_group_interval"
@@ -6724,7 +6758,7 @@ msgstr "기간:"
 #v1.5.31
 msgctxt "train_group_manual_duration_amount_desc"
 msgid "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
-msgstr "Format: hh:mm:ss\nEvenly distribute the start of the orders of the auto copier trains over this duration."
+msgstr "형식: hh:mm:ss\n수동 명령 자동 복사된 열차의 운행 명령을 이 기간 내에서 균등하게 배치합니다."
 
 #v1.5.31
 msgctxt "train_group_migrate_but"
@@ -6734,12 +6768,12 @@ msgstr "원본으로 지정"
 #v1.5.31
 msgctxt "train_group_migrate_line"
 msgid "Migrate auto run trains"
-msgstr "자동 운행 열차 마이그레이션"
+msgstr "자동 운행 열차 포함하기"
 
 #v1.5.31
 msgctxt "train_group_migrate_line_pick"
 msgid "Auto trains of:"
-msgstr "Auto trains of:"
+msgstr "자동 운행 열차:"
 
 #v1.5.31
 msgctxt "train_group_mode"
@@ -6789,12 +6823,12 @@ msgstr "여객 관련 명령만"
 #v1.1.58
 msgctxt "train_info_arrives"
 msgid "Arrives in {0}, {1:.1f} km of {2:.1f} km"
-msgstr "{0}에 도착, {1:.1f} km 중 {2:.1f} km"
+msgstr "{0}에 도착, {2:.1f} km 중 {1:.1f} km"
 
 #v1.6.13
 msgctxt "train_info_camera"
 msgid "Auto scroll map following train position"
-msgstr "열차 따라가기"
+msgstr "열차의 운행 경로 따라가기"
 
 #v1.1.58
 msgctxt "train_info_car_name"
@@ -6844,12 +6878,12 @@ msgstr "설명:"
 #v1.1.31
 msgctxt "train_info_destination"
 msgid "Destination:"
-msgstr "목적지: "
+msgstr "목적지:"
 
 #v1.1.31
 msgctxt "train_info_dim"
 msgid "Dimensions:"
-msgstr "치수: "
+msgstr "치수:"
 
 #v1.1.58
 msgctxt "train_info_dim_car"
@@ -6859,7 +6893,7 @@ msgstr "{0:.2f}m / {1:.2f}m"
 #v1.7.15
 msgctxt "train_info_dim_d"
 msgid "{0} cars / {1:.2f}m / {2:.2f}m"
-msgstr "{0} cars / {1:.2f}m / {2:.2f}m"
+msgstr "{0} 차량 / {1:.2f}m / {2:.2f}m"
 
 #v1.1.37
 msgctxt "train_info_dynamics"
@@ -6869,37 +6903,37 @@ msgstr "Dynamics:"
 #v1.1.31
 msgctxt "train_info_empty_mass"
 msgid "Empty mass:"
-msgstr "열차 무게: "
+msgstr "열차 무게:"
 
 #v1.8.24
 msgctxt "train_info_future_pin"
 msgid "Scroll map to train spawn position"
-msgstr "Scroll map to train spawn position"
+msgstr "열차 소환 지점으로 지도 이동"
 
 #v1.1.58
 msgctxt "train_info_late"
 msgid "Late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "{0} 지연, {1:.1f} km 중 {2:.1f} km"
+msgstr "{0} 지연, {2:.1f} km 중 {1:.1f} km"
 
 #v1.8.24
 msgctxt "train_info_late_predicted2"
 msgid "Est. late by {0}, {1:.1f} km of {2:.1f} km"
-msgstr "Est. late by {0}, {1:.1f} km of {2:.1f} km"
+msgstr "{0} 지연 예정, {2:.1f} km of {1:.1f} km"
 
 #v1.1.31
 msgctxt "train_info_line"
 msgid "Line:"
-msgstr "노선: "
+msgstr "노선:"
 
 #v1.1.31
 msgctxt "train_info_location"
 msgid "Location:"
-msgstr "위치: "
+msgstr "위치:"
 
 #v1.1.37
 msgctxt "train_info_maintenance_cost"
 msgid "Maintenance cost:"
-msgstr "정비 비용: "
+msgstr "정비 비용:"
 
 #v1.1.31
 msgctxt "train_info_maintenance_cost_f"
@@ -6909,42 +6943,42 @@ msgstr "하루 당 ${}"
 #v1.1.31
 msgctxt "train_info_mass"
 msgid "Mass / empty:"
-msgstr "무게 / 열차 무게: "
+msgstr "무게 / 열차 무게:"
 
 #v1.8.24
 msgctxt "train_info_max_accel"
 msgid "Max acceleration:"
-msgstr "최대 가속:"
+msgstr "최대 가속도:"
 
 #v1.8.24
 msgctxt "train_info_max_accel_v"
 msgid "{0:.2f} ms\xE2\x81\xBB\xC2\xB2, brake {1:.2f} ms\xE2\x81\xBB\xC2\xB2 to {2:.2f} ms\xE2\x81\xBB\xC2\xB2"
-msgstr "{0:.2f} ms⁻², brake {1:.2f} ms⁻² to {2:.2f} ms⁻²"
+msgstr "{0:.2f} m/s², 감속도 {1:.2f} m/s²에서 {2:.2f} m/s²"
 
 #v1.1.31
 msgctxt "train_info_max_pax"
 msgid "Max pax:"
-msgstr "최대 승객: "
+msgstr "최대 승객:"
 
 #v1.1.31
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "최대 속력: "
+msgstr "최대 속력:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
 msgid "Pathfind probe from train to mouse position\nClick for fixed mouse position"
-msgstr "Pathfind probe from train to mouse position\nClick for fixed mouse position"
+msgstr "열차에서 마우스 위치까지의 경로\n클릭하여 마우스 위치를 고정합니다."
 
 #v1.6.13
 msgctxt "train_info_path_probe_dest"
 msgid "Pathfind probe from train to its current destination"
-msgstr "Pathfind probe from train to its current destination"
+msgstr "열차에서 현재 목적지까지의 경로"
 
 #v1.1.31
 msgctxt "train_info_pax"
 msgid "Pax / max:"
-msgstr "승객 / 최대: "
+msgstr "승객 / 최대:"
 
 #v1.6.13
 msgctxt "train_info_pin"
@@ -6964,22 +6998,22 @@ msgstr "가격:"
 #v1.1.31
 msgctxt "train_info_running_cost"
 msgid "Running cost:"
-msgstr "운영비: "
+msgstr "운영비:"
 
 #v1.7.15
 msgctxt "train_info_running_cost_f2"
 msgid "${0:.2} per km, ${1:.2} per km per pax"
-msgstr "${0:.2} per km, ${1:.2} per km per pax"
+msgstr "km당 ${0:.2}, 승객당 km당 ${1:.2}"
 
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr "속도 / 최대: "
+msgstr "속도 / 최대:"
 
 #v1.1.31
 msgctxt "train_info_status"
 msgid "Status:"
-msgstr "상태: "
+msgstr "상태:"
 
 #v1.3.13
 msgctxt "train_info_status_busy_track"
@@ -7029,27 +7063,27 @@ msgstr "예정된 생성 기다리는 중"
 #v1.1.31
 msgctxt "train_info_storing"
 msgid "Storing in:"
-msgstr "보관: "
+msgstr "보관:"
 
 #v1.1.37
 msgctxt "train_info_total_power"
 msgid "Total power:"
-msgstr "총 견인력"
+msgstr "총 견인력:"
 
 #v1.8.24
 msgctxt "train_info_total_power_v"
 msgid "{0} kW, {1} kN max tr. eff."
-msgstr "{0} kW, {1} kN max tr. eff."
+msgstr "{0} kW, 최대 열차 능률: {1} kN"
 
 #v1.8.24
 msgctxt "train_intervene_group"
 msgid "Intervene group"
-msgstr "Intervene group"
+msgstr "그룹 열차 재배치"
 
 #v1.5.31
 msgctxt "train_intervention_dialog_desc"
 msgid "This intervention will reset the train run to follow its current orders, respawn it on its next destination, and relocate its pax to their next stops. The price is ${}."
-msgstr "이 재배치는 열차 위치를 다음 정류장 또는 차고지로 재설정하고, 재배치 비용을 지불하고, 요금을 환불하고, 보상금을 지급합니다. 총 가격은 ${} 입니다."
+msgstr "이 재배치는 열차 위치를 다음 정류장 또는 차고지로 재배치하고, 재배치 비용을 지불하고, 요금을 환불하고, 보상금을 지급합니다. 총 가격은 ${} 입니다."
 
 #v1.1.31
 msgctxt "train_intervention_dialog_title"
@@ -7064,12 +7098,12 @@ msgstr "잘못된 주문"
 #v1.5.41
 msgctxt "train_list_compact"
 msgid "Compact"
-msgstr "Compact"
+msgstr "축약"
 
 #v1.7.15
 msgctxt "train_list_filter_alert_only_stale"
 msgid "Only stale"
-msgstr "Only stale"
+msgstr "과거 시간표를 따르는 열차만"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_only_waiting_spawn"
@@ -7089,7 +7123,7 @@ msgstr "경고"
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
-msgstr "유효하지 않음"
+msgstr "과거 시간표대로 움직임"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
@@ -7124,7 +7158,7 @@ msgstr "모델 별로 묶어보기"
 #v1.5.31
 msgctxt "train_list_filter_flat"
 msgid "Flat listing"
-msgstr "Flat listing"
+msgstr "묶어 보지 않기"
 
 #v1.5.31
 msgctxt "train_list_filter_manual"
@@ -7154,12 +7188,12 @@ msgstr "태그로 묶어 보기"
 #v1.1.31
 msgctxt "train_model_edit"
 msgid "Model:"
-msgstr "모델: "
+msgstr "모델:"
 
 #v1.7.15
 msgctxt "train_model_edit_custom"
 msgid "Custom"
-msgstr "Custom"
+msgstr "사용자 설정"
 
 #v1.1.58
 msgctxt "train_n_copies"
@@ -7169,7 +7203,7 @@ msgstr "열차:"
 #v1.1.31
 msgctxt "train_name_edit"
 msgid "Name:"
-msgstr "이름: "
+msgstr "이름:"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy"
@@ -7184,7 +7218,7 @@ msgstr "이동:"
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_auto"
 msgid "Managed by parent group"
-msgstr "부모 그룹에 의해 관리됨"
+msgstr "상위 그룹에 의해 관리됨"
 
 #v1.5.31
 msgctxt "train_orders_auto_copy_mode_manual"
@@ -7199,7 +7233,7 @@ msgstr "복사:"
 #v1.5.41
 msgctxt "train_orders_auto_copy_shift_go_parent"
 msgid "Edit parent orders"
-msgstr "부모 순서 수정"
+msgstr "상위 그룹 명령 수정"
 
 #v1.5.31
 msgctxt "train_orders_auto_run"
@@ -7229,7 +7263,7 @@ msgstr "노선 자동 운행"
 #v1.6.13
 msgctxt "train_orders_mode_ignore"
 msgid "< Do not change >"
-msgstr "< Do not change >"
+msgstr "< 변경하지 않음 >"
 
 #v1.5.31
 msgctxt "train_orders_mode_manual"
@@ -7249,7 +7283,7 @@ msgstr "노선 운행:"
 #v1.7.15
 msgctxt "train_price"
 msgid "Per train price:"
-msgstr "Per train price:"
+msgstr "열차 가격당:"
 
 #v1.1.31
 msgctxt "train_purchase_no_cash"
@@ -7269,7 +7303,7 @@ msgstr "적용"
 #v1.7.15
 msgctxt "train_recompo_disabled"
 msgid "Editing disabled by mod author"
-msgstr "Editing disabled by mod author"
+msgstr "모드 제작자에 의해 편집이 비활성화됨"
 
 #v1.7.15
 msgctxt "train_recompo_error_cash"
@@ -7284,7 +7318,7 @@ msgstr "올바르지 않은 결합"
 #v1.7.15
 msgctxt "train_recompo_error_empty"
 msgid "Empty train"
-msgstr "빈 열차가"
+msgstr "빈 열차"
 
 #v1.7.15
 msgctxt "train_recompo_error_long"
@@ -7319,12 +7353,12 @@ msgstr "총 환불:"
 #v1.7.15
 msgctxt "train_replace"
 msgid "Replace"
-msgstr "바꾸기"
+msgstr "대체"
 
 #v1.8.24
 msgctxt "train_rt_late"
 msgid "Est. lateness (s)"
-msgstr "Est. lateness (s)"
+msgstr "예상 지연 시간 (초)"
 
 #v1.8.24
 msgctxt "train_rt_leg"
@@ -7364,22 +7398,22 @@ msgstr "열차 텍스쳐:"
 #v1.7.15
 msgctxt "train_tmu_as_custom"
 msgid "Edit as custom train"
-msgstr "Edit as custom train"
+msgstr "사용자 설정 열차로 편집"
 
 #v1.7.15
 msgctxt "train_tmu_copy_custom"
 msgid "Copy for custom train"
-msgstr "Copy for custom train"
+msgstr "사용자 설정 열차로 복사"
 
 #v1.1.72
 msgctxt "train_total_price_1"
 msgid "Total for 1 train:"
-msgstr "열차 1편성의 총합 가격"
+msgstr "열차 1편성의 총합 가격:"
 
 #v1.1.72
 msgctxt "train_total_price_many"
 msgid "Total for %d trains:"
-msgstr "열차 %d편성의 총합 가격"
+msgstr "열차 %d편성의 총합 가격:"
 
 #v1.5.31
 msgctxt "traineditor_auto_shift_time_desc"
@@ -7524,7 +7558,7 @@ msgstr "다음 때에 정확히 출발"
 #v1.5.41
 msgctxt "traineditor_order_start_time_arrange_top_desc2"
 msgid "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
-msgstr "Set time to the earliest possible time which allows the previous order to not have a padding wait on its last run\nIgnores pending day of week and start time edits\nMulti day orders will only consider the first day"
+msgstr "이전 명령의 마지막 운행 후 가능한 가장 빠른 시간으로 설정\n중복된 요일 및 시작 시간 명령 무시\n여러 요일의 주문은 첫 날만 고려됩니다"
 
 #v1.5.31
 msgctxt "traineditor_order_start_time_at"
@@ -7544,7 +7578,7 @@ msgstr "형식: hh:mm:ss\n선택한 노선의 운행을 시작할 시간을 설�
 #v1.7.15
 msgctxt "traineditor_replace_custom_mode"
 msgid "Replacing with custom train"
-msgstr "커스텀 열차로 대체"
+msgstr "사용자 설정 열차로 대체"
 
 #v1.7.15
 msgctxt "traineditor_replace_tmu_mode"
@@ -7574,7 +7608,7 @@ msgstr "미리 구성된 열차 구매"
 #v1.1.31
 msgctxt "traineditor_tooltip_list_mode"
 msgid "List trains and edit their details and schedule"
-msgstr "열차를 나열 후 속성과 일정을 수정합니다"
+msgstr "열차를 나열 후 속성과 일정을 수정합니다."
 
 #v1.1.37
 msgctxt "traineditor_tooltip_sell"
@@ -7639,12 +7673,12 @@ msgstr "{}(으)로 환승"
 #v1.1.31
 msgctxt "ugc_error_conn"
 msgid "Error while connecting with Steamworks"
-msgstr "Steamworks에 접속하는 데 오류가 발생했습니다"
+msgstr "Steamworks에 접속하는 데 오류가 발생했습니다."
 
 #v1.1.31
 msgctxt "ugc_error_logged"
 msgid "Must be logged into Steam to perform this action"
-msgstr "이 작업을 수행하려면 Steam에 로그인해야 합니다"
+msgstr "이 작업을 수행하려면 Steam에 로그인해야 합니다."
 
 #v1.1.31
 msgctxt "ugc_error_priv"
@@ -7659,42 +7693,42 @@ msgstr "Steam에 접속하는 중 시간이 초과했습니다."
 #v1.1.31
 msgctxt "ugc_some_rule_req"
 msgid "Selected local mod is empty"
-msgstr "선택한 로컬 모드가 비어 있습니다"
+msgstr "선택한 로컬 모드가 비어 있습니다."
 
 #v1.1.31
 msgctxt "ugc_valid_desc_req"
 msgid "Description is required"
-msgstr "설명을 입력해 주세요"
+msgstr "설명을 입력해 주세요."
 
 #v1.1.31
 msgctxt "ugc_valid_desc_too_long"
 msgid "Description is too long"
-msgstr "설명이 너무 깁니다"
+msgstr "설명이 너무 깁니다."
 
 #v1.1.31
 msgctxt "ugc_valid_folder_req"
 msgid "A valid local mod is required"
-msgstr "유효한 로컬 모드가 필요합니다"
+msgstr "유효한 로컬 모드가 필요합니다."
 
 #v1.1.31
 msgctxt "ugc_valid_image_req"
 msgid "An icon image file is required"
-msgstr "아이콘 이미지 파일이 필요합니다"
+msgstr "아이콘 이미지 파일이 필요합니다."
 
 #v1.1.37
 msgctxt "ugc_valid_title_req"
 msgid "Title is required"
-msgstr "제목을 입력해 주세요"
+msgstr "제목을 입력해 주세요."
 
 #v1.1.31
 msgctxt "ugc_valid_title_too_long"
 msgid "Title is too long"
-msgstr "제목이 너무 깁니다"
+msgstr "제목이 너무 깁니다."
 
 #v1.1.31
 msgctxt "ugc_warn_already"
 msgid "A Mod is still being created and/or updated, please wait"
-msgstr "모드가 아직 생성중이거나 업데이트 중 입니다. 잠시만 기다려주세요"
+msgstr "모드가 아직 생성중이거나 업데이트 중 입니다. 잠시만 기다려주세요."
 
 #v1.1.72
 msgctxt "unit_kmh"
@@ -7920,4 +7954,3 @@ msgstr "프로토콜이 서버와 맞지 않습니다. 서버와 본인이 같�
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
 msgstr "해당 모드 데이터가 이 세이브에서 활성화되었지만, 모드가 더 높은 버전의 게임을 요구합니다. 게임을 업데이트 해 주세요."
-
