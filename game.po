@@ -213,7 +213,7 @@ msgstr "노드 모드:"
 #v1.9.17
 msgctxt "option_company_pax_train_matching"
 msgid "Pax board trains:"
-msgstr "NOT IN GAME - 열차 탑승 수요:"
+msgstr "열차 탑승 수요:"
 
 #v1.9.17
 msgctxt "option_company_pax_train_matching_line_stop"
@@ -223,7 +223,7 @@ msgstr "노선과 정차 일치시키기"
 #v1.9.17
 msgctxt "option_company_pax_train_matching_train_run_line_stop"
 msgid "Matching train, run, line and stop"
-msgstr "NOT IN GAME - 열차, 운행, 노선 및 정차 일치시키기"
+msgstr "열차, 운행, 노선 및 정차 일치시키기"
 
 #v1.9.17
 msgctxt "refresh_built_report"
