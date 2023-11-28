@@ -1,321 +1,254 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.9.17
-msgctxt "alerts_pause_game_only_0_delay"
-msgid "Only if delay is 0"
-msgstr "지연이 0일 때만"
+#v1.10.16
+msgctxt "all"
+msgid "All"
+msgstr "모두"
 
-#v1.9.17
-msgctxt "assets_live_update"
-msgid "Live updates"
-msgstr "실시간 업데이트"
+#v1.10.16
+msgctxt "error_cannot_delete_save"
+msgid "Cannot delete old save for overwriting: "
+msgstr "덮어쓰기를 위해 오래된 저장을 삭제할 수 없음: "
 
-#v1.9.17
-msgctxt "built_bill"
-msgid "Built objects report"
-msgstr "건설된 개체 보고서"
+#v1.10.16
+msgctxt "error_cannot_open_temp_file"
+msgid "Cannot open temporary file: "
+msgstr "기존의 파일을 열 수 없음: "
 
-#v1.9.17
-msgctxt "constraint_offset2_add"
-msgid "Add"
-msgstr "+"
+#v1.10.16
+msgctxt "error_cannot_rename_save"
+msgid "Cannot rename temporary file: {} into {} "
+msgstr "기존의 파일 이름을 바꿀 수 없음: {}에서 {}(으)로 "
 
-#v1.9.17
-msgctxt "constraint_offset2_mul"
-msgid "Mul"
-msgstr "*"
+#v1.10.16
+msgctxt "kb_track_pick_parent"
+msgid "Tracks: pick par. parent"
+msgstr "선로: 부모 고르기"
 
-#v1.9.17
-msgctxt "constraint_offset2_set"
-msgid "Set"
-msgstr "="
+#v1.10.16
+msgctxt "lineeditor_restrict_lines_map"
+msgid "Restrict listing to visible lines on map (approximately)"
+msgstr "지도에 보이는 선으로 목록을 대략적으로 제한합니다"
 
-#v1.9.17
-msgctxt "constraint_platforms"
-msgid "Platforms:"
-msgstr "승강장:"
+#v1.10.16
+msgctxt "map_hillshade_pos"
+msgid "Hillshading:"
+msgstr "음영기복:"
 
-#v1.9.17
-msgctxt "constraint_platforms_demote"
-msgid "Demote"
-msgstr "선로로 변경"
+#v1.10.16
+msgctxt "map_hillshade_pos_0"
+msgid "Under ground"
+msgstr "지하"
 
-#v1.9.17
-msgctxt "constraint_platforms_promote"
-msgid "Promote"
-msgstr "플랫폼으로 변경"
+#v1.10.16
+msgctxt "map_hillshade_pos_1"
+msgid "Over ground"
+msgstr "지상"
 
-#v1.9.17
-msgctxt "dep_grp_destination"
-msgid "Destination"
-msgstr "목적지"
+#v1.10.16
+msgctxt "map_land_alpha"
+msgid "Land background mix:"
+msgstr "땅 배경 조합:"
 
-#v1.9.17
-msgctxt "dep_grp_line"
-msgid "Line"
-msgstr "노선"
+#v1.10.16
+msgctxt "map_land_hsv_sat"
+msgid "Land HSV saturation:"
+msgstr "땅 HSV 채도:"
 
-#v1.9.17
-msgctxt "dep_grp_next_stop"
-msgid "Next stop"
-msgstr "다음 역"
+#v1.10.16
+msgctxt "map_option_font"
+msgid "Label font size:"
+msgstr "라벨 폰트 크기:"
 
-#v1.9.17
-msgctxt "dep_grp_train"
-msgid "Train"
-msgstr "열차"
+#v1.10.16
+msgctxt "map_option_font_0"
+msgid "Small"
+msgstr "작게"
 
-#v1.9.17
-msgctxt "dep_late"
-msgid "Max late"
-msgstr "최대 지연"
+#v1.10.16
+msgctxt "map_option_font_1"
+msgid "Default"
+msgstr "보통"
 
-#v1.9.17
-msgctxt "dep_sched"
-msgid "Scheduled"
-msgstr "계획된"
+#v1.10.16
+msgctxt "map_option_font_2"
+msgid "Big"
+msgstr "크게"
 
-#v1.9.17
-msgctxt "destinations"
-msgid "Destinations"
-msgstr "목적지"
+#v1.10.16
+msgctxt "map_option_font_3"
+msgid "Huge"
+msgstr "더 크게"
 
-#v1.9.17
-msgctxt "editor_sel_only_buildings"
-msgid "Keep only buildings in the selection"
-msgstr "선택한 개체 중 건물만 선택하기"
+#v1.10.16
+msgctxt "map_show_land_tex_max_zoom"
+msgid "Show land texture at max zoom"
+msgstr "최대 확대로 땅 텍스쳐 보기"
 
-#v1.9.17
-msgctxt "editor_sel_only_child_tracks"
-msgid "Keep only parallel child tracks in the selection"
-msgstr "선택한 개체 중 병렬 하위 선로만 선택하기"
+#v1.10.16
+msgctxt "map_style_mods"
+msgid "Map style mods"
+msgstr "맵 스타일 모드"
 
-#v1.9.17
-msgctxt "editor_sel_only_parent_tracks"
-msgid "Keep only parallel parent tracks in the selection"
-msgstr "선택한 개체 중 병렬 상위 선로만 선택하기"
+#v1.10.16
+msgctxt "map_style_show_in_panel"
+msgid "Show in map options panel"
+msgstr "맵 옵션 패널에서 보기"
 
-#v1.9.17
-msgctxt "editor_sel_only_tracks"
-msgid "Keep only tracks in the selection"
-msgstr "선택한 개체 중 선로만 선택하기"
+#v1.10.16
+msgctxt "mod_less_prio"
+msgid "Less priority"
+msgstr "낮은 우선순위"
 
-#v1.9.17
-msgctxt "editor_shapemode_full"
-msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
-msgstr "전체 모드: 선로는 선분, 호 및 클로소이드를 이용한 모양이 됩니다."
+#v1.10.16
+msgctxt "mod_more_prio"
+msgid "More priority"
+msgstr "높은 우선순위"
 
-#v1.9.17
-msgctxt "editor_shapemode_limited"
-msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
-msgstr "제한 모드: 선로는 선분과 호를 이용한 모양이 됩니다."
+#v1.10.16
+msgctxt "mvo_toggle_map_style_mods"
+msgid "Map style mods:"
+msgstr "맵 스타일 모드:"
 
-#v1.9.17
-msgctxt "editor_tangent_fix"
-msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
-msgstr "직전 접선 값으로 되돌리기: 이전의 선로의 탄젠트 값을 유지하고 호에 근접하게 합니다."
+#v1.10.16
+msgctxt "mvo_track_editor_always_on_top"
+msgid "Track editor always on top"
+msgstr "트랙 편집기는 항상 위에 있어야 합니다"
 
-#v1.9.17
-msgctxt "editor_tangent_interp"
-msgid "Interpolate tangent: average previous track and current track tangents"
-msgstr "접선 삽입: 전 선로와 현재 선로의 접선의 평균"
+#v1.10.16
+msgctxt "mvo_user_track_depth_bridge"
+msgid "Map bridges over track layers"
+msgstr "트랙 레이어 위에 교량 매핑"
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_click"
-msgid "Click to cancel"
-msgstr "클릭하여 취소하기"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_strict"
+msgid "If same line, within the run"
+msgstr "같은 라인일 경우, 런 내에서"
 
-#v1.9.17
-msgctxt "editor_tip_cont_cancel_dbl_click"
-msgid "Double click to cancel"
-msgstr "더블 클릭하여 취소하기"
+#v1.10.16
+msgctxt "option_company_pax_train_matching_train_pf"
+msgid "Any, bounded by leg time"
+msgstr "모든, 다리 시간에 제한됨"
 
-#v1.9.17
-msgctxt "editor_tip_cont_undo"
-msgid "Ctrl-Z to undo last track node"
-msgstr "마지막으로 한 편집을 취소하려면 Ctrl + Z를 누르세요."
+#v1.10.16
+msgctxt "options_alerts"
+msgid "Alerts"
+msgstr "경고"
 
-#v1.9.17
-msgctxt "editor_tip_tangent_left"
-msgid "Release left button to stop rotating the track tangent"
-msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다."
+#v1.10.16
+msgctxt "options_autosave"
+msgid "Autosave"
+msgstr "자동 저장"
 
-#v1.9.17
-msgctxt "file_picker_corrupted"
-msgid "Corrupted file"
-msgstr "파일이 손상되었습니다."
+#v1.10.16
+msgctxt "options_interface"
+msgid "Interface"
+msgstr "인터페이스"
 
-#v1.9.17
-msgctxt "kb_track_sat_platform_tape"
-msgid "Tracks: platform tape"
-msgstr "선로: 승강장으로 바꾸기"
+#v1.10.16
+msgctxt "options_map"
+msgid "Map"
+msgstr "지도"
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_s1"
-msgid "Click on tracks to add a new secondary stop point"
-msgstr "선로를 눌러 보조 정차 지점을 추가합니다."
+#v1.10.16
+msgctxt "osm_admin_level_11"
+msgid "Neighborhood"
+msgstr "이웃"
 
-#v1.9.17
-msgctxt "lineeditor_adding_sec_stop_title"
-msgid "Selecting secondary signal"
-msgstr "보조 신호를 선택합니다."
+#v1.10.16
+msgctxt "poi_settlement_0"
+msgid "Capital"
+msgstr "수도"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_basic"
-msgid "Click on station platform arrows to change the stop platform"
-msgstr "역의 승강장 화살표를 클릭해 정차 승강장을 바꿉니다."
+#v1.10.16
+msgctxt "poi_settlement_1"
+msgid "City"
+msgstr "도시"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_s1"
-msgid "Click on tracks to change stop point"
-msgstr "선로를 클릭해 정차 지점을 변경합니다."
+#v1.10.16
+msgctxt "poi_settlement_2"
+msgid "Town"
+msgstr "마을"
 
-#v1.9.17
-msgctxt "lineeditor_change_stop_title"
-msgid "Changing stop point"
-msgstr "정차 지점 변경"
+#v1.10.16
+msgctxt "poi_settlement_3"
+msgid "Suburb"
+msgstr "근교"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_basic"
-msgid "Click on station platform arrows to create new line stops"
-msgstr "역의 승강장 화살표를 클릭해 노선의 새로운 정차역을 만듭니다."
+#v1.10.16
+msgctxt "poi_settlement_4"
+msgid "Quarter"
+msgstr "지구"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_s1"
-msgid "Click on tracks to set the stop point"
-msgstr “선로를 클릭해 정차 지점을 설정합니다."
+#v1.10.16
+msgctxt "poi_settlement_5"
+msgid "Neighbourhood"
+msgstr "이웃"
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_title"
-msgid "Creating new stop"
-msgstr "노선에 정차역 추가"
+#v1.10.16
+msgctxt "poi_settlement_6"
+msgid "Village"
+msgstr "마을"
 
-#v1.9.17
-msgctxt "lineeditor_facing_tip"
-msgid "Move the mouse to select the facing direction of the train, then click to confirm"
-msgstr "마우스를 움직여 열차의 진행 방향을 선택한 후, 클릭해 지정합니다."
+#v1.10.16
+msgctxt "poi_settlement_7"
+msgid "Hamlet"
+msgstr "작은 마을"
 
-#v1.9.17
-msgctxt "lineeditor_new_alt_stop_basic"
-msgid "Click on station platform arrows to create a new secondary platform stop"
-msgstr "역의 승강장 화살표를 클릭해 새 보조 승강장 정차지점을 만듭니다."
-#v1.9.17
-msgctxt "loader_legacy_rebuild_19"
-msgid "Rebuilding pre-1.9 tracks"
-msgstr "pre-1.9 버전의 선로로 재건설 중"
+#v1.10.16
+msgctxt "poi_settlement_8"
+msgid "Dwelling"
+msgstr "주택"
 
-#v1.9.17
-msgctxt "node_mode"
-msgid "Node mode:"
-msgstr "노드 모드:"
+#v1.10.16
+msgctxt "poi_settlement_9"
+msgid "Farm"
+msgstr "농장"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching"
-msgid "Pax board trains:"
-msgstr "열차 탑승 수요:"
+#v1.10.16
+msgctxt "renderer_dx12"
+msgid "DirectX 12"
+msgstr "DirectX 12"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_line_stop"
-msgid "Matching line and stop"
-msgstr "노선과 정차 일치시키기"
+#v1.10.16
+msgctxt "renderer_vulkan"
+msgid "Vulkan"
+msgstr "Vulkan"
 
-#v1.9.17
-msgctxt "option_company_pax_train_matching_train_run_line_stop"
-msgid "Matching train, run, line and stop"
-msgstr "열차, 운행, 노선 및 정차 일치시키기"
+#v1.10.16
+msgctxt "station_platform_set_name_all"
+msgid "All"
+msgstr "모두"
 
-#v1.9.17
-msgctxt "refresh_built_report"
-msgid "Refresh built objects report"
-msgstr "건설된 개체 보고서 갱신"
+#v1.10.16
+msgctxt "timing_lines_n"
+msgid "Timing line legs, {} to go"
+msgstr "타이밍 라인 구간, {} 남았습니다."
 
-#v1.9.17
-msgctxt "report_no_built"
-msgid "There are no built objects"
-msgstr “건설된 개체가 없습니다."
+#v1.10.16
+msgctxt "trackeditor_clickable_tracks"
+msgid "Clickable tracks"
+msgstr "클릭 가능한 트랙"
 
-#v1.9.17
-msgctxt "reset_boundary"
-msgid "Reset boundary"
-msgstr "경계 초기화"
-
-#v1.9.17
-msgctxt "reset_boundary_radius"
-msgid "Reset for radius:"
-msgstr "호 반경 설정:"
-
-#v1.9.17
-msgctxt "reset_boundary_radius_tip"
-msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
-msgstr "참고: 트랙 편집기에 표시되는 원 반지름은 근사치일 뿐이며 최대 5%의 오차가 있을 수 있습니다"
-
-#v1.9.17
-msgctxt "reset_boundary_tan"
-msgid "Reset boundary to middle point"
-msgstr "선로 간 경계를 중앙으로 설정"
-
-#v1.9.17
-msgctxt "reset_tangent"
-msgid "Reset tangent"
-msgstr "접선 초기화"
-
-#v1.9.17
-msgctxt "shape_mode"
-msgid "Tangent track shapes:"
-msgstr "선로 접선 형태:"
-
-#v1.9.17
-msgctxt "shape_mode_full"
-msgid "Full"
-msgstr "전체"
-
-#v1.9.17
-msgctxt "shape_mode_limited"
-msgid "Limited"
-msgstr "제한"
-
-#v1.9.17
-msgctxt "station_platform_promote"
-msgid "Promote track into platform"
-msgstr "선로를 플랫폼으로 변경하기"
-
-#v1.9.17
-msgctxt "stop_picker_adv"
-msgid "Advanced mode"
-msgstr "고급 모드"
-
-#v1.9.17
-msgctxt "stop_picker_basic"
-msgid "Basic mode"
-msgstr "기본 모드"
-
-#v1.9.17
-msgctxt "trackmode_point"
-msgid "Point mode"
-msgstr "점 모드"
-
-#v1.9.17
-msgctxt "trackmode_tangent"
-msgid "Tangent mode"
-msgstr "접선 모드"
-
-#v1.9.17
-msgctxt "warn_straight"
-msgid "Requires exactly 2 tracks"
-msgstr “정확히 2개의 선로가 필요합니다."
-
+#v1.10.16
+msgctxt "warn_alpha_renderer1"
+msgid "Experimental renderer! Only use if DirectX 11 crashes often."
+msgstr "실험적인 렌더러! DirectX 11이 자주 충돌하는 경우에만 사용하십시오."
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.9.17
-msgctxt "error_too_old_save"
-msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
-msgstr "이 세이브파일의 버전이 너무 오래되어 실행할 수 없습니다. 스팀에서 v1.5 이상의 레거시 버전을 사용해 보십시오."
+#v1.10.16
+msgctxt "mvo_user_track_depth"
+msgid "Map over track layers"
+msgstr "트랙 레이어에 대한 지도"
 
-
+#v1.10.16
+msgctxt "option_company_pax_train_matching"
+msgid "Board alternate trains:"
+msgstr "대체 열차 탑승:"
 
 # ----------------------------------------------------------
 # unmodified strings
@@ -7954,3 +7887,312 @@ msgstr "프로토콜이 서버와 맞지 않습니다. 서버와 본인이 같�
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
 msgstr "해당 모드 데이터가 이 세이브에서 활성화되었지만, 모드가 더 높은 버전의 게임을 요구합니다. 게임을 업데이트 해 주세요."
+
+#v1.9.17
+msgctxt "alerts_pause_game_only_0_delay"
+msgid "Only if delay is 0"
+msgstr "지연이 0일 때만"
+
+#v1.9.17
+msgctxt "assets_live_update"
+msgid "Live updates"
+msgstr "실시간 업데이트"
+
+#v1.9.17
+msgctxt "built_bill"
+msgid "Built objects report"
+msgstr "건설된 개체 보고서"
+
+#v1.9.17
+msgctxt "constraint_offset2_add"
+msgid "Add"
+msgstr "+"
+
+#v1.9.17
+msgctxt "constraint_offset2_mul"
+msgid "Mul"
+msgstr "*"
+
+#v1.9.17
+msgctxt "constraint_offset2_set"
+msgid "Set"
+msgstr "="
+
+#v1.9.17
+msgctxt "constraint_platforms"
+msgid "Platforms:"
+msgstr "승강장:"
+
+#v1.9.17
+msgctxt "constraint_platforms_demote"
+msgid "Demote"
+msgstr "선로로 변경"
+
+#v1.9.17
+msgctxt "constraint_platforms_promote"
+msgid "Promote"
+msgstr "플랫폼으로 변경"
+
+#v1.9.17
+msgctxt "dep_grp_destination"
+msgid "Destination"
+msgstr "목적지"
+
+#v1.9.17
+msgctxt "dep_grp_line"
+msgid "Line"
+msgstr "노선"
+
+#v1.9.17
+msgctxt "dep_grp_next_stop"
+msgid "Next stop"
+msgstr "다음 역"
+
+#v1.9.17
+msgctxt "dep_grp_train"
+msgid "Train"
+msgstr "열차"
+
+#v1.9.17
+msgctxt "dep_late"
+msgid "Max late"
+msgstr "최대 지연"
+
+#v1.9.17
+msgctxt "dep_sched"
+msgid "Scheduled"
+msgstr "계획된"
+
+#v1.9.17
+msgctxt "destinations"
+msgid "Destinations"
+msgstr "목적지"
+
+#v1.9.17
+msgctxt "editor_sel_only_buildings"
+msgid "Keep only buildings in the selection"
+msgstr "선택한 개체 중 건물만 선택하기"
+
+#v1.9.17
+msgctxt "editor_sel_only_child_tracks"
+msgid "Keep only parallel child tracks in the selection"
+msgstr "선택한 개체 중 병렬 하위 선로만 선택하기"
+
+#v1.9.17
+msgctxt "editor_sel_only_parent_tracks"
+msgid "Keep only parallel parent tracks in the selection"
+msgstr "선택한 개체 중 병렬 상위 선로만 선택하기"
+
+#v1.9.17
+msgctxt "editor_sel_only_tracks"
+msgid "Keep only tracks in the selection"
+msgstr "선택한 개체 중 선로만 선택하기"
+
+#v1.9.17
+msgctxt "editor_shapemode_full"
+msgid "Full shapes: tracks are shaped using line segments, circle arcs and clothoids"
+msgstr "전체 모드: 선로는 선분, 호 및 클로소이드를 이용한 모양이 됩니다."
+
+#v1.9.17
+msgctxt "editor_shapemode_limited"
+msgid "Limited shapes: tracks are shaped using line segments and circle arcs"
+msgstr "제한 모드: 선로는 선분과 호를 이용한 모양이 됩니다."
+
+#v1.9.17
+msgctxt "editor_tangent_fix"
+msgid "Keep last tangent: preserve previous track tangent and approximate a circle arc"
+msgstr "직전 접선 값으로 되돌리기: 이전의 선로의 탄젠트 값을 유지하고 호에 근접하게 합니다."
+
+#v1.9.17
+msgctxt "editor_tangent_interp"
+msgid "Interpolate tangent: average previous track and current track tangents"
+msgstr "접선 삽입: 전 선로와 현재 선로의 접선의 평균"
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_click"
+msgid "Click to cancel"
+msgstr "클릭하여 취소하기"
+
+#v1.9.17
+msgctxt "editor_tip_cont_cancel_dbl_click"
+msgid "Double click to cancel"
+msgstr "더블 클릭하여 취소하기"
+
+#v1.9.17
+msgctxt "editor_tip_cont_undo"
+msgid "Ctrl-Z to undo last track node"
+msgstr "마지막으로 한 편집을 취소하려면 Ctrl + Z를 누르세요."
+
+#v1.9.17
+msgctxt "editor_tip_tangent_left"
+msgid "Release left button to stop rotating the track tangent"
+msgstr "왼쪽 클릭을 해제해 회전을 멈춥니다."
+
+#v1.9.17
+msgctxt "file_picker_corrupted"
+msgid "Corrupted file"
+msgstr "파일이 손상되었습니다."
+
+#v1.9.17
+msgctxt "kb_track_sat_platform_tape"
+msgid "Tracks: platform tape"
+msgstr "선로: 승강장으로 바꾸기"
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_s1"
+msgid "Click on tracks to add a new secondary stop point"
+msgstr "선로를 눌러 보조 정차 지점을 추가합니다."
+
+#v1.9.17
+msgctxt "lineeditor_adding_sec_stop_title"
+msgid "Selecting secondary signal"
+msgstr "보조 신호를 선택합니다."
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_basic"
+msgid "Click on station platform arrows to change the stop platform"
+msgstr "역의 승강장 화살표를 클릭해 정차 승강장을 바꿉니다."
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_s1"
+msgid "Click on tracks to change stop point"
+msgstr "선로를 클릭해 정차 지점을 변경합니다."
+
+#v1.9.17
+msgctxt "lineeditor_change_stop_title"
+msgid "Changing stop point"
+msgstr "정차 지점 변경"
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_basic"
+msgid "Click on station platform arrows to create new line stops"
+msgstr "역의 승강장 화살표를 클릭해 노선의 새로운 정차역을 만듭니다."
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_s1"
+msgid "Click on tracks to set the stop point"
+msgstr “선로를 클릭해 정차 지점을 설정합니다."
+
+#v1.9.17
+msgctxt "lineeditor_creating_new_stop_title"
+msgid "Creating new stop"
+msgstr "노선에 정차역 추가"
+
+#v1.9.17
+msgctxt "lineeditor_facing_tip"
+msgid "Move the mouse to select the facing direction of the train, then click to confirm"
+msgstr "마우스를 움직여 열차의 진행 방향을 선택한 후, 클릭해 지정합니다."
+
+#v1.9.17
+msgctxt "lineeditor_new_alt_stop_basic"
+msgid "Click on station platform arrows to create a new secondary platform stop"
+msgstr "역의 승강장 화살표를 클릭해 새 보조 승강장 정차지점을 만듭니다."
+#v1.9.17
+msgctxt "loader_legacy_rebuild_19"
+msgid "Rebuilding pre-1.9 tracks"
+msgstr "pre-1.9 버전의 선로로 재건설 중"
+
+#v1.9.17
+msgctxt "node_mode"
+msgid "Node mode:"
+msgstr "노드 모드:"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching"
+msgid "Pax board trains:"
+msgstr "열차 탑승 수요:"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_line_stop"
+msgid "Matching line and stop"
+msgstr "노선과 정차 일치시키기"
+
+#v1.9.17
+msgctxt "option_company_pax_train_matching_train_run_line_stop"
+msgid "Matching train, run, line and stop"
+msgstr "열차, 운행, 노선 및 정차 일치시키기"
+
+#v1.9.17
+msgctxt "refresh_built_report"
+msgid "Refresh built objects report"
+msgstr "건설된 개체 보고서 갱신"
+
+#v1.9.17
+msgctxt "report_no_built"
+msgid "There are no built objects"
+msgstr “건설된 개체가 없습니다."
+
+#v1.9.17
+msgctxt "reset_boundary"
+msgid "Reset boundary"
+msgstr "경계 초기화"
+
+#v1.9.17
+msgctxt "reset_boundary_radius"
+msgid "Reset for radius:"
+msgstr "호 반경 설정:"
+
+#v1.9.17
+msgctxt "reset_boundary_radius_tip"
+msgid "NOTE: the circle radius displayed by the track editor is only an approximation and might be off by up to 5%"
+msgstr "참고: 트랙 편집기에 표시되는 원 반지름은 근사치일 뿐이며 최대 5%의 오차가 있을 수 있습니다"
+
+#v1.9.17
+msgctxt "reset_boundary_tan"
+msgid "Reset boundary to middle point"
+msgstr "선로 간 경계를 중앙으로 설정"
+
+#v1.9.17
+msgctxt "reset_tangent"
+msgid "Reset tangent"
+msgstr "접선 초기화"
+
+#v1.9.17
+msgctxt "shape_mode"
+msgid "Tangent track shapes:"
+msgstr "선로 접선 형태:"
+
+#v1.9.17
+msgctxt "shape_mode_full"
+msgid "Full"
+msgstr "전체"
+
+#v1.9.17
+msgctxt "shape_mode_limited"
+msgid "Limited"
+msgstr "제한"
+
+#v1.9.17
+msgctxt "station_platform_promote"
+msgid "Promote track into platform"
+msgstr "선로를 플랫폼으로 변경하기"
+
+#v1.9.17
+msgctxt "stop_picker_adv"
+msgid "Advanced mode"
+msgstr "고급 모드"
+
+#v1.9.17
+msgctxt "stop_picker_basic"
+msgid "Basic mode"
+msgstr "기본 모드"
+
+#v1.9.17
+msgctxt "trackmode_point"
+msgid "Point mode"
+msgstr "점 모드"
+
+#v1.9.17
+msgctxt "trackmode_tangent"
+msgid "Tangent mode"
+msgstr "접선 모드"
+
+#v1.9.17
+msgctxt "warn_straight"
+msgid "Requires exactly 2 tracks"
+msgstr “정확히 2개의 선로가 필요합니다."
+
+#v1.9.17
+msgctxt "error_too_old_save"
+msgid "The game version that created this save file is too old and it cannot be loaded. Try the v1.5 or newer legacy branches in Steam."
+msgstr "이 세이브파일의 버전이 너무 오래되어 실행할 수 없습니다. 스팀에서 v1.5 이상의 레거시 버전을 사용해 보십시오."
