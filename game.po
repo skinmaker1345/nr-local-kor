@@ -1,255 +1,365 @@
 # ----------------------------------------------------------
 # new strings
 
-#v1.10.16
-msgctxt "all"
-msgid "All"
-msgstr "모두"
+#v1.12.11
+msgctxt "building_poi_curve"
+msgid "Demand curve:"
+msgstr "수요곡선:"
 
-#v1.10.16
-msgctxt "error_cannot_delete_save"
-msgid "Cannot delete old save for overwriting: "
-msgstr "덮어쓰기를 위해 오래된 저장을 삭제할 수 없음: "
+#v1.12.11
+msgctxt "building_poi_pop"
+msgid "Population:"
+msgstr "인구:"
 
-#v1.10.16
-msgctxt "error_cannot_open_temp_file"
-msgid "Cannot open temporary file: "
-msgstr "기존의 파일을 열 수 없음: "
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_2d"
+msgid "One or more objects in the clip references an unknown demand curve:\n"
+msgstr "복사한 내용 중 하나 이상의 개체가 알 수 없는 수요곡선을 따릅니다:\n"
 
-#v1.10.16
-msgctxt "error_cannot_rename_save"
-msgid "Cannot rename temporary file: {} into {} "
-msgstr "기존의 파일 이름을 바꿀 수 없음: {}에서 {}(으)로 "
+#v1.12.11
+msgctxt "demand_cache_warmup"
+msgid "Warming up tile pax path cache, game speed is limited\nIf perfomance does not improve consider selecting Random spawn station mode in Company options"
+msgstr "승객 이동경로 계산 중, 게임 속도가 제한됩니다.\n일정시간 이후에도 게임 성능이 나아지지 않는다면 무작위 소환 모드를 선택해보세요."
 
-#v1.10.16
-msgctxt "kb_track_pick_parent"
-msgid "Tracks: pick par. parent"
-msgstr "선로: 부모 고르기"
+#v1.12.11
+msgctxt "demand_clone"
+msgid "Clone demand curve"
+msgstr "수요곡선 복사"
 
-#v1.10.16
-msgctxt "lineeditor_restrict_lines_map"
-msgid "Restrict listing to visible lines on map (approximately)"
-msgstr "지도에 보이는 선으로 목록을 대략적으로 제한합니다"
+#v1.12.11
+msgctxt "demand_curve_disabled"
+msgid "<Disabled>"
+msgstr "<비활성화>"
 
-#v1.10.16
-msgctxt "map_hillshade_pos"
-msgid "Hillshading:"
-msgstr "음영기복:"
+#v1.12.11
+msgctxt "demand_default_name"
+msgid "Population"
+msgstr "인구"
 
-#v1.10.16
-msgctxt "map_hillshade_pos_0"
-msgid "Under ground"
-msgstr "지하"
+#v1.12.11
+msgctxt "demand_delete"
+msgid "Delete selected demand curve"
+msgstr "선택한 수요곡선 삭제"
 
-#v1.10.16
-msgctxt "map_hillshade_pos_1"
-msgid "Over ground"
-msgstr "지상"
+#v1.12.11
+msgctxt "demand_editor_focus_dest"
+msgid "Destination"
+msgstr "도착지"
 
-#v1.10.16
-msgctxt "map_land_alpha"
-msgid "Land background mix:"
-msgstr "땅 배경 조합:"
+#v1.12.11
+msgctxt "demand_editor_focus_distance"
+msgid "Distance"
+msgstr "거리"
 
-#v1.10.16
-msgctxt "map_land_hsv_sat"
-msgid "Land HSV saturation:"
-msgstr "땅 HSV 채도:"
+#v1.12.11
+msgctxt "demand_editor_focus_info"
+msgid "Info"
+msgstr "정보"
 
-#v1.10.16
-msgctxt "map_option_font"
-msgid "Label font size:"
-msgstr "라벨 폰트 크기:"
+#v1.12.11
+msgctxt "demand_editor_focus_origin"
+msgid "Origin"
+msgstr "근원지"
 
-#v1.10.16
-msgctxt "map_option_font_0"
-msgid "Small"
-msgstr "작게"
+#v1.12.11
+msgctxt "demand_editor_focus_range0"
+msgid "0 km to 95 km"
+msgstr "0 km에서 95 km"
 
-#v1.10.16
-msgctxt "map_option_font_1"
-msgid "Default"
-msgstr "보통"
+#v1.12.11
+msgctxt "demand_editor_title"
+msgid "Demand curves editor"
+msgstr "수요곡선 편집기"
 
-#v1.10.16
-msgctxt "map_option_font_2"
-msgid "Big"
-msgstr "크게"
+#v1.12.11
+msgctxt "demand_export"
+msgid "Export to TSV file"
+msgstr "TSV file로 내보내기"
 
-#v1.10.16
-msgctxt "map_option_font_3"
-msgid "Huge"
-msgstr "더 크게"
+#v1.12.11
+msgctxt "demand_import_new"
+msgid "Import new demand curve from TSV file"
+msgstr "새 수요곡선을 TSV 파일에서 가져오기"
 
-#v1.10.16
-msgctxt "map_show_land_tex_max_zoom"
-msgid "Show land texture at max zoom"
-msgstr "최대 확대로 땅 텍스쳐 보기"
+#v1.12.11
+msgctxt "demand_import_replace"
+msgid "Replace with curve from TSV file"
+msgstr "TSV 파일의 곡선으로 대체하기"
 
-#v1.10.16
-msgctxt "map_style_mods"
-msgid "Map style mods"
-msgstr "맵 스타일 모드"
+#v1.12.11
+msgctxt "demand_info_file_ops"
+msgid "Export and replace"
+msgstr "내보내고 대체하기"
 
-#v1.10.16
-msgctxt "map_style_show_in_panel"
-msgid "Show in map options panel"
-msgstr "맵 옵션 패널에서 보기"
+#v1.12.11
+msgctxt "demand_info_move_pois"
+msgid "Bulk change POIs into a different curve"
+msgstr "새 곡선으로 관심지점 다수 변경"
 
-#v1.10.16
-msgctxt "mod_less_prio"
-msgid "Less priority"
-msgstr "낮은 우선순위"
+#v1.12.11
+msgctxt "demand_info_move_pois_but"
+msgid "Change all POIs"
+msgstr "모든 관심지점 변경"
 
-#v1.10.16
-msgctxt "mod_more_prio"
-msgid "More priority"
-msgstr "높은 우선순위"
+#v1.12.11
+msgctxt "demand_info_move_pois_label"
+msgid "Change to:"
+msgstr "다음으로 변경:"
 
-#v1.10.16
-msgctxt "mvo_toggle_map_style_mods"
-msgid "Map style mods:"
-msgstr "맵 스타일 모드:"
+#v1.12.11
+msgctxt "demand_info_name"
+msgid "Name:"
+msgstr "이름:"
 
-#v1.10.16
-msgctxt "mvo_track_editor_always_on_top"
-msgid "Track editor always on top"
-msgstr "트랙 편집기는 항상 위에 있어야 합니다"
+#v1.12.11
+msgctxt "demand_info_poi"
+msgid "Points of interest:"
+msgstr "관심지점:"
 
-#v1.10.16
-msgctxt "mvo_user_track_depth_bridge"
-msgid "Map bridges over track layers"
-msgstr "트랙 레이어 위에 교량 매핑"
+#v1.12.11
+msgctxt "demand_info_pop"
+msgid "Population:"
+msgstr "인구:"
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching_strict"
-msgid "If same line, within the run"
-msgstr "같은 라인일 경우, 런 내에서"
+#v1.12.11
+msgctxt "demand_pax_spawn"
+msgid "{} new pax/min."
+msgstr "새로운 {}명의 승객/분."
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching_train_pf"
-msgid "Any, bounded by leg time"
-msgstr "모든, 다리 시간에 제한됨"
+#v1.12.11
+msgctxt "demand_rebuild_tp"
+msgid "Rebuilding demand data..."
+msgstr "수요곡선 재생성 중..."
 
-#v1.10.16
-msgctxt "options_alerts"
-msgid "Alerts"
-msgstr "경고"
+#v1.12.11
+msgctxt "demand_replace_default"
+msgid "Replace with default curve"
+msgstr "기본 곡선으로 대체하기"
 
-#v1.10.16
-msgctxt "options_autosave"
-msgid "Autosave"
-msgstr "자동 저장"
+#v1.12.11
+msgctxt "demand_replace_file"
+msgid "Replace from TSV file"
+msgstr "TSV 파일에서 대체하기"
 
-#v1.10.16
-msgctxt "options_interface"
-msgid "Interface"
-msgstr "인터페이스"
+#v1.12.11
+msgctxt "demand_time_copy_day"
+msgid "Copy day"
+msgstr "일(하루) 복사하기"
 
-#v1.10.16
-msgctxt "options_map"
-msgid "Map"
-msgstr "지도"
+#v1.12.11
+msgctxt "demand_time_paste_day"
+msgid "Paste day"
+msgstr "일(하루) 붙여넣기"
 
-#v1.10.16
-msgctxt "osm_admin_level_11"
-msgid "Neighborhood"
-msgstr "이웃"
+#v1.12.11
+msgctxt "demand_time_set_0"
+msgid "All 0%"
+msgstr "모두 0%"
 
-#v1.10.16
-msgctxt "poi_settlement_0"
-msgid "Capital"
-msgstr "수도"
+#v1.12.11
+msgctxt "demand_time_set_100"
+msgid "All 100%"
+msgstr "모두 100%"
 
-#v1.10.16
-msgctxt "poi_settlement_1"
-msgid "City"
-msgstr "도시"
+#v1.12.11
+msgctxt "editor_poi"
+msgid "Create new points of interest and signs"
+msgstr "관심지점 또는 표지 생성"
 
-#v1.10.16
-msgctxt "poi_settlement_2"
-msgid "Town"
-msgstr "마을"
+#v1.12.11
+msgctxt "editor_tip_new_poi_left"
+msgid "Left click to create a new point of interest or sign"
+msgstr "좌클릭으로 새 관심지점이나 표지를 생성합니다"
 
-#v1.10.16
-msgctxt "poi_settlement_3"
-msgid "Suburb"
-msgstr "근교"
+#v1.12.11
+msgctxt "fmt_copy_of"
+msgid "Copy of {}
+msgstr "{}의 사본"
 
-#v1.10.16
-msgctxt "poi_settlement_4"
-msgid "Quarter"
-msgstr "지구"
+#v1.12.11
+msgctxt "info_company_active_tiles"
+msgid "Active pax tiles:"
+msgstr "활동중인 승객 타일:"
 
-#v1.10.16
-msgctxt "poi_settlement_5"
-msgid "Neighbourhood"
-msgstr "이웃"
+#v1.12.11
+msgctxt "info_table_pax_location"
+msgid "Location"
+msgstr "위치"
 
-#v1.10.16
-msgctxt "poi_settlement_6"
-msgid "Village"
-msgstr "마을"
+#v1.12.11
+msgctxt "info_table_pax_location_tp"
+msgid "Current location"
+msgstr "현재 위치"
 
-#v1.10.16
-msgctxt "poi_settlement_7"
-msgid "Hamlet"
-msgstr "작은 마을"
+#v1.12.11
+msgctxt "info_table_station_city_tp"
+msgid "Group by city"
+msgstr "도시 별 묶음"
 
-#v1.10.16
-msgctxt "poi_settlement_8"
-msgid "Dwelling"
-msgstr "주택"
+#v1.12.11
+msgctxt "info_table_station_dist_tp"
+msgid "Sort by distance"
+msgstr "거리 순 정렬"
 
-#v1.10.16
-msgctxt "poi_settlement_9"
-msgid "Farm"
-msgstr "농장"
+#v1.12.11
+msgctxt "mod_poi_layer_options_title"
+msgid "Mod POI layer options"
+msgstr "관심지점 계층 설정 수정(모드)"
 
-#v1.10.16
-msgctxt "renderer_dx12"
-msgid "DirectX 12"
-msgstr "DirectX 12"
+#v1.12.11
+msgctxt "mplo_default_demand"
+msgid "<Controlled by the mod>"
+msgstr "<모드에 의해 제어됨>"
 
-#v1.10.16
-msgctxt "renderer_vulkan"
-msgid "Vulkan"
-msgstr "Vulkan"
+#v1.12.11
+msgctxt "mplo_demand_curve"
+msgid "Demand curve:"
+msgstr "수요곡선:"
 
-#v1.10.16
-msgctxt "station_platform_set_name_all"
-msgid "All"
-msgstr "모두"
+#v1.12.11
+msgctxt "mplo_hidden"
+msgid "Hidden"
+msgstr "숨김"
 
-#v1.10.16
-msgctxt "timing_lines_n"
-msgid "Timing line legs, {} to go"
-msgstr "타이밍 라인 구간, {} 남았습니다."
+#v1.12.11
+msgctxt "mplo_icons_only"
+msgid "Icons only"
+msgstr "아이콘만"
 
-#v1.10.16
-msgctxt "trackeditor_clickable_tracks"
-msgid "Clickable tracks"
-msgstr "클릭 가능한 트랙"
+#v1.12.11
+msgctxt "mplo_labels_and_icons"
+msgid "Labels and icons"
+msgstr "라벨과 아이콘"
 
-#v1.10.16
-msgctxt "warn_alpha_renderer1"
-msgid "Experimental renderer! Only use if DirectX 11 crashes often."
-msgstr "실험적인 렌더러! DirectX 11이 자주 충돌하는 경우에만 사용하십시오."
+#v1.12.11
+msgctxt "mplo_map_vis"
+msgid "Map display:"
+msgstr "지도 표시:"
+
+#v1.12.11
+msgctxt "mvo_mod_poi_labels"
+msgid "POI mod labels"
+msgstr "관심지점 모드 라벨"
+
+#v1.12.11
+msgctxt "option_company_demand_editor"
+msgid "Demand curve editor"
+msgstr "수요곡선 편집기"
+
+#v1.12.11
+msgctxt "option_company_mod_poi_layer_editor"
+msgid "Mod POI layer options"
+msgstr "관심지점 계층 설정 수정(모드)"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_pick"
+msgid "Pax spawn station:"
+msgstr "승객 소환역:"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_random"
+msgid "Random"
+msgstr "무작위"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk"
+msgid "Shortest walk"
+msgstr "최소도보"
+
+#v1.12.11
+msgctxt "option_company_pax_spawn_station_shortest_walk_best_path"
+msgid "Shortest walk, best path"
+msgstr "최소도보, 최적경로"
+
+#v1.12.11
+msgctxt "pax_total_demand"
+msgid "Total: {0}"
+msgstr "총: {0}"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_destination"
+msgid "As destination: {0}"
+msgstr "{0}을(를) 도착역으로"
+
+#v1.12.11
+msgctxt "pax_total_demand_as_origin"
+msgid "As origin: {0}"
+msgstr "{0}을(를) 출발역으로"
+
+#v1.12.11
+msgctxt "poi_instance_editor"
+msgid "Point of interest properties"
+msgstr "관심지점 속성"
+
+#v1.12.11
+msgctxt "poi_instance_editor_new"
+msgid "New point of interest properties"
+msgstr "새 관심지점 속성"
+
+#v1.12.11
+msgctxt "sign_instance_editor"
+msgid "Sign properties"
+msgstr "표지 속성"
+
+#v1.12.11
+msgctxt "sign_instance_editor_new"
+msgid "New sign properties"
+msgstr "새 표지 속성"
+
+#v1.12.11
+msgctxt "station_demand_aggregate"
+msgid "Aggregate"
+msgstr "총수요"
+
+#v1.12.11
+msgctxt "station_demand_aggregated_started_at"
+msgid "Started at {}"
+msgstr "{}에 시작"
+
+#v1.12.11
+msgctxt "station_demand_realtime"
+msgid "Realtime"
+msgstr "실제 시간"
+
+#v1.12.11
+msgctxt "station_infowin_demand"
+msgid "Ridership"
+msgstr "탑승객 수"
+
+#v1.12.11
+msgctxt "station_rt_demand_dest"
+msgid "As destination"
+msgstr "도착역"
+
+#v1.12.11
+msgctxt "station_rt_demand_origin"
+msgid "As origin"
+msgstr "출발역"
+
+#v1.12.11
+msgctxt "waiting_at_station"
+msgid "Waiting at station"
+msgstr "역에서 대기 중"
 
 
 
 # ----------------------------------------------------------
 # modified strings
 
-#v1.10.16
-msgctxt "mvo_user_track_depth"
-msgid "Map over track layers"
-msgstr "트랙 레이어에 대한 지도"
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_3"
+msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods, object kinds and demand curves being imported into your game.\n"
+msgstr "알 수 없는 형태의 개체들을 내장 개체로 대체하고, 새 모드를 무시한 상태로 개체 형태와 수요곡선을 게임에 가져오도록 복사하기\n"
 
-#v1.10.16
-msgctxt "option_company_pax_train_matching"
-msgid "Board alternate trains:"
-msgstr "대체 열차 탑승:"
+#v1.12.11
+msgctxt "confirm_clip_unknown_desc_4"
+msgid "Copy with new mods to import new object kinds and to enable their mods and demand curves in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
+msgstr "새 모드와 함께 개체를 복사하여 새 개체 형태와 수요곡선을 인식하도록 복사하기. 기존에 구독하지 않았던 새 모드들은 Steam Workshop에서 구독해야 합니다."
+
+#v1.12.11
+msgctxt "option_company_demand"
+msgid "Global demand factor:"
+msgstr "전역 수요 요소:"
 
 
 
@@ -601,9 +711,9 @@ msgctxt "accounting_trains_stop_time"
 msgid "Scheduled stop"
 msgstr "스케쥴상 정차 시간"
 
-#v1.1.72
+#v1.11.14
 msgctxt "accounting_utc_warn"
-msgid "Accounting time: {} UTC0"
+msgid "Accounting time: {}"
 msgstr "회계 시간: {} UTC-0"
 
 #v1.1.31
@@ -675,6 +785,11 @@ msgstr "최고 속력에서도"
 msgctxt "alerts_pause_game_only_0_delay"
 msgid "Only if delay is 0"
 msgstr "지연이 0일 때만"
+
+#v1.10.16
+msgctxt "all"
+msgid "All"
+msgstr "모두"
 
 #v1.2.22
 msgctxt "apply"
@@ -1171,16 +1286,6 @@ msgctxt "confirm_clip_unknown_desc_2"
 msgid "One or more objects in the clip references an unknown mod:\n"
 msgstr "내용에 포함된 한 개 이상의 물체가 알 수 없는 모드를 참조합니다:\n"
 
-#v1.4.15
-msgctxt "confirm_clip_unknown_desc_3"
-msgid "Copy with built-in to replace unknown objects with built-in objects, avoiding new mods and object kinds being imported into your game.\n"
-msgstr "내장된 객체들로 대체해 새 모드나 객체가 게임에 포함되지 않게 하기\n"
-
-#v1.4.15
-msgctxt "confirm_clip_unknown_desc_4"
-msgid "Copy with new mods to import new object kinds and to enable their mods in your game. You will then need to subscribe to these mods in the Steam Workshop if you are not yet subscribed."
-msgstr "새 모드에서 객체를 불러와 게임에 포함시키기(Steam Workshop에서 해당 모드들을 구독해야 합니다)"
-
 #v1.4.22
 msgctxt "confirm_collection_delete"
 msgid "Delete collection"
@@ -1560,11 +1665,6 @@ msgstr "청사진만 삭제하기"
 msgctxt "delete_tracks"
 msgid "Delete objects"
 msgstr "개체 삭제"
-
-#v1.1.31
-msgctxt "demand_pax_overall"
-msgid "{:.1f} pax/s"
-msgstr "초당 승객 {:.1f}"
 
 #v1.9.17
 msgctxt "dep_grp_destination"
@@ -2121,6 +2221,11 @@ msgctxt "editor_tip_station_left"
 msgid "Left click to create a new station platform"
 msgstr "새 플랫폼을 만드려면 좌클릭하세요."
 
+#v1.11.14
+msgctxt "editor_tip_station_move"
+msgid "Move mouse to start creating the station platform"
+msgstr "Move mouse to start creating the station platform"
+
 #v1.9.17
 msgctxt "editor_tip_tangent_left"
 msgid "Release left button to stop rotating the track tangent"
@@ -2171,11 +2276,6 @@ msgctxt "effective_game_speed"
 msgid "Speed: {:.1f}x"
 msgstr "속력: {:.1f}x"
 
-#v1.5.31
-msgctxt "effective_game_speed_handicap"
-msgid "Speed: {0:.1f}x\nHandicap: {1}%"
-msgstr "속력: {0:.1f}x\n핸디캡: {1}%"
-
 #v1.7.15
 msgctxt "effective_leg_time_desc"
 msgid "Time from crossing the middle of one platform to the middle of the next one, not counting stop time"
@@ -2196,10 +2296,25 @@ msgctxt "enabled"
 msgid "Enabled"
 msgstr "활성화됨"
 
+#v1.10.16
+msgctxt "error_cannot_delete_save"
+msgid "Cannot delete old save for overwriting: "
+msgstr "덮어쓰기를 위해 오래된 저장을 삭제할 수 없음: "
+
 #v1.1.31
 msgctxt "error_cannot_open_file"
 msgid "Cannot open file: "
 msgstr "파일을 열 수 없습니다: "
+
+#v1.10.16
+msgctxt "error_cannot_open_temp_file"
+msgid "Cannot open temporary file: "
+msgstr "기존의 파일을 열 수 없음: "
+
+#v1.10.16
+msgctxt "error_cannot_rename_save"
+msgid "Cannot rename temporary file: {} into {} "
+msgstr "기존의 파일 이름을 바꿀 수 없음: {}에서 {}(으)로 "
 
 #v1.1.31
 msgctxt "error_corrupted_file"
@@ -2446,6 +2561,21 @@ msgctxt "full_date_time"
 msgid "{weekday} {day} {month}, {year} / {hours:02d}:{mins:02d}:{secs:02d}"
 msgstr "{year}년 {month} {day}일, {weekday}  / {hours:02d}:{mins:02d}:{secs:02d}"
 
+#v1.11.14
+msgctxt "full_simulation_reset"
+msgid "Full simulation reset"
+msgstr "Full simulation reset"
+
+#v1.11.14
+msgctxt "full_simulation_reset_desc"
+msgid "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
+msgstr "All pax will be removed from stations and trains, all trains will be intervened, line and orders timing will be refreshed. Are you sure?"
+
+#v1.11.14
+msgctxt "full_simulation_reset_yes"
+msgid "Reset simulation"
+msgstr "Reset simulation"
+
 #v1.2.22
 msgctxt "game_restart_req"
 msgid "Game restart is required"
@@ -2490,6 +2620,11 @@ msgstr "전역 청사진 청구서"
 msgctxt "global_blueprint_bill_short"
 msgid "Global"
 msgstr "전역"
+
+#v1.11.14
+msgctxt "handicap_game_speed"
+msgid "Handicap: {:.1f}x"
+msgstr "Handicap: {:.1f}x"
 
 #v1.2.29
 msgctxt "height_layer_n"
@@ -2586,14 +2721,14 @@ msgctxt "host_server_wait_ip"
 msgid "Detecting public IP..."
 msgstr "공개 IP 찾는 중..."
 
-#v1.6.13
+#v1.11.14
 msgctxt "host_sim_mode"
-msgid "Simulation:"
+msgid "Clock and bank:"
 msgstr "시뮬레이션:"
 
-#v1.6.13
+#v1.11.14
 msgctxt "host_sim_mode_private"
-msgid "Private"
+msgid "Private for each player"
 msgstr "독립"
 
 #v1.6.13
@@ -2601,9 +2736,9 @@ msgctxt "host_sim_mode_private_desc"
 msgid "Time, train motion and pax simulation is independent for each client.\nTracks, lines and trains are edited cooperatively.\nScales to larger build sizes than shared simulation.\nGames are always set to unlimited money."
 msgstr "시간, 열차의 움직임 및 수요 시뮬레이션은 각 유저마다 독립적입니다.\n트랙, 노선 및 열차는 공동으로 편집됩니다.\n공유 시뮬레이션보다 더 많은 건설이 가능합니다.\n게임은 항상 무제한으로 설정됩니다"
 
-#v1.6.13
+#v1.11.14
 msgctxt "host_sim_mode_shared"
-msgid "Shared"
+msgid "Shared between all players"
 msgstr "공유됨"
 
 #v1.6.13
@@ -2936,6 +3071,11 @@ msgctxt "kb_track_new_signal"
 msgid "Tracks: new signal"
 msgstr "선로: 새 신호"
 
+#v1.10.16
+msgctxt "kb_track_pick_parent"
+msgid "Tracks: pick par. parent"
+msgstr "선로: 부모 고르기"
+
 #v1.6.13
 msgctxt "kb_track_sat_building_tape"
 msgid "Tracks: building tape"
@@ -2995,6 +3135,11 @@ msgstr "[할당된 키 없음]"
 msgctxt "language_pick"
 msgid "Language:"
 msgstr "언어: "
+
+#v1.11.14
+msgctxt "last_frame_game_speed"
+msgid "Last frame speed: {:.1f}x"
+msgstr "Last frame speed: {:.1f}x"
 
 #v1.2.29
 msgctxt "layer_ground"
@@ -3506,6 +3651,16 @@ msgctxt "lineeditor_max_brake_desc"
 msgid "Upper bound for train braking. Actual braking may be lower depending on train capabilities."
 msgstr "이론적인 최대 감속도입니다. 실제 감속도는 열차의 스펙에 따라 더 낮을 수 있습니다."
 
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time"
+msgid "Pax min. ride time:"
+msgstr "Pax min. ride time:"
+
+#v1.11.14
+msgctxt "lineeditor_min_pax_departure_leg_time_desc"
+msgid "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
+msgstr "Format: (hh:)mm:ss\nPax will only board the train if they plan to ride it for at least this amount of time,\nnot including the initial wait time."
+
 #v1.5.31
 msgctxt "lineeditor_min_stop_time"
 msgid "Stop time:"
@@ -3551,6 +3706,11 @@ msgctxt "lineeditor_reference_train_desc"
 msgid "An internal simulation of this train running on the tracks will be used for calculating the leg times."
 msgstr "기준 열차가 이 노선을 달리는 시간으로 소요 시간이 계산될 것입니다."
 
+#v1.10.16
+msgctxt "lineeditor_restrict_lines_map"
+msgid "Restrict listing to visible lines on map (approximately)"
+msgstr "지도에 보이는 선으로 목록을 대략적으로 제한합니다"
+
 #v1.2.22
 msgctxt "lineeditor_service_level"
 msgid "Service level:"
@@ -3581,6 +3741,16 @@ msgctxt "lineeditor_stop_arrive"
 msgid "Arrive at:"
 msgstr "도착:"
 
+#v1.11.14
+msgctxt "lineeditor_stop_boardable"
+msgid "Board"
+msgstr "Board"
+
+#v1.11.14
+msgctxt "lineeditor_stop_leaveable"
+msgid "Disembark"
+msgstr "Disembark"
+
 #v1.7.15
 msgctxt "lineeditor_stop_mode"
 msgid "Stop time mode:"
@@ -3601,6 +3771,11 @@ msgctxt "lineeditor_stop_mode_fixed_departure"
 msgid "Fixed departure"
 msgstr "고정된 출발"
 
+#v1.11.14
+msgctxt "lineeditor_stop_no_pax_behavior"
+msgid "Not board or disembark"
+msgstr "Not board or disembark"
+
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
 msgid "Stop {}"
@@ -3615,6 +3790,11 @@ msgstr "경로 {0} {1} {2}"
 msgctxt "lineeditor_stop_panel_line_service_stop"
 msgid "Line service stop"
 msgstr "노선 운행 중지"
+
+#v1.11.14
+msgctxt "lineeditor_stop_pax_behavior"
+msgid "Allow pax to:"
+msgstr "Allow pax to:"
 
 #v1.5.41
 msgctxt "lineeditor_suffix"
@@ -3706,10 +3886,20 @@ msgctxt "lineeditor_tz"
 msgid "Time zone:"
 msgstr "시간대:"
 
-#v1.5.31
-msgctxt "lineeditor_tz_desc"
-msgid "Time zone of the first train departure time input."
-msgstr "첫차의 출발 시각에 사용되는 시간대"
+#v1.11.14
+msgctxt "lineeditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
+
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Custom time zone:"
+
+#v1.11.14
+msgctxt "lineeditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "lineeditor_tz_first_stop"
@@ -3981,6 +4171,31 @@ msgctxt "main_options"
 msgid "Options"
 msgstr "설정"
 
+#v1.10.16
+msgctxt "map_hillshade_pos"
+msgid "Hillshading:"
+msgstr "음영기복:"
+
+#v1.10.16
+msgctxt "map_hillshade_pos_0"
+msgid "Under ground"
+msgstr "지하"
+
+#v1.10.16
+msgctxt "map_hillshade_pos_1"
+msgid "Over ground"
+msgstr "지상"
+
+#v1.10.16
+msgctxt "map_land_alpha"
+msgid "Land background mix:"
+msgstr "땅 배경 조합:"
+
+#v1.10.16
+msgctxt "map_land_hsv_sat"
+msgid "Land HSV saturation:"
+msgstr "땅 HSV 채도:"
+
 #v1.1.31
 msgctxt "map_names_eng"
 msgid "English"
@@ -3995,6 +4210,46 @@ msgstr "현지화"
 msgctxt "map_names_prio"
 msgid "Map names priority:"
 msgstr "지도 이름 우선순위: "
+
+#v1.10.16
+msgctxt "map_option_font"
+msgid "Label font size:"
+msgstr "라벨 폰트 크기:"
+
+#v1.10.16
+msgctxt "map_option_font_0"
+msgid "Small"
+msgstr "작게"
+
+#v1.10.16
+msgctxt "map_option_font_1"
+msgid "Default"
+msgstr "보통"
+
+#v1.10.16
+msgctxt "map_option_font_2"
+msgid "Big"
+msgstr "크게"
+
+#v1.10.16
+msgctxt "map_option_font_3"
+msgid "Huge"
+msgstr "더 크게"
+
+#v1.10.16
+msgctxt "map_show_land_tex_max_zoom"
+msgid "Show land texture at max zoom"
+msgstr "최대 확대로 땅 텍스쳐 보기"
+
+#v1.10.16
+msgctxt "map_style_mods"
+msgid "Map style mods"
+msgstr "맵 스타일 모드"
+
+#v1.10.16
+msgctxt "map_style_show_in_panel"
+msgid "Show in map options panel"
+msgstr "맵 옵션 패널에서 보기"
 
 #v1.5.31
 msgctxt "mass_del_lines_but"
@@ -4145,6 +4400,16 @@ msgstr "에셋"
 msgctxt "mod_kind_blueprints"
 msgid "Blueprints"
 msgstr "청사진"
+
+#v1.10.16
+msgctxt "mod_less_prio"
+msgid "Less priority"
+msgstr "낮은 우선순위"
+
+#v1.10.16
+msgctxt "mod_more_prio"
+msgid "More priority"
+msgstr "높은 우선순위"
 
 #v1.1.31
 msgctxt "mod_name"
@@ -4551,6 +4816,16 @@ msgctxt "multiplayer"
 msgid "Multiplayer"
 msgstr "멀티플레이"
 
+#v1.10.16
+msgctxt "mvo_toggle_map_style_mods"
+msgid "Map style mods:"
+msgstr "맵 스타일 모드:"
+
+#v1.10.16
+msgctxt "mvo_track_editor_always_on_top"
+msgid "Track editor always on top"
+msgstr "트랙 편집기는 항상 위에 있어야 합니다"
+
 #v1.4.15
 msgctxt "mvo_user_labels"
 msgid "User labels"
@@ -4610,6 +4885,16 @@ msgstr "역 아이콘"
 msgctxt "mvo_user_station_names"
 msgid "Station names"
 msgstr "열차 이름"
+
+#v1.10.16
+msgctxt "mvo_user_track_depth"
+msgid "Map over track layers"
+msgstr "트랙 레이어에 대한 지도"
+
+#v1.10.16
+msgctxt "mvo_user_track_depth_bridge"
+msgid "Map bridges over track layers"
+msgstr "트랙 레이어 위에 교량 매핑"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
@@ -4716,10 +5001,30 @@ msgctxt "option_company_acc_export"
 msgid "Export accounting data"
 msgstr "회계 데이터 내보내기"
 
-#v1.1.58
-msgctxt "option_company_demand"
-msgid "Pax demand factor:"
-msgstr "승객 욕구 요소:"
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s"
+msgid "Accounting time shift:"
+msgstr "Accounting time shift:"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change"
+msgid "Change accounting day shift time"
+msgstr "Change accounting day shift time"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_desc"
+msgid "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
+msgstr "Current day accounting will be lost and/or incorrect. Proper accounting won't be restablished until 24 hours of in-game time passes. Some historical accounting might be lost. No historical accounting will be time shifted. This setting only applies starting at the moment it is changed. Are you sure?"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_change_yes"
+msgid "Change time"
+msgstr "Change time"
+
+#v1.11.14
+msgctxt "option_company_acc_utc0_offset_s_desc"
+msgid "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
+msgstr "Format: (-)hh:mm:ss\nAccounting new day will be considered to start at this shifted time relative to UTC0"
 
 #v1.7.15
 msgctxt "option_company_geo_export"
@@ -4736,6 +5041,21 @@ msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
 msgstr "새 병렬 노선 간격:"
 
+#v1.11.14
+msgctxt "option_company_pax_pf_bias"
+msgid "Pax pathfind bias:"
+msgstr "Pax pathfind bias:"
+
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_less"
+msgid "Better paths"
+msgstr "Better paths"
+
+#v1.11.14
+msgctxt "option_company_pax_pf_bias_more"
+msgid "Faster sim"
+msgstr "Faster sim"
+
 #v1.5.31
 msgctxt "option_company_station_label"
 msgid "New station label:"
@@ -4750,6 +5070,31 @@ msgstr "예산 무제한 모드로 바꾸기"
 msgctxt "option_company_switch_no_couplers"
 msgid "Switch to unrestricted coupling"
 msgstr "열차 구성 제한 해제 모드로 바꾸기"
+
+#v1.11.14
+msgctxt "option_company_time_zones"
+msgid "Map time zones:"
+msgstr "Map time zones:"
+
+#v1.11.14
+msgctxt "option_company_time_zones_approximate"
+msgid "Approximate"
+msgstr "Approximate"
+
+#v1.11.14
+msgctxt "option_company_time_zones_change"
+msgid "Change map time zones mode"
+msgstr "Change map time zones mode"
+
+#v1.11.14
+msgctxt "option_company_time_zones_simplified"
+msgid "Simplified"
+msgstr "Simplified"
+
+#v1.11.14
+msgctxt "option_company_time_zones_zero"
+msgid "Always 0"
+msgstr "Always 0"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -4766,20 +5111,45 @@ msgctxt "options"
 msgid "Options"
 msgstr "설정"
 
+#v1.10.16
+msgctxt "options_alerts"
+msgid "Alerts"
+msgstr "경고"
+
+#v1.10.16
+msgctxt "options_autosave"
+msgid "Autosave"
+msgstr "자동 저장"
+
 #v1.1.31
 msgctxt "options_graphics"
 msgid "Graphics"
 msgstr "그래픽"
+
+#v1.10.16
+msgctxt "options_interface"
+msgid "Interface"
+msgstr "인터페이스"
 
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
 msgstr "키할당"
 
+#v1.10.16
+msgctxt "options_map"
+msgid "Map"
+msgstr "지도"
+
 #v1.1.31
 msgctxt "options_mods_upload"
 msgid "Uploader"
 msgstr "업로더"
+
+#v1.11.14
+msgctxt "options_performance"
+msgid "Performance"
+msgstr "Performance"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -4810,6 +5180,11 @@ msgstr "유효하지 않은 노선"
 msgctxt "osm_admin_level_10"
 msgid "Quarter"
 msgstr "지구"
+
+#v1.10.16
+msgctxt "osm_admin_level_11"
+msgid "Neighborhood"
+msgstr "이웃"
 
 #v1.1.31
 msgctxt "osm_admin_level_2"
@@ -5006,10 +5381,40 @@ msgctxt "paxlist_waiting_pax"
 msgid "Waiting for pax..."
 msgstr "승객 기다리는 중..."
 
-#v1.3.13
-msgctxt "pending_validations"
-msgid "Validating tracks, {} to go"
-msgstr "선로와 역사 건설중, {} 남음"
+#v1.11.14
+msgctxt "perf_bg_fps"
+msgid "Background UI FPS:"
+msgstr "Background UI FPS:"
+
+#v1.11.14
+msgctxt "perf_fg_fps"
+msgid "Foreground UI FPS:"
+msgstr "Foreground UI FPS:"
+
+#v1.11.14
+msgctxt "perf_fps_limited"
+msgid "Manual limit"
+msgstr "Manual limit"
+
+#v1.11.14
+msgctxt "perf_fps_unlimited"
+msgid "Unlimited"
+msgstr "Unlimited"
+
+#v1.11.14
+msgctxt "perf_fps_vsync"
+msgid "Limited by VSync"
+msgstr "Limited by VSync"
+
+#v1.11.14
+msgctxt "perf_linenet_threads"
+msgid "Timetable CPU threads:"
+msgstr "Timetable CPU threads:"
+
+#v1.11.14
+msgctxt "perf_sim_threads"
+msgid "Sim CPU threads:"
+msgstr "Sim CPU threads:"
 
 #v1.5.31
 msgctxt "pick"
@@ -5116,6 +5521,56 @@ msgctxt "plots_button_tp"
 msgid "Open charts window"
 msgstr "차트 창 열기"
 
+#v1.10.16
+msgctxt "poi_settlement_0"
+msgid "Capital"
+msgstr "수도"
+
+#v1.10.16
+msgctxt "poi_settlement_1"
+msgid "City"
+msgstr "도시"
+
+#v1.10.16
+msgctxt "poi_settlement_2"
+msgid "Town"
+msgstr "마을"
+
+#v1.10.16
+msgctxt "poi_settlement_3"
+msgid "Suburb"
+msgstr "근교"
+
+#v1.10.16
+msgctxt "poi_settlement_4"
+msgid "Quarter"
+msgstr "지구"
+
+#v1.10.16
+msgctxt "poi_settlement_5"
+msgid "Neighbourhood"
+msgstr "이웃"
+
+#v1.10.16
+msgctxt "poi_settlement_6"
+msgid "Village"
+msgstr "마을"
+
+#v1.10.16
+msgctxt "poi_settlement_7"
+msgid "Hamlet"
+msgstr "작은 마을"
+
+#v1.10.16
+msgctxt "poi_settlement_8"
+msgid "Dwelling"
+msgstr "주택"
+
+#v1.10.16
+msgctxt "poi_settlement_9"
+msgid "Farm"
+msgstr "농장"
+
 #v1.1.31
 msgctxt "pop_reach"
 msgid "Reach: {}"
@@ -5175,6 +5630,16 @@ msgstr "렌더러: "
 msgctxt "renderer_dx11"
 msgid "DirectX 11"
 msgstr "DirectX 11"
+
+#v1.10.16
+msgctxt "renderer_dx12"
+msgid "DirectX 12"
+msgstr "DirectX 12"
+
+#v1.10.16
+msgctxt "renderer_vulkan"
+msgid "Vulkan"
+msgstr "Vulkan"
 
 #v1.7.15
 msgctxt "replace_trains"
@@ -5510,6 +5975,11 @@ msgstr "선택됨"
 msgctxt "sell_all_trains_yes"
 msgid "Sell all"
 msgstr "모두 팔기"
+
+#v1.11.14
+msgctxt "setting_game_speed"
+msgid "Speed setting: {}x"
+msgstr "Speed setting: {}x"
 
 #v1.1.31
 msgctxt "settings"
@@ -5966,6 +6436,11 @@ msgctxt "station_platform_promote"
 msgid "Promote track into platform"
 msgstr "선로를 플랫폼으로 변경하기"
 
+#v1.10.16
+msgctxt "station_platform_set_name_all"
+msgid "All"
+msgstr "모두"
+
 #v1.4.15
 msgctxt "station_platform_user_name"
 msgid "Platform name:"
@@ -6065,16 +6540,6 @@ msgstr "%d개 역"
 msgctxt "strangers"
 msgid "Strangers"
 msgstr "낯선 플레이어"
-
-#v1.1.37
-msgctxt "stream_ahead_desc"
-msgid "You are ahead of the host. Pausing your clock to wait for it."
-msgstr "호스트에 비해 시간이 빠릅니다. 일시 정지해 시간을 맞출 수 있습니다."
-
-#v1.4.22
-msgctxt "stream_catch_up_desc2"
-msgid "You are falling behind the host. Speeding up the clock to catch up. Lag frames: {}"
-msgstr "호스트보다 시간이 느리게 흘러가고 있습니다. 시간을 배속하여 맞추고 있습니다. 지연 프레임: {}"
 
 #v1.6.13
 msgctxt "stream_waiting_for_player"
@@ -6556,6 +7021,11 @@ msgctxt "timetable_week"
 msgid "Week"
 msgstr "주"
 
+#v1.10.16
+msgctxt "timing_lines_n"
+msgid "Timing line legs, {} to go"
+msgstr "타이밍 라인 구간, {} 남았습니다."
+
 #v1.1.31
 msgctxt "title"
 msgid "Title:"
@@ -6570,11 +7040,6 @@ msgstr "클립보드에 너무 많이 저장됨"
 msgctxt "too_many_collections_body"
 msgid "Your saved and subscribed clips reached the limit of 50,000 tracks and buildings. Please delete some saved clips and/or unsubscribe from some collections."
 msgstr "저장되거나 구독된 클립보드에 선로와 건물이 최대치인 5만 개에 도달했습니다. 저장된 클립보드를 일부 지우거나 구독 취소해 주세요."
-
-#v1.2.22
-msgctxt "tooltip_demand"
-msgid "Local {0}%\nRegional {1}%\nLong distance {2}%"
-msgstr "근거리 {0}% | 지역 {1}% | 장거리 {2}%"
 
 #v1.1.31
 msgctxt "total"
@@ -6660,6 +7125,11 @@ msgstr "가격"
 msgctxt "track_sort_speed"
 msgid "Max. speed"
 msgstr "최대 속력"
+
+#v1.10.16
+msgctxt "trackeditor_clickable_tracks"
+msgid "Clickable tracks"
+msgstr "클릭 가능한 트랙"
 
 #v1.4.15
 msgctxt "trackeditor_hide_controls"
@@ -7516,6 +7986,11 @@ msgctxt "train_rt_leg"
 msgid "Remaining leg (m)"
 msgstr "남은 운행 (분)"
 
+#v1.11.14
+msgctxt "train_rt_pax"
+msgid "Pax"
+msgstr "Pax"
+
 #v1.8.24
 msgctxt "train_rt_speed"
 msgid "Speed (km/h)"
@@ -7721,6 +8196,11 @@ msgctxt "traineditor_order_start_time_by"
 msgid "Than:"
 msgstr "보다:"
 
+#v1.11.14
+msgctxt "traineditor_order_start_time_day_on"
+msgid "On:"
+msgstr "On:"
+
 #v1.5.31
 msgctxt "traineditor_order_start_time_desc"
 msgid "Format: hh:mm:ss\nTime of day to start one or more runs of the selected line."
@@ -7735,6 +8215,11 @@ msgstr "사용자 설정 열차로 대체"
 msgctxt "traineditor_replace_tmu_mode"
 msgid "Replacing with preconfigured train"
 msgstr "미리 구성된 열차로 대체"
+
+#v1.11.14
+msgctxt "traineditor_restrict_trains_map"
+msgid "Restrict listing to visible trains on map (approximately)"
+msgstr "Restrict listing to visible trains on map (approximately)"
 
 #v1.1.58
 msgctxt "traineditor_select_all"
@@ -7771,10 +8256,20 @@ msgctxt "traineditor_tz"
 msgid "Time zone:"
 msgstr "시간대:"
 
-#v1.5.31
-msgctxt "traineditor_tz_desc"
-msgid "Time zone used for order time/day input."
-msgstr "시간 / 날짜 입력에 사용되는 시간대"
+#v1.11.14
+msgctxt "traineditor_tz_custom"
+msgid "Custom"
+msgstr "Custom"
+
+#v1.11.14
+msgctxt "traineditor_tz_custom_input"
+msgid "Custom time zone:"
+msgstr "Custom time zone:"
+
+#v1.11.14
+msgctxt "traineditor_tz_custom_input_desc"
+msgid "Format: (-)hh:mm:ss"
+msgstr "Format: (-)hh:mm:ss"
 
 #v1.5.31
 msgctxt "traineditor_tz_first_line"
@@ -7951,6 +8446,11 @@ msgctxt "waiting_expired"
 msgid "Expired"
 msgstr "만료됨"
 
+#v1.10.16
+msgctxt "warn_alpha_renderer1"
+msgid "Experimental renderer! Only use if DirectX 11 crashes often."
+msgstr "실험적인 렌더러! DirectX 11이 자주 충돌하는 경우에만 사용하십시오."
+
 #v1.2.29
 msgctxt "warn_mod_in_use"
 msgid "Mod is in use"
@@ -8110,4 +8610,3 @@ msgstr "프로토콜이 서버와 맞지 않습니다. 서버와 본인이 같�
 msgctxt "wrong_schema_mod"
 msgid "This mod data is enabled in the current game, but its installed files require a newer game version. Update the game."
 msgstr "해당 모드 데이터가 이 세이브에서 활성화되었지만, 모드가 더 높은 버전의 게임을 요구합니다. 게임을 업데이트 해 주세요."
-
