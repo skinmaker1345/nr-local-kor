@@ -5149,7 +5149,7 @@ msgstr "업로더"
 #v1.11.14
 msgctxt "options_performance"
 msgid "Performance"
-msgstr "Performance"
+msgstr "성능"
 
 #v1.5.31
 msgctxt "order_error_empty_line"
@@ -5384,37 +5384,37 @@ msgstr "승객 기다리는 중..."
 #v1.11.14
 msgctxt "perf_bg_fps"
 msgid "Background UI FPS:"
-msgstr "Background UI FPS:"
+msgstr "후면 UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fg_fps"
 msgid "Foreground UI FPS:"
-msgstr "Foreground UI FPS:"
+msgstr "전면 UI FPS:"
 
 #v1.11.14
 msgctxt "perf_fps_limited"
 msgid "Manual limit"
-msgstr "Manual limit"
+msgstr "사용자 지정"
 
 #v1.11.14
 msgctxt "perf_fps_unlimited"
 msgid "Unlimited"
-msgstr "Unlimited"
+msgstr "무제한"
 
 #v1.11.14
 msgctxt "perf_fps_vsync"
 msgid "Limited by VSync"
-msgstr "Limited by VSync"
+msgstr "VSync"
 
 #v1.11.14
 msgctxt "perf_linenet_threads"
 msgid "Timetable CPU threads:"
-msgstr "Timetable CPU threads:"
+msgstr "시간표 CPU 스레드 수 CPU:"
 
 #v1.11.14
 msgctxt "perf_sim_threads"
 msgid "Sim CPU threads:"
-msgstr "Sim CPU threads:"
+msgstr "시뮬레이션 CPU 스레드 수:"
 
 #v1.5.31
 msgctxt "pick"
