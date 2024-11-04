@@ -9,7 +9,7 @@ msgstr "Built"
 #v1.14.24
 msgctxt "click_to_change"
 msgid "Click to change"
-msgstr "Click to change"
+msgstr "변경하려면 클릭"
 
 #v1.14.24
 msgctxt "kb_mode_schedules"
@@ -24,32 +24,32 @@ msgstr "N/A"
 #v1.14.24
 msgctxt "lineeditor_reference_train_pick"
 msgid "< Select train >"
-msgstr "< Select train >"
+msgstr "< 열차 선택 >"
 
 #v1.14.24
 msgctxt "mass_del_schedules_but"
 msgid "Delete all schedules"
-msgstr "Delete all schedules"
+msgstr "모든 스케쥴 삭제"
 
 #v1.14.24
 msgctxt "mass_del_schedules_desc"
 msgid "Do you want to delete all schedules?"
-msgstr "Do you want to delete all schedules?"
+msgstr "모든 스케쥴을 삭제할까요?"
 
 #v1.14.24
 msgctxt "mass_del_schedules_title"
 msgid "Delete all schedules"
-msgstr "Delete all schedules"
+msgstr "모든 스케쥴 삭제"
 
 #v1.14.24
 msgctxt "mass_del_schedules_yes"
 msgid "Delete all"
-msgstr "Delete all"
+msgstr "전체 삭제"
 
 #v1.14.24
 msgctxt "new_schedule_name"
 msgid "New schedule"
-msgstr "New schedule"
+msgstr "새 스케쥴"
 
 #v1.14.24
 msgctxt "new_shift_placeholder"
@@ -809,7 +809,7 @@ msgstr "보상"
 #v1.1.37
 msgctxt "accounting_pax_intervention"
 msgid "Compen.: intervention"
-msgstr "보상: 기차 재배치"
+msgstr "보상: 열차 재배치"
 
 #v1.1.37
 msgctxt "accounting_pax_lost"
@@ -994,7 +994,7 @@ msgstr "열차 재배치"
 #v1.8.24
 msgctxt "accounting_trains_late_arrival_time"
 msgid "Late arrival >10s"
-msgstr "열차 지연 도착 >10초"
+msgstr "연착 >10초"
 
 #v1.1.37
 msgctxt "accounting_trains_maintenance"
@@ -1164,7 +1164,7 @@ msgstr "Positive color:"
 #v1.13.11
 msgctxt "assets_view_on_map"
 msgid "View on map"
-msgstr "View on map"
+msgstr "지도에서 보기"
 
 #v1.5.41
 msgctxt "auto_clone"
