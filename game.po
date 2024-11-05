@@ -1077,7 +1077,7 @@ msgstr "알림 시 게임 일시중지"
 #v1.4.15
 msgctxt "alerts_pause_game_fastest"
 msgid "Even at fastest speed"
-msgstr "최고 속도에서도"
+msgstr "게임 속도가 최대인 경우에도"
 
 #v1.9.17
 msgctxt "alerts_pause_game_only_0_delay"
@@ -1757,7 +1757,7 @@ msgstr "사용자 지정 최고 속도:"
 #v1.5.31
 msgctxt "constraint_max_speed_tip"
 msgid "Values over physical max track speed will be ignored. Set to 0 to disable custom max speed."
-msgstr "선로의 최대 속도을 초과하는 값은 무시됩니다. 사용자 지정 최대 속도을 사용하지 않도록 설정하려면 0으로 설정하십시오."
+msgstr "선로의 최고 속도을 초과하는 값은 무시됩니다. 사용자 지정 최고 속도을 사용하지 않으려면 0으로 설정하십시오."
 
 #v1.4.22
 msgctxt "constraint_offset"
@@ -3587,7 +3587,7 @@ msgstr "모드: 열차"
 #v1.2.22
 msgctxt "kb_speed_down"
 msgid "Speed down"
-msgstr "속도 감소"
+msgstr "게임 속도 감소"
 
 #v1.2.22
 msgctxt "kb_speed_toggle"
@@ -3597,7 +3597,7 @@ msgstr "일시정지"
 #v1.2.22
 msgctxt "kb_speed_up"
 msgid "Speed up"
-msgstr "속도 증가"
+msgstr "게임 속도 증가"
 
 #v1.2.22
 msgctxt "kb_track_2x"
@@ -3612,7 +3612,7 @@ msgstr "선로: 분기 허용"
 #v1.13.11
 msgctxt "kb_track_build_selection"
 msgid "Tracks: build selection"
-msgstr "Tracks: build selection"
+msgstr "선로: 선택한 부분 건설"
 
 #v1.4.15
 msgctxt "kb_track_building"
@@ -3969,25 +3969,24 @@ msgctxt "lineeditor_creating_new_stop_s1"
 msgid "Click on tracks to set the stop point"
 msgstr “선로를 클릭해 정차 지점을 설정합니다."
 
-#v1.9.17
-msgctxt "lineeditor_creating_new_stop_title"
+#v1.9.1력력
 msgid "Creating new stop"
 msgstr "노선에 정차역 추가"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
 msgid "Cruise speed (km/h):"
-msgstr "운행 속도 (km/h):"
+msgstr "운행 속력 (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_desc"
 msgid "Trains will try to accelerate to and keep this speed while traveling between stops.\nTrains might speed up if they are late."
-msgstr "열차는 가속한 후 이 속도을 유지할 것입니다.\n만약 열차가 지연될 경우 속도을 더 올릴 것입니다."
+msgstr "열차는 가속한 후 이 속력을 유지할 것입니다.\n만약 열차가 지연될 경우 속력을 더 올릴 것입니다."
 
 #v1.5.41
 msgctxt "lineeditor_cruise_speed_ns"
 msgid "Cruise speed:"
-msgstr "운행 속도:"
+msgstr "운행 속력:"
 
 #v1.5.31
 msgctxt "lineeditor_custom_duration"
@@ -4152,7 +4151,7 @@ msgstr "유효 시간:"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_speed"
 msgid "Custom speed (km/h):"
-msgstr "사용자 설정 속도 (km/h):"
+msgstr "사용자 지정 속력 (km/h):"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_custom_time"
@@ -4177,7 +4176,7 @@ msgstr "자동"
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_speed"
 msgid "Custom speed"
-msgstr "사용자 지정 속도"
+msgstr "사용자 지정 속력"
 
 #v1.5.41
 msgctxt "lineeditor_leg_eta_mode_time"
@@ -6517,7 +6516,7 @@ msgstr "만족도"
 #v1.1.72
 msgctxt "rtstat_speed"
 msgid "Speed"
-msgstr "속도"
+msgstr "속력"
 
 #v1.5.31
 msgctxt "run_panel_start"
@@ -7822,7 +7821,7 @@ msgstr "층:"
 #v1.2.29
 msgctxt "track_info_max_speed"
 msgid "Max speed:"
-msgstr "최대 속도:"
+msgstr "최고 속도:"
 
 #v1.2.29
 msgctxt "track_info_multi"
@@ -7877,7 +7876,7 @@ msgstr "가격"
 #v1.2.29
 msgctxt "track_sort_speed"
 msgid "Max. speed"
-msgstr "최대 속도"
+msgstr "최고 속도"
 
 #v1.13.11
 msgctxt "track_station_tools"
@@ -8277,7 +8276,7 @@ msgstr "최대 승객:"
 #v1.1.31
 msgctxt "train_info_max_speed"
 msgid "Max speed:"
-msgstr "최대 속도:"
+msgstr "최대 속력:"
 
 #v1.6.13
 msgctxt "train_info_path_probe"
@@ -8322,7 +8321,7 @@ msgstr "${0:.2}/km, 승객당 ${1:.2}/km"
 #v1.1.31
 msgctxt "train_info_speed"
 msgid "Speed / max:"
-msgstr "속도 / 최대:"
+msgstr "속력 / 최대:"
 
 #v1.1.31
 msgctxt "train_info_status"
