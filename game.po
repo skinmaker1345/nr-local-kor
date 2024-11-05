@@ -109,10 +109,37 @@ msgstr "Schedules"
 #v1.14.24
 msgctxt "plats_grouped"
 msgid "Assume contiguous track segments are a single platform"
-msgstr "Assume contiguous track segments are a single platform"
+msgstr "이어져 있는 선로 부분을 하나의 승강장으로 간주"
 
 #v1.14.24
-msgctxt "plats_show_pa다"
+msgctxt "plats_show_pass_bys"
+msgid "Display passing-by trains"
+msgstr "통과열차 표시"
+
+#v1.14.24
+msgctxt "run_panel_sched2"
+msgid "{0} / {1} / Run {2}"
+msgstr "{0} / {1} / Run {2}"
+
+#v1.14.24
+msgctxt "sched_cell_sub"
+msgid "{} shifts, {} trains"
+msgstr "{} shifts, {} trains"
+
+#v1.14.24
+msgctxt "sched_clone"
+msgid "Clone this schedule"
+msgstr "Clone this schedule"
+
+#v1.14.24
+msgctxt "sched_clone_steal"
+msgid "Clone as editable schedule"
+msgstr "Clone as editable schedule"
+
+#v1.14.24
+msgctxt "sched_editor_auto_line_warn"
+msgid "This schedule is automatically generated"
+msgstr "This schedule is automatically generated"
 
 #v1.14.24
 msgctxt "sched_editor_auto_value"
@@ -427,12 +454,12 @@ msgstr "Stop {}"
 #v1.14.24
 msgctxt "station_tt_stop_pass_by"
 msgid "Passing-by on the way to stop {}"
-msgstr "Passing-by on the way to stop {}"
+msgstr "정차역 {}로 가는 도중에 통과"
 
 #v1.14.24
 msgctxt "train_info_intervention"
 msgid "Train intervention"
-msgstr "Train intervention"
+msgstr "열차 재배치"
 
 #v1.14.24
 msgctxt "train_info_open_editor_sched"
@@ -442,7 +469,7 @@ msgstr "Open shift in schedule editor"
 #v1.14.24
 msgctxt "train_info_open_editor_train"
 msgid "Open train editor"
-msgstr "Open train editor"
+msgstr "열차 편집기 열기"
 
 #v1.14.24
 msgctxt "train_info_status_sched_closed"
