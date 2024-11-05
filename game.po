@@ -3994,7 +3994,7 @@ msgstr "역의 승강장 화살표를 클릭해 노선의 새로운 정차역을
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_s1"
 msgid "Click on tracks to set the stop point"
-msgstr “선로를 클릭해 정차 지점을 설정합니다."
+msgstr "선로를 클릭해 정차 지점을 설정합니다."
 
 #v1.9.1력력
 msgid "Creating new stop"
