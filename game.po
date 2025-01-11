@@ -109,7 +109,7 @@ msgstr "모두"
 #v1.15.16
 msgctxt "station_platform_pick"
 msgid "Platform of:"
-msgstr "다음의 플랫폼:"
+msgstr "플랫폼이 속하는 역:"
 
 #v1.15.16
 msgctxt "station_platform_pick_existing_station"
@@ -743,7 +743,7 @@ msgstr "실시간 업데이트"
 #v1.13.11
 msgctxt "assets_on_map_labels"
 msgid "Labels"
-msgstr "라"
+msgstr "라벨"
 
 #v1.13.11
 msgctxt "assets_on_map_max_radius"
@@ -758,7 +758,7 @@ msgstr "부정적 색상:"
 #v1.13.11
 msgctxt "assets_on_map_pos_color"
 msgid "Positive color:"
-msgstr "긍정적 색:"
+msgstr "긍정적 색상:"
 
 #v1.13.11
 msgctxt "assets_view_on_map"
@@ -1618,7 +1618,7 @@ msgstr "모음집 삭제하기"
 #v1.1.37
 msgctxt "delete_game_tooltip"
 msgid "Move selected game to the trash bin"
-msgstr "선택한 게임을 휴지통으로 옮기세요"
+msgstr "선택한 게임을 휴지통으로 옮기기"
 
 #v1.1.58
 msgctxt "delete_line"
@@ -2343,7 +2343,7 @@ msgstr "서비스 레벨을 전체로 설정하여 이 노선을 승객이 사�
 #v1.14.24
 msgctxt "editor_warn_need_train_acc"
 msgid "Buy and select a train, order a train to auto run this line, or assign it to a shift running this line."
-msgstr "열차를 구입하고 선택한 후, 이 노선을 운행하도록 명령하거나 이 노선을 운행하는 스케줄에 할당시키세요."
+msgstr "열차를 구입하고 선택한 후, 이 노선을 운행하도록 명령하거나 이 노선을 운행하는 스케줄에 할당하세요."
 
 #v1.5.31
 msgctxt "editor_warn_only_trains"
@@ -2908,7 +2908,7 @@ msgstr "승객 수"
 #v1.1.37
 msgctxt "info_table_count_tp"
 msgid "How many pax match this grouping criteria"
-msgstr "이 묶음 기준과 일치하는 승객 수"
+msgstr "이 묶음 기준에 일치하는 승객 수"
 
 #v1.1.31
 msgctxt "info_table_pax_destination"
@@ -2918,7 +2918,7 @@ msgstr "목적지"
 #v1.1.37
 msgctxt "info_table_pax_destination_tp"
 msgid "Destination station"
-msgstr "목적지 역"
+msgstr "승객의 최종 목적지"
 
 #v1.1.37
 msgctxt "info_table_pax_fare"
@@ -2928,7 +2928,7 @@ msgstr "운임"
 #v1.1.37
 msgctxt "info_table_pax_fare_tp"
 msgid "Fare(s) paid so far"
-msgstr "지금까지 지불된 요금"
+msgstr "지금까지 지불한 요금"
 
 #v1.13.11
 msgctxt "info_table_pax_hall"
@@ -2963,12 +2963,12 @@ msgstr "현재 위치"
 #v1.1.37
 msgctxt "info_table_pax_next"
 msgid "Next stop"
-msgstr "다음 정차"
+msgstr "하차역"
 
 #v1.1.37
 msgctxt "info_table_pax_next_tp"
 msgid "Next stop station"
-msgstr "다음 정차역"
+msgstr "이 열차에서 하차하는 역"
 
 #v1.1.31
 msgctxt "info_table_pax_origin"
@@ -2978,7 +2978,7 @@ msgstr "출발지"
 #v1.1.37
 msgctxt "info_table_pax_origin_tp"
 msgid "Origin station"
-msgstr "출발 역"
+msgstr "승객의 첫 출발역"
 
 #v1.1.31
 msgctxt "info_table_pax_sax"
@@ -2988,7 +2988,7 @@ msgstr "만족도"
 #v1.1.37
 msgctxt "info_table_pax_sax_tp"
 msgid "Satisfaction"
-msgstr "만족"
+msgstr "만족도"
 
 #v1.1.31
 msgctxt "info_table_pax_total"
@@ -3008,17 +3008,17 @@ msgstr "다음 대기중:"
 #v1.5.31
 msgctxt "info_table_pax_waiting_tp"
 msgid "Expected to depart with this line and stop number, based on timetables"
-msgstr "시간표에 기반해, 이 노선에서 출발할 것으로 예상됩니다."
+msgstr "시간표에 따라 이 노선의 정차역에서 출발할 것으로 예상됨"
 
 #v1.12.11
 msgctxt "info_table_station_city_tp"
 msgid "Group by city"
-msgstr "도시 별 묶음"
+msgstr "도시별 묶음"
 
 #v1.12.11
 msgctxt "info_table_station_dist_tp"
 msgid "Sort by distance"
-msgstr "거리 순 정렬"
+msgstr "거리순 정렬"
 
 #v1.1.31
 msgctxt "info_train_pax"
@@ -4198,7 +4198,7 @@ msgstr "역 갱신 중, {} 남음"
 #v1.5.31
 msgctxt "loader_timetables_init"
 msgid "Initializing timetables"
-msgstr "시간표 생성중"
+msgstr "시간표 생성 중"
 
 #v1.4.15
 msgctxt "loader_tracks_n"
@@ -5631,7 +5631,7 @@ msgstr "구식의 데이터가 감지되어 단계를 건너뜁니다"
 #v1.5.31
 msgctxt "pax_new_time"
 msgid "New"
-msgstr "새로운"
+msgstr "새 승객"
 
 #v1.1.31
 msgctxt "pax_tab"
@@ -5671,7 +5671,7 @@ msgstr "주로 이동하는 경로 표시"
 #v1.1.37
 msgctxt "paxlist_groupby_next"
 msgid "Group by next stop"
-msgstr "다음 역으로 묶어 보기"
+msgstr "하차역으로 묶어 보기"
 
 #v1.1.31
 msgctxt "paxlist_groupby_none"
@@ -5686,7 +5686,7 @@ msgstr "출발지별로 묶어 보기"
 #v1.5.31
 msgctxt "paxlist_groupby_plan"
 msgid "Show best current trip"
-msgstr "이동경로 보기"
+msgstr "이동 경로 보기"
 
 #v1.5.31
 msgctxt "paxlist_groupby_waiting"
@@ -5741,7 +5741,7 @@ msgstr "VSync로 제한됨"
 #v1.11.14
 msgctxt "perf_linenet_threads"
 msgid "Timetable CPU threads:"
-msgstr "시간표 CPU 스레드 수 CPU:"
+msgstr "시간표 CPU 스레드 수:"
 
 #v1.11.14
 msgctxt "perf_sim_threads"
@@ -5866,7 +5866,7 @@ msgstr "통과열차 표시"
 #v1.14.24
 msgctxt "plats_stacked_lines"
 msgid "Single column for all events of a given platform"
-msgstr "Single column for all events of a given platform"
+msgstr "동일 승강장에서의 이벤트를 한 줄로 표시"
 
 #v1.3.13
 msgctxt "plots_button_tp"
@@ -6066,7 +6066,7 @@ msgstr "게임으로 돌아가기"
 #v1.1.72
 msgctxt "ridership"
 msgid "Ridership"
-msgstr "모든 열차에 탑승해 있는 승객의 합"
+msgstr "열차에 탑승해 있는 승객"
 
 #v1.1.72
 msgctxt "right_bar_assets"
@@ -6286,12 +6286,12 @@ msgstr "만족도: {:.2f}"
 #v1.2.22
 msgctxt "sax_tooltip2"
 msgid "{0}\nNeutral at {1}, ${2:.2f}"
-msgstr "{0} ({1}에 보통, ${2:.2f})"
+msgstr "{0} (보통 {1}에 ${2:.2f})"
 
 #v1.1.37
 msgctxt "sax_tooltip_new"
 msgid "Expects {0}, ${1:.2f}"
-msgstr "예상:{0}, ${1:.2f}"
+msgstr "예상: {0}에 ${1:.2f}"
 
 #v1.1.31
 msgctxt "scaling_mode"
@@ -6311,7 +6311,7 @@ msgstr "{} shifts, {} trains"
 #v1.14.24
 msgctxt "sched_clone"
 msgid "Clone this schedule"
-msgstr "Clone this schedule"
+msgstr "이 스케줄 복제"
 
 #v1.14.24
 msgctxt "sched_clone_steal"
@@ -6371,7 +6371,7 @@ msgstr "열차:"
 #v1.14.24
 msgctxt "sched_editor_tab_basics"
 msgid "Basics"
-msgstr "Basics"
+msgstr "기초"
 
 #v1.14.24
 msgctxt "sched_editor_tab_offsets"
@@ -6381,7 +6381,7 @@ msgstr "오프셋"
 #v1.14.24
 msgctxt "sched_editor_tab_orders"
 msgid "Orders"
-msgstr "Orders"
+msgstr "명령"
 
 #v1.14.24
 msgctxt "sched_editor_tab_timetable"
@@ -6391,7 +6391,7 @@ msgstr "시간표"
 #v1.14.24
 msgctxt "sched_group_interval_n_shifts"
 msgid "{0}, {1} shifts"
-msgstr "{0}, {1} shifts"
+msgstr "{0}, {1}회의 운행"
 
 #v1.14.24
 msgctxt "sched_list_auto_scheds"
@@ -6436,7 +6436,7 @@ msgstr "Order list:"
 #v1.14.24
 msgctxt "sched_shift_clone"
 msgid "Clone this shift"
-msgstr "Clone this shift"
+msgstr "이 운행 복제"
 
 #v1.14.24
 msgctxt "sched_shift_train_link_train_editor"
@@ -6501,7 +6501,7 @@ msgstr "Service level:"
 #v1.14.24
 msgctxt "schededitor_service_level_closed"
 msgid "Closed"
-msgstr "Closed"
+msgstr "폐쇄"
 
 #v1.14.24
 msgctxt "schededitor_service_level_full"
@@ -6796,7 +6796,7 @@ msgstr "저장된 게임 업로드 {}% 완료"
 #v1.14.24
 msgctxt "shift_auto_name_missing_train"
 msgid "Unassigned"
-msgstr "Unassigned"
+msgstr "할당되지 않음"
 
 #v1.4.15
 msgctxt "show_all_clips"
@@ -7186,7 +7186,7 @@ msgstr "출발역"
 #v1.14.24
 msgctxt "station_timetable_open_in_sched"
 msgid "Click to open in schedule editor"
-msgstr "Click to open in schedule editor"
+msgstr "클릭하여 스케줄 에디터에서 열기"
 
 #v1.13.11
 msgctxt "station_transfer_overflow_into_hall"
@@ -7201,7 +7201,7 @@ msgstr "(변경) 인원 초과"
 #v1.14.24
 msgctxt "station_tt_stop_ignored"
 msgid "Ignored by pax"
-msgstr "Ignored by pax"
+msgstr "승객에 의해 무시됨"
 
 #v1.14.24
 msgctxt "station_tt_stop_info"
@@ -9206,7 +9206,7 @@ msgstr "VSync:"
 #v1.12.11
 msgctxt "waiting_at_station"
 msgid "Waiting at station"
-msgstr "역에서 대기 중"
+msgstr "역에서 대기 중인 승객"
 
 #v1.5.31
 msgctxt "waiting_expired"
