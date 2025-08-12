@@ -673,7 +673,7 @@ msgstr "거부됨"
 #v1.1.31
 msgctxt "acl_friend_action"
 msgid "If an uninvited friend wants to join:"
-msgstr "초대받지 않은 친구 플레이어가 참여를 원하는 경우: "
+msgstr "초대받지 않은 스팀 친구가 참여를 원하는 경우: "
 
 #v1.1.31
 msgctxt "acl_pending"
@@ -1068,7 +1068,7 @@ msgstr "최대 확대:"
 #v1.4.15
 msgctxt "building_platform_footprint_extension"
 msgid "[*] Platform footprint extension"
-msgstr "[*] 플랫폼 확장"
+msgstr "[*] 플랫폼 범위 확장"
 
 #v1.12.11
 msgctxt "building_poi_curve"
@@ -1128,7 +1128,7 @@ msgstr "활성화"
 #v1.5.31
 msgctxt "bulk_label_mode"
 msgid "Station label:"
-msgstr "역 높이:"
+msgstr "역 이름표:"
 
 #v1.1.31
 msgctxt "cancel"
@@ -1408,17 +1408,17 @@ msgstr "평행 오프셋:"
 #v1.9.17
 msgctxt "constraint_offset2_add"
 msgid "Add"
-msgstr "Add"
+msgstr "합"
 
 #v1.9.17
 msgctxt "constraint_offset2_mul"
 msgid "Mul"
-msgstr "Mul"
+msgstr "곱"
 
 #v1.9.17
 msgctxt "constraint_offset2_set"
 msgid "Set"
-msgstr "Set"
+msgstr "일괄"
 
 #v1.2.22
 msgctxt "constraint_pick"
@@ -2778,12 +2778,12 @@ msgstr "많은 수의 역과 열차를 포함한 큰 규모의 건설은 멀티�
 #v1.6.13
 msgctxt "host_server_bad_ip"
 msgid "Cannot detect public IP, use Steam Relay"
-msgstr "공용 IP를 감지할 수 없습니다. Steam Relay를 이용하세요."
+msgstr "공개 IP를 감지할 수 없습니다. Steam Relay를 이용하세요."
 
 #v1.6.13
 msgctxt "host_server_direct_warn"
 msgid "Your PC or router must have a direct connection to the internet with a public IP. You must forward UDP port {} in your router to your PC and set up your firewall to allow connections. VPNs, proxies and CG-NAT will defeat this feature. Weird and Wry cannot offer technical support if this feature does not work for your connection."
-msgstr "PC 또는 라우터가 공용 IP로 인터넷에 직접 연결되어 있어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시 및 CG-NAT은 이 기능을 지원하지 않습니다. 이 기능이 당신의 연결에 작동하지 않는 경우 Weird and Wry는 기술 지원을 제공할 수 없습니다."
+msgstr "PC 또는 라우터가 공개 IP로 인터넷에 직접 연결되어 있어야 합니다. PC의 방화벽 설정과 공유기의 포트 포워딩으로 UDP 포트 {}(을)를 개방하여 연결이 가능하도록 만들어주세요. VPN, 프록시 및 CG-NAT은 이 기능을 지원하지 않습니다. 이 기능이 당신의 연결에 작동하지 않는 경우 Weird and Wry는 기술 지원을 제공할 수 없습니다."
 
 #v1.6.13
 msgctxt "host_server_ipv4"
@@ -3323,7 +3323,7 @@ msgstr "노선이 폐쇄되었습니다."
 #v1.5.41
 msgctxt "line_alert_invalid_legs"
 msgid "Contains invalid path(s)"
-msgstr "비정상적인 경로를 포함하고 있습니다."
+msgstr "올바르지 않은 경로를 포함하고 있습니다."
 
 #v1.1.31
 msgctxt "line_error_no_path_between_stops"
@@ -3333,7 +3333,7 @@ msgstr "경로를 찾을 수 없습니다!"
 #v1.1.31
 msgctxt "line_error_no_path_to_start"
 msgid "Cannot find path to start of line!"
-msgstr "노선의 시작 경로를 찾을 수 없습니다!"
+msgstr "노선의 시작 지점으로 가는 경로를 찾을 수 없습니다!"
 
 #v1.3.13
 msgctxt "line_list_group_all"
@@ -3348,7 +3348,7 @@ msgstr "묶어 보기: 태그 없음"
 #v1.3.13
 msgctxt "line_list_group_tags"
 msgid "Group by: Tags"
-msgstr "묶어 보기: 태그"
+msgstr "묶어 보기: 태그로"
 
 #v1.1.31
 msgctxt "line_n_stops"
@@ -3398,7 +3398,7 @@ msgstr "사용자 지정 노선 운행 기간이 너무 짧아 무시됩니다."
 #v1.7.15
 msgctxt "line_warn_no_custom_duration_stops"
 msgid "Custom or fit duration mode needs at least one stop with some wait time after the last fixed departure stop"
-msgstr "사용자 지정 모드 또는 적절한 소요 시간 모드에는 마지막 고정 출발역 이후 대기 시간과 함께 하나 이상의 역이 필요합니다."
+msgstr "사용자 지정 모드 또는 소요 시간 맞추기 모드에는 마지막 고정 출발역 이후 대기 시간과 함께 하나 이상의 역이 필요합니다."
 
 #v1.7.15
 msgctxt "line_warn_unachievable_fixed_departure"
@@ -3533,7 +3533,7 @@ msgstr "노선에 정차역 추가"
 #v1.9.17
 msgctxt "lineeditor_creating_new_stop_title"
 msgid "Creating new stop"
-msgstr "Creating new stop"
+msgstr "새 정차역 만드는 중"
 
 #v1.2.22
 msgctxt "lineeditor_cruise_speed"
@@ -3643,7 +3643,7 @@ msgstr "하루"
 #v1.5.31
 msgctxt "lineeditor_duration_period_week"
 msgid "Week"
-msgstr "주"
+msgstr "1주"
 
 #v1.5.31
 msgctxt "lineeditor_duration_waiters"
@@ -3658,7 +3658,7 @@ msgstr "모든 역에 균등하게"
 #v1.5.31
 msgctxt "lineeditor_duration_waiters_custom"
 msgid "Manually picked stops"
-msgstr "선택한 역들에만 추가 정차"
+msgstr "지정한 역들에만 추가 정차"
 
 #v1.9.17
 msgctxt "lineeditor_facing_tip"
@@ -3908,7 +3908,7 @@ msgstr "고정된 출발"
 #v1.11.14
 msgctxt "lineeditor_stop_no_pax_behavior"
 msgid "Not board or disembark"
-msgstr "Not board or disembark"
+msgstr "타거나 내리지 않음"
 
 #v1.5.31
 msgctxt "lineeditor_stop_panel_editor2"
@@ -4158,7 +4158,7 @@ msgstr "공유된 게임 파일을 다운로드하는 데 실패했습니다."
 #v1.9.17
 msgctxt "loader_legacy_rebuild_19"
 msgid "Rebuilding pre-1.9 tracks"
-msgstr "pre-1.9 버전의 선로로 재건설 중"
+msgstr "1.9 버전 이전의 선로 재구성 중"
 
 #v1.6.13
 msgctxt "loader_loading_db"
@@ -4313,7 +4313,7 @@ msgstr "로컬 모드 업로드: "
 #v1.1.31
 msgctxt "lonely_station"
 msgid "Lonely Station"
-msgstr "단일 역사"
+msgstr "외로운 역"
 
 #v1.1.31
 msgctxt "main_options"
@@ -4353,7 +4353,7 @@ msgstr "영어"
 #v1.1.31
 msgctxt "map_names_native"
 msgid "Native"
-msgstr "현지화"
+msgstr "현지 언어"
 
 #v1.1.31
 msgctxt "map_names_prio"
@@ -4603,12 +4603,12 @@ msgstr "구독한 모든 모드"
 #v1.1.37
 msgctxt "mod_panel_steamworks"
 msgid "Subscribe to new mods in the Workshop"
-msgstr "Workshop에서 새 모드를 구독하세요"
+msgstr "창작마당에서 새 모드 구독하기"
 
 #v1.12.11
 msgctxt "mod_poi_layer_options_title"
 msgid "Mod POI layer options"
-msgstr "관심지점 계층 설정 수정(모드)"
+msgstr "관심지점 모드 레이어 설정"
 
 #v1.7.15
 msgctxt "mod_remove_all_orphaned"
@@ -5078,7 +5078,7 @@ msgstr "플랫폼 이름"
 #v1.13.11
 msgctxt "mvo_user_poi_labels"
 msgid "User POI labels"
-msgstr "사용자 POI 라벨"
+msgstr "사용자 관심지점 라벨"
 
 #v1.2.22
 msgctxt "mvo_user_signals"
@@ -5098,7 +5098,7 @@ msgstr "역 아이콘"
 #v1.1.37
 msgctxt "mvo_user_station_names"
 msgid "Station names"
-msgstr "열차 이름"
+msgstr "역 이름"
 
 #v1.10.16
 msgctxt "mvo_user_track_depth"
@@ -5108,7 +5108,7 @@ msgstr "트랙 레이어에 대한 지도"
 #v1.10.16
 msgctxt "mvo_user_track_depth_bridge"
 msgid "Map bridges over track layers"
-msgstr "트랙 레이어 위에 교량 매핑"
+msgstr "트랙 레이어 위에 교량 그리기"
 
 #v1.1.37
 msgctxt "mvo_user_train_counters"
@@ -5128,7 +5128,7 @@ msgstr "내 모음집"
 #v1.7.15
 msgctxt "my_shared_games"
 msgid "My shared games"
-msgstr "공유한 내 게임"
+msgstr "내 공유한 게임"
 
 #v1.3.13
 msgctxt "name"
@@ -5153,7 +5153,7 @@ msgstr "새 게임 설정"
 #v1.2.22
 msgctxt "new_key_tip"
 msgid "Press new key or backspace to clear"
-msgstr "새로 할당할 키를 누르세요. 기존 키를 제외하려면 백스페이스를 누르세요."
+msgstr "새로 할당할 키를 누르세요. 비워두려면 백스페이스를 누르세요."
 
 #v1.1.31
 msgctxt "new_loan"
@@ -5183,7 +5183,7 @@ msgstr "새 스케쥴"
 #v1.14.24
 msgctxt "new_shift_placeholder"
 msgid "< Create new shift >"
-msgstr "< Create new shift >"
+msgstr "< 새 시프트 만들기 >"
 
 #v1.13.11
 msgctxt "new_station_defaults"
@@ -5282,7 +5282,7 @@ msgstr "GeoJSON 내보내기"
 #v1.12.11
 msgctxt "option_company_mod_poi_layer_editor"
 msgid "Mod POI layer options"
-msgstr "관심지점 계층 설정 수정(모드)"
+msgstr "관심지점 모드 레이어 설정"
 
 #v1.1.31
 msgctxt "option_company_name"
@@ -5292,7 +5292,7 @@ msgstr "회사명: "
 #v1.5.31
 msgctxt "option_company_parallel_offset"
 msgid "New track par. off.:"
-msgstr "새 병렬 노선 간격:"
+msgstr "새로 지어지는 평행 선로 간격:"
 
 #v1.11.14
 msgctxt "option_company_pax_pf_bias"
@@ -5332,7 +5332,7 @@ msgstr "최소도보, 최적경로"
 #v1.13.11
 msgctxt "option_company_station_label"
 msgid "Station label:"
-msgstr "새 역의 높이:"
+msgstr "새 역 이름표:"
 
 #v1.1.72
 msgctxt "option_company_switch_no_cash"
@@ -5367,7 +5367,7 @@ msgstr "단순화"
 #v1.11.14
 msgctxt "option_company_time_zones_zero"
 msgid "Always 0"
-msgstr "항상 0"
+msgstr "항상 UTC+0"
 
 #v1.1.31
 msgctxt "option_no_cash"
@@ -5407,7 +5407,7 @@ msgstr "인터페이스"
 #v1.2.22
 msgctxt "options_keybinds"
 msgid "Keybinds"
-msgstr "키할당"
+msgstr "조작"
 
 #v1.10.16
 msgctxt "options_map"
@@ -5417,7 +5417,7 @@ msgstr "지도"
 #v1.1.31
 msgctxt "options_mods_upload"
 msgid "Uploader"
-msgstr "업로더"
+msgstr "모드 업로더"
 
 #v1.11.14
 msgctxt "options_performance"
@@ -5433,6 +5433,7 @@ msgstr "비어있는 노선"
 msgctxt "order_error_invalid_line"
 msgid "Invalid line"
 msgstr "유효하지 않은 노선"
+
 #v1.14.24
 msgctxt "order_error_line_invalid_ref_train"
 msgid "Line has empty or invalid reference train\nAssign a train to a shift running this order, or as autorun, to generate line timings"
@@ -5446,12 +5447,12 @@ msgstr "이전 명령과 다음 명령 사이에 운행 시간이 맞지 않습�
 #v1.5.41
 msgctxt "order_error_two_arrival_by"
 msgid "Arrive No Later orders cannot appear one after the other"
-msgstr "'다음보다 늦지 않게' 명령이 연속해서 나타날 수 없습니다."
+msgstr "'다음보다 늦지 않게' 명령이 두 번 이상 연속해서 나타날 수 없습니다."
 
 #v1.13.11
 msgctxt "order_error_unpowered_train"
 msgid "Underpowered train"
-msgstr "동력이 부족한 열차"
+msgstr "동력 없는 열차"
 
 #v1.14.24
 msgctxt "order_group_idx"
@@ -5521,7 +5522,7 @@ msgstr "시"
 #v1.1.31
 msgctxt "osm_admin_level_7"
 msgid "Metro"
-msgstr "지하철"
+msgstr "광역권"
 
 #v1.1.31
 msgctxt "osm_admin_level_8"
@@ -5536,17 +5537,17 @@ msgstr "구"
 #v1.1.31
 msgctxt "overpass_n_0"
 msgid "0 overpasses"
-msgstr "0 고가선로"
+msgstr "다리 0개"
 
 #v1.1.31
 msgctxt "overpass_n_1"
 msgid "1 overpass"
-msgstr "1 고가선로"
+msgstr "다리 1개"
 
 #v1.1.31
 msgctxt "overpass_n_many"
 msgid "%d overpasses"
-msgstr "%d 고가선로"
+msgstr "다리 %d개"
 
 #v1.1.31
 msgctxt "overwrite"
@@ -5611,7 +5612,7 @@ msgstr " {0}의 출발을 기다리는 중 [{1}]"
 #v1.13.11
 msgctxt "path2_walk"
 msgid "Walk for {}"
-msgstr "Walk for {}"
+msgstr "{} 동안 걷기"
 
 #v1.5.31
 msgctxt "path_not_found_trip"
@@ -5626,7 +5627,7 @@ msgstr "승객의 다음 역부터 경로가 시작됩니다."
 #v1.5.31
 msgctxt "path_stale_warn"
 msgid "Stale data detected, ignoring step"
-msgstr "구식의 데이터가 감지되어 단계를 건너뜁니다"
+msgstr "과거 데이터가 감지되어 단계를 건너뜁니다"
 
 #v1.5.31
 msgctxt "pax_new_time"
@@ -5791,12 +5792,12 @@ msgstr "최근"
 #v1.14.24
 msgctxt "picker_mode_schedule_tags"
 msgid "Schedule tags"
-msgstr "Schedule tags"
+msgstr "운행 태그"
 
 #v1.14.24
 msgctxt "picker_mode_schedules"
 msgid "Schedules"
-msgstr "Schedules"
+msgstr "운행"
 
 #v1.5.41
 msgctxt "picker_mode_tags"
@@ -5816,7 +5817,7 @@ msgstr "자동으로 건물 기초 추가"
 #v1.4.15
 msgctxt "plat_buildings_floor"
 msgid "Auto append building floors and ceiling"
-msgstr "자동으로 건물 바닥과 천장 추가"
+msgstr "자동으로 건물 바닥과 지붕 추가"
 
 #v1.4.15
 msgctxt "plat_curved"
@@ -5836,7 +5837,7 @@ msgstr "승강장"
 #v1.14.24
 msgctxt "plats_grouped"
 msgid "Assume contiguous track segments are a single platform"
-msgstr "이어져 있는 선로 부분을 하나의 승강장으로 간주"
+msgstr "이어져 있는 선로 부분을 하나의 승강장으로 표기"
 
 #v1.4.15
 msgctxt "plats_n_0"
@@ -5866,7 +5867,7 @@ msgstr "통과열차 표시"
 #v1.14.24
 msgctxt "plats_stacked_lines"
 msgid "Single column for all events of a given platform"
-msgstr "동일 승강장에서의 이벤트를 한 줄로 표시"
+msgstr "같은 승강장에서의 이벤트를 한 줄로 표시"
 
 #v1.3.13
 msgctxt "plots_button_tp"
@@ -6316,12 +6317,12 @@ msgstr "이 스케줄 복제"
 #v1.14.24
 msgctxt "sched_clone_steal"
 msgid "Clone as editable schedule"
-msgstr "Clone as editable schedule"
+msgstr "편집 가능한 스케쥴로 복제"
 
 #v1.14.24
 msgctxt "sched_editor_auto_line_warn"
 msgid "This schedule is automatically generated"
-msgstr ""
+msgstr "이 스케쥴은 자동으로 생성되었습니다"
 
 #v1.14.24
 msgctxt "sched_editor_auto_value"
@@ -6391,7 +6392,7 @@ msgstr "시간표"
 #v1.14.24
 msgctxt "sched_group_interval_n_shifts"
 msgid "{0}, {1} shifts"
-msgstr "{0}, {1}회의 운행"
+msgstr "{0}, {1}회의 스케쥴"
 
 #v1.14.24
 msgctxt "sched_list_auto_scheds"
@@ -8141,7 +8142,7 @@ msgstr "고정 간격"
 #v1.5.31
 msgctxt "train_group_mode_line"
 msgid "Evenly over line duration"
-msgstr "노선 운행 기간으로 그룹화"
+msgstr "노선 운행 시간으로 그룹화"
 
 #v1.5.31
 msgctxt "train_group_mode_manual_duration"
@@ -8301,7 +8302,7 @@ msgstr "최대 속력:"
 #v1.14.24
 msgctxt "train_info_open_editor_sched"
 msgid "Open shift in schedule editor"
-msgstr "Open shift in schedule editor"
+msgstr "스케쥴 편집기에서 운행 열기"
 
 #v1.14.24
 msgctxt "train_info_open_editor_train"
@@ -8396,7 +8397,7 @@ msgstr "목적지까지의 경로가 없음"
 #v1.14.24
 msgctxt "train_info_status_sched_closed"
 msgid "Schedule is closed"
-msgstr "Schedule is closed"
+msgstr "스케쥴이 운행 중단됨"
 
 #v1.3.13
 msgctxt "train_info_status_signal_wait"
@@ -8466,7 +8467,7 @@ msgstr "경고"
 #v1.6.13
 msgctxt "train_list_filter_alert_stale"
 msgid "Stale"
-msgstr "과거 시간표대로 움직임"
+msgstr "과거 시간표대로 움직이는 중"
 
 #v1.8.24
 msgctxt "train_list_filter_alert_waiting_spawn"
@@ -8486,12 +8487,12 @@ msgstr "전체"
 #v1.14.24
 msgctxt "train_list_filter_autorun"
 msgid "Only with line autorun"
-msgstr "Only with line autorun"
+msgstr "노선 자동 운행중인 열차만"
 
 #v1.14.24
 msgctxt "train_list_filter_autorun_short"
 msgid "Autorun"
-msgstr "Autorun"
+msgstr "자동 운행"
 
 #v1.1.37
 msgctxt "train_list_filter_by_line"
@@ -8526,7 +8527,7 @@ msgstr "묶어 보지 않기"
 #v1.14.24
 msgctxt "train_list_filter_manual"
 msgid "Only with schedule"
-msgstr "Only with schedule"
+msgstr "시간표가 있는 열차만"
 
 #v1.14.24
 msgctxt "train_list_filter_manual_short"
@@ -8576,17 +8577,17 @@ msgstr "노선 자동 운행:"
 #v1.14.24
 msgctxt "train_orders_keep_group"
 msgid "< Keep current group >"
-msgstr "< Keep current group >"
+msgstr "< 기존 그룹 유지하기 >"
 
 #v1.5.31
 msgctxt "train_orders_keep_line"
 msgid "< Keep current line >"
-msgstr "< 기존 노선 지키기 >"
+msgstr "< 기존 노선 유지하기 >"
 
 #v1.14.24
 msgctxt "train_orders_mass_sched"
 msgid "Trains will be assigned to existing unassigned shifts. New shifts will be created for any remaining trains."
-msgstr "Trains will be assigned to existing unassigned shifts. New shifts will be created for any remaining trains."
+msgstr "이미 있는 운행 중 열차가 없는 운행에 할당됩니다. 열차가 남는다면 새 운행을 생성합니다."
 
 #v1.5.31
 msgctxt "train_orders_mode"
@@ -8656,17 +8657,17 @@ msgstr "선택 초기화"
 #v1.14.24
 msgctxt "train_orders_sched_purchase_new"
 msgid "Create new schedule"
-msgstr "Create new schedule"
+msgstr "새 스케쥴 만들기"
 
 #v1.14.24
 msgctxt "train_orders_sched_short"
 msgid "Schedule:"
-msgstr "Schedule:"
+msgstr "스케쥴:"
 
 #v1.14.24
 msgctxt "train_orders_shift_short"
 msgid "Shift:"
-msgstr "Shift:"
+msgstr "운행:"
 
 #v1.7.15
 msgctxt "train_price"
@@ -8716,7 +8717,7 @@ msgstr "차량이 너무 많습니다"
 #v1.7.15
 msgctxt "train_recompo_error_unpowered"
 msgid "Unpowered"
-msgstr "무동력차"
+msgstr "동력 없음"
 
 #v1.7.15
 msgctxt "train_recompo_price"
@@ -9086,17 +9087,17 @@ msgstr "Steamworks에 접속하는 데 오류가 발생했습니다."
 #v1.1.31
 msgctxt "ugc_error_logged"
 msgid "Must be logged into Steam to perform this action"
-msgstr "이 작업을 수행하려면 Steam에 로그인해야 합니다."
+msgstr "이 작업을 수행하려면 스팀에 로그인해야 합니다."
 
 #v1.1.31
 msgctxt "ugc_error_priv"
 msgid "Not enough privileges with the current user account in Steam"
-msgstr "로그인한 Steam 유저에게 권한이 부족합니다."
+msgstr "로그인한 스팀 유저에게 권한이 부족합니다."
 
 #v1.1.31
 msgctxt "ugc_error_timeout"
 msgid "Timeout while connecting with Steam"
-msgstr "Steam에 접속하는 중 시간이 초과했습니다."
+msgstr "스팀에 접속하는 중 시간이 초과했습니다."
 
 #v1.1.31
 msgctxt "ugc_some_rule_req"
@@ -9191,7 +9192,7 @@ msgstr "신호기 불빛 묘사"
 #v1.1.31
 msgctxt "view_in_workshop"
 msgid "View in Workshop"
-msgstr "Workshop에서 보기"
+msgstr "창작마당에서 보기"
 
 #v1.1.31
 msgctxt "visibility"
@@ -9366,7 +9367,7 @@ msgstr "추가 언어"
 #v1.1.31
 msgctxt "wrong_length"
 msgid "wrong length"
-msgstr "알맞지 않은 길이"
+msgstr "길이가 너무 길거나 짧음"
 
 #v1.1.37
 msgctxt "wrong_protocol_desc"
